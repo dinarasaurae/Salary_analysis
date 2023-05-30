@@ -1,0 +1,1254 @@
+timestamp,age,gender,city,position,experience,seniority_level,main_technology,other_technologies,main_language,company_size,company_type,covid_job_loss,salary_last_year,net_salary
+24/11/2020 11:14:15,26.0,Male,Munich,Software Engineer,5,Senior,TypeScript,"Kotlin, Javascript / Typescript",English,51-100,Product,No,85000.0,85000.0
+24/11/2020 11:14:16,26.0,Male,Berlin,Backend Developer,7,Senior,Ruby,0,English,101-1000,Product,No,87000.0,80000.0
+24/11/2020 11:14:21,29.0,Male,Berlin,Software Engineer,12,Lead,Javascript / Typescript,"Javascript / Typescript, Docker",English,101-1000,Product,Yes,200000.0,240000.0
+24/11/2020 11:15:24,28.0,Male,Berlin,Frontend Developer,4,Junior,Javascript,0,English,51-100,Startup,No,0.0,54000.0
+24/11/2020 11:15:46,37.0,Male,Berlin,Backend Developer,17,Senior,C# .NET,".NET, SQL, AWS, Docker",English,101-1000,Product,No,62000.0,62000.0
+24/11/2020 11:15:53,32.0,Male,Berlin,DevOps,5,Senior,"AWS, GCP, Python,K8s","Python, AWS, Google Cloud, Kubernetes, Docker",English,11-50,Startup,No,81000.0,81000.0
+24/11/2020 11:16:35,37.0,Male,Berlin,Frontend Developer,6,Middle,Javascript,0,English,11-50,Product,No,0.0,57000.0
+24/11/2020 11:16:44,24.0,Male,Berlin,Frontend Developer,5,Senior,Typescript,Javascript / Typescript,English,1000+,Product,No,65000.0,65000.0
+24/11/2020 11:17:24,29.0,Male,Berlin,Backend Developer,8,Senior,PHP,"SQL, AWS, Docker",English,101-1000,Product,No,55000.0,56000.0
+24/11/2020 11:17:50,35.0,Male,Berlin,Software Engineer,15,Lead,Java,0,English,101-1000,Product,No,90000.0,95000.0
+24/11/2020 11:18:06,32.0,Female,Hamburg,Data Engineer,2,Junior,Aws Hadoop Postgre Typescript,"Python, Kotlin, Javascript / Typescript, SQL, AWS",German,101-1000,Consulting / Agency,No,52500.0,52500.0
+24/11/2020 11:18:16,0.0,Male,Berlin,Software Engineer,25,Senior,C++,"Python, C/C++, SQL",English,11-50,Product,Yes,93000.0,100101.0
+24/11/2020 11:18:22,0.0,0,Berlin,Software Engineer,0,Lead,PHP,0,English,1000+,0,No,0.0,130000.0
+24/11/2020 11:18:26,34.0,Male,Berlin,Software Engineer,14,Senior,Typescript,"PHP, Javascript / Typescript, AWS",English,11-50,Startup,No,0.0,70000.0
+24/11/2020 11:18:40,28.0,Male,Berlin,Designer (UI/UX),11,Senior,0,0,English,1000+,Product,Yes,66000.0,84400.0
+24/11/2020 11:18:41,31.0,Male,Wolfsburg,Backend Developer,5,Senior,Kotlin,0,English,101-1000,Consulting / Agency,No,77000.0,77000.0
+24/11/2020 11:18:52,29.0,Male,Hamburg,Backend Developer,7,Middle,Ruby,"Go, Kubernetes, Docker",English,1000+,Product,No,58500.0,60350.0
+24/11/2020 11:19:10,41.0,Male,Berlin,Product Manager,18,Senior,0,SQL,English,51-100,Startup,Yes,100000.0,78000.0
+24/11/2020 11:20:03,27.0,Male,Berlin,Backend Developer,8,Senior,PHP,0,English,1000+,Product,No,55000.0,60000.0
+24/11/2020 11:20:49,34.0,Male,Berlin,Mobile Developer,11,Lead,kotlin,"Kotlin, Javascript / Typescript, AWS, Google Cloud, Kubernetes, Docker",English,101-1000,Product,No,150000.0,160000.0
+24/11/2020 11:21:10,34.0,Male,Berlin,DevOps,13,Senior,0,0,English,1000+,Product,other,90000.0,103000.0
+24/11/2020 11:21:18,34.0,Male,Berlin,Software Architect,15,Lead,NodeJS,"Javascript / Typescript, SQL, Go, AWS, Kubernetes, Docker, Terraform",English,1000+,Product,No,99000.0,100000.0
+24/11/2020 11:22:57,25.0,Male,Berlin,Software Engineer,5,Senior,Javascript,"Javascript / Typescript, AWS, Docker",German,1000+,Product,No,0.0,65000.0
+24/11/2020 11:23:11,59.0,Male,Berlin,Backend Developer,30,Senior,Java,"Kotlin, Java / Scala, SQL",German,101-1000,Product,No,71000.0,69000.0
+24/11/2020 11:23:53,36.0,Male,Berlin,Software Engineer,17,Lead,PHP,"Python, C/C++, Javascript / Typescript, SQL, Go, AWS, Docker",English,101-1000,Product,No,65000.0,70000.0
+24/11/2020 11:25:03,38.0,Male,Berlin,Team Lead,18,Lead,iOS,"Swift, AWS",English,101-1000,Product,Yes,82000.0,84000.0
+24/11/2020 11:25:20,24.0,Male,Berlin,DevOps,6,Senior,Kubernetes,"Python, AWS, Google Cloud, Kubernetes, Docker",English,101-1000,Product,No,63000.0,85000.0
+24/11/2020 11:25:32,37.0,Male,Berlin,Test manager,6,Middle,Charles,0,German,1000+,Media,No,45000.0,48400.0
+24/11/2020 11:25:35,0.0,Male,Berlin,DevOps,14,Senior,0,"Python, Go, AWS, Kubernetes, Docker",English,101-1000,Product,No,65000.0,74000.0
+24/11/2020 11:26:16,40.0,Male,Berlin,Product Manager,13,Senior,SQL,Python,English,101-1000,Product,No,0.0,70000.0
+24/11/2020 11:26:59,29.0,Male,Berlin,Software Engineer,6,Lead,Go,"Python, Go, AWS, Kubernetes, Docker",English,101-1000,Product,No,78000.0,90000.0
+24/11/2020 11:27:34,31.0,Male,Berlin,Backend Developer,5,Middle,java,Kotlin,English,101-1000,Startup,No,0.0,65000.0
+24/11/2020 11:27:39,29.0,Female,Berlin,QA Engineer,7,Middle,0,Javascript / Typescript,English,51-100,Startup,No,0.0,47000.0
+24/11/2020 11:27:49,39.0,Male,Berlin,Software Engineer,8,Senior,Java,"Python, Java / Scala, SQL, AWS, Google Cloud, Kubernetes, Docker",English,51-100,Startup,No,80000.0,80000.0
+24/11/2020 11:28:12,27.0,Male,Berlin,Software Engineer,8,Middle,Javascript,0,English,101-1000,Product,No,0.0,63101.0
+24/11/2020 11:28:14,33.0,Male,Berlin,Data Scientist,5,Lead,Python,"Python, R, Google Cloud, Docker",English,1000+,Product,No,85000.0,230000.0
+24/11/2020 11:28:58,28.0,Female,Berlin,Designer (UI/UX),7,Middle,Figma,0,German,1000+,Product,No,37000.0,45000.0
+24/11/2020 11:29:18,30.0,Male,Berlin,Software Engineer,8,Senior,JavaScript,"Python, Javascript / Typescript, Java / Scala, Go, Kubernetes, Docker",English,101-1000,Product,No,75500.0,80000.0
+24/11/2020 11:29:38,28.0,Male,Berlin,Backend Developer,5,Senior,Kotlin,"Python, Kotlin, Java / Scala, SQL, AWS, Kubernetes, Docker",English,101-1000,Startup,No,58000.0,75000.0
+24/11/2020 11:29:55,38.0,Male,Berlin,DevOps,10,Senior,Go/Python,"AWS, Kubernetes, Docker",English,51-100,Startup,No,65000.0,70000.0
+24/11/2020 11:30:00,29.0,Male,Berlin,Frontend Developer,7,Senior,React,Javascript / Typescript,English,1000+,Product,No,63000.0,84000.0
+24/11/2020 11:30:11,49.0,Male,Berlin,Software Engineer,15,Senior,Java,SQL,German,1000+,Product,No,66000.0,68500.0
+24/11/2020 11:30:21,32.0,Male,Berlin,Frontend Developer,10,Senior,TypeScript,"AWS, Kubernetes",English,101-1000,Product,Yes,80000.0,105000.0
+24/11/2020 11:30:38,33.0,Female,Berlin,Software Engineer,12,Senior,С#,"Python, C/C++, Javascript / Typescript, .NET, SQL",English,1000+,Product,other,116000.0,123200.0
+24/11/2020 11:30:45,30.0,Male,Berlin,Software Engineer,6,Senior,Java,"Kotlin, AWS, Kubernetes, Docker",English,1000+,Product,No,108000.0,89000.0
+24/11/2020 11:31:01,48.0,Male,Berlin,Software Engineer,25,Senior,Java,"Kotlin, Java / Scala, SQL",English,101-1000,Product,No,75000.0,75000.0
+24/11/2020 11:31:38,28.0,Female,Berlin,Designer (UI/UX),5,Senior,0,0,English,1000+,Product,No,0.0,60000.0
+24/11/2020 11:31:45,32.0,Male,Berlin,Backend Developer,3,Middle,Java,"AWS, Kubernetes, Docker",English,101-1000,Product,No,62000.0,77000.0
+24/11/2020 11:31:50,38.0,Female,Berlin,Backend Developer,12,Senior,0,C/C++,English,1000+,Product,No,63000.0,78000.0
+24/11/2020 11:31:51,31.0,Male,Berlin,Software Engineer,7,Lead,Python,"Python, SQL, Google Cloud, Kubernetes, Docker",English,101-1000,Startup,No,69000.0,86000.0
+24/11/2020 11:32:11,35.0,Male,Berlin,Backend Developer,10,Senior,Ruby,"Go, AWS, Kubernetes, Docker, Elixir",English,101-1000,Product,No,87000.0,75000.0
+24/11/2020 11:32:24,28.0,Female,Berlin,Designer (UI/UX),7,Middle,Figma,0,German,1000+,Product,No,37000.0,45000.0
+24/11/2020 11:32:28,29.0,Female,Berlin,QA Engineer,8,Senior,0,0,English,51-100,Startup,Yes,52000.0,60000.0
+24/11/2020 11:32:48,32.0,Male,Berlin,Backend Developer,8,Senior,PHP,"PHP, SQL, AWS, Kubernetes, Docker",English,11-50,Product,No,60000.0,65000.0
+24/11/2020 11:32:57,44.0,Male,Berlin,Backend Developer,12,Senior,Java,"SQL, Go, Kubernetes, Docker",English,11-50,Product,No,68000.0,68000.0
+24/11/2020 11:33:08,0.0,Male,Berlin,Software Engineer,0,Senior,PHP,0,English,0,0,No,0.0,75000.0
+24/11/2020 11:33:33,35.0,Male,Munich,Software Engineer,11,Senior,Php,"Javascript / Typescript, AWS, Kubernetes, Docker",German,101-1000,Product,No,65000.0,70000.0
+24/11/2020 11:33:45,33.0,Male,Munich,DevOps,15,Lead,Kubernetes,"AWS, Google Cloud, Azure, Docker",0,101-1000,Product,No,163000.0,100000.0
+24/11/2020 11:33:46,29.0,Male,Berlin,Software Engineer,5,Senior,Go,"Java / Scala, AWS, Docker",English,101-1000,Product,No,58000.0,75000.0
+24/11/2020 11:33:51,66.0,Male,Munich,Software Engineer,40,Lead,ruby on rails,"Javascript / Typescript, Ruby, SQL",German,51-100,Product,No,50000.0,70000.0
+24/11/2020 11:35:25,39.0,Female,Berlin,Software Engineer,10,Senior,Java,"Javascript / Typescript, SQL",German,101-1000,Consulting / Agency,No,68000.0,71500.0
+24/11/2020 11:36:44,28.0,Male,Munich,Backend Developer,5,Senior,Kotlin,"Kotlin, Javascript / Typescript, Java / Scala, SQL, AWS, Google Cloud, Kubernetes, Docker",English,101-1000,Product,No,56000.0,72000.0
+24/11/2020 11:37:39,34.0,Male,Munich,Frontend Developer,5,Senior,JavaScript/ES6,0,English,11-50,Product,No,70000.0,73500.0
+24/11/2020 11:37:52,34.0,Male,Munich,Software Engineer,13,Lead,.NET,".NET, SQL",English,51-100,Product,No,120000.0,144000.0
+24/11/2020 11:38:10,32.0,Male,Munich,Frontend Developer,7,Senior,Javascript,"Javascript / Typescript, Java / Scala",German,101-1000,Consulting / Agency,No,60000.0,62000.0
+24/11/2020 11:38:14,38.0,Male,Stuttgart,Hardware Engineer,15,Lead,Hardware,0,English,1000+,Product,other,0.0,83000.0
+24/11/2020 11:38:15,32.0,Male,Berlin,Data Scientist,10,Lead,0,0,English,1000+,Consulting / Agency,No,100000.0,140000.0
+24/11/2020 11:38:22,45.0,Male,Schleswig-Holstein,Software Engineer,26,Senior,C#,"C/C++, .NET, SQL",German,1000+,Product,No,104000.0,103000.0
+24/11/2020 11:39:21,48.0,Male,London,Data Engineer,23,0,Google Cloud Platform,"Python, SQL, Go, Google Cloud, bash",English,up to 10,Personal Ltd,Yes,0.0,110000.0
+24/11/2020 11:40:04,28.0,Male,Berlin,Software Engineer,3,Middle,Js,"Javascript / Typescript, SQL, AWS, Google Cloud, Kubernetes, Docker, Quorum",English,11-50,Startup,No,42000.0,55000.0
+24/11/2020 11:40:05,29.0,Male,Konstanz area,Mobile Developer,6,Middle,android,Kotlin,English,11-50,Startup,No,53000.0,53000.0
+24/11/2020 11:40:24,36.0,Male,Munich,Backend Developer,15,Senior,java,PHP,English,1000+,Product,No,55000.0,55000.0
+24/11/2020 11:40:42,39.0,Male,Berlin,Software Engineer,10,Senior,C#,"Javascript / Typescript, .NET, SQL, Azure, Docker",German,1000+,Consulting / Agency,No,65000.0,75000.0
+24/11/2020 11:40:45,29.0,Male,Munich,Software Engineer,7,Senior,JavaScript ,"Kotlin, Javascript / Typescript, Java / Scala, Docker",English,1000+,Product,No,74500.0,85000.0
+24/11/2020 11:42:49,31.0,Male,Berlin,Engineering Manager,11,Lead,Java,"Python, Java / Scala, SQL, Go, AWS, Google Cloud, Kubernetes, Docker",English,101-1000,Startup,No,79000.0,80000.0
+24/11/2020 11:43:28,30.0,Male,Berlin,Backend Developer,5,Middle,Java,0,English,1000+,Product,No,0.0,55000.0
+24/11/2020 11:43:34,30.0,Male,Munich,DevOps,8,Middle,0,0,English,1000+,Product,No,126000.0,145200.0
+24/11/2020 11:43:49,33.0,Male,Frankfurt,Software Engineer,4,Middle,Java,0,English,11-50,Consulting / Agency,No,0.0,50000.0
+24/11/2020 11:44:00,27.0,Male,Berlin,Software Engineer,5,Senior,Scala,Java / Scala,English,1000+,Startup,No,70000.0,78000.0
+24/11/2020 11:44:02,26.0,Female,Munich,Data Scientist,6,Middle,python,"Python, C/C++, SQL, Docker",English,1000+,Product,No,120000.0,70000.0
+24/11/2020 11:44:10,26.0,Male,Berlin,Software Engineer,8,Lead,Go,"Python, PHP, Javascript / Typescript, Go, Google Cloud, Kubernetes, Docker",English,1000+,Product,No,75000.0,85000.0
+24/11/2020 11:44:18,31.0,Female,Berlin,Analytics engineer,6,Middle,SQL,Python,English,101-1000,Startup,No,50500.0,60000.0
+24/11/2020 11:44:34,30.0,Male,Berlin,Software Engineer,10,Senior,Scala,"Python, Java / Scala, AWS, Docker",English,101-1000,Product,No,70000.0,72000.0
+24/11/2020 11:44:51,38.0,Male,Berlin,Localization producer,17,Middle,0,0,English,1000+,Product,No,184400.0,98500.0
+24/11/2020 11:44:59,43.0,Male,Berlin,Mobile Developer,5,Senior,Kotlin,"Kotlin, Java / Scala",English,1000+,Product,No,68000.0,72000.0
+24/11/2020 11:45:28,33.0,Male,Berlin,Software Engineer,5,Middle,python,Kubernetes,English,101-1000,Product,No,65000.0,65000.0
+24/11/2020 11:45:31,31.0,Male,Berlin,Software Engineer,9,Senior,"C#, .net core","Python, .NET, AWS, Azure, Kubernetes, Docker",English,11-50,Startup,No,0.0,60000.0
+24/11/2020 11:46:15,32.0,Female,Berlin,QA Engineer,10,Senior,Java,"Kotlin, Javascript / Typescript, SQL, Docker",English,101-1000,Product,No,55000.0,61000.0
+24/11/2020 11:46:16,24.0,Male,Berlin,Data Scientist,4,Senior,Python,"Python, AWS, Docker",English,101-1000,Startup,No,100000.0,146000.0
+24/11/2020 11:46:21,29.0,Male,Berlin,DevOps,7,Lead,Kubernetes,"Python, Go, AWS, Kubernetes",English,101-1000,Product,No,70000.0,88000.0
+24/11/2020 11:46:42,29.0,Male,Berlin,Data Scientist,4,Senior,Python,"SQL, AWS, Docker",English,101-1000,Product,No,72000.0,81000.0
+24/11/2020 11:46:48,30.0,Male,Munich,Hardware Engineer,5,Senior,VHDL,Python,English,101-1000,Product,No,81000.0,85000.0
+24/11/2020 11:48:46,35.0,Female,Berlin,Reporting Engineer,3,Middle,Power BI,"Python, Javascript / Typescript, SQL, SAP / ABAP, Google Cloud, Azure",German,1000+,Product,No,45000.0,58000.0
+24/11/2020 11:48:57,27.0,Female,Hamburg,Account Managet,6,Senior,0,0,English,101-1000,Product,No,0.0,50000.0
+24/11/2020 11:49:06,32.0,Female,Berlin,Product Manager,8,No level,0,0,German,11-50,Consulting / Agency,No,0.0,55000.0
+24/11/2020 11:49:42,33.0,Male,Munich,QA Engineer,5,Senior,Java,Docker,English,1000+,Product,No,0.0,60000.0
+24/11/2020 11:50:04,28.0,Male,Berlin,Software Engineer,8,Lead,PHP ,"Python, Javascript / Typescript, .NET, SQL, AWS, Azure, Kubernetes, Docker",English,101-1000,Product,No,72000.0,80000.0
+24/11/2020 11:50:47,31.0,Female,Munich,agile master ,14,Middle,none,0,German,1000+,Product,No,80000.0,80000.0
+24/11/2020 11:50:51,32.0,Male,Munich,Software Engineer,7,Senior,Android,Kotlin,English,51-100,Product,No,60000.0,60000.0
+24/11/2020 11:50:52,30.0,Male,Berlin,Backend Developer,8,Senior,Scala,"Python, Kotlin, Java / Scala, SQL, Kubernetes, Docker",English,1000+,Product,No,60000.0,80000.0
+24/11/2020 11:50:56,26.0,Male,Munich,Backend Developer,7,Senior,Java,0,English,101-1000,Product,No,61000.0,82000.0
+24/11/2020 11:51:35,31.0,Male,Munich,Software Engineer,10,Senior,Java,"Python, Javascript / Typescript, SQL, Kubernetes, Docker",English,1000+,Product,No,68000.0,68000.0
+24/11/2020 11:52:49,38.0,Female,Munich,QA Engineer,6,Middle,Java,0,English,1000+,Product,No,62000.0,62000.0
+24/11/2020 11:53:56,37.0,Male,Berlin,Software Engineer,10,Senior,PHP,"PHP, Javascript / Typescript, SQL",English,11-50,Startup,No,55000.0,55000.0
+24/11/2020 11:54:06,25.0,Male,Munich,Software Engineer,3,Middle,Java,"Python, SQL, AWS, Azure, Kubernetes, Docker",English,101-1000,Product,No,55000.0,62000.0
+24/11/2020 11:54:18,36.0,Male,Berlin,Frontend Developer,12,Senior,JavaScript,"Javascript / Typescript, AWS, Docker",English,up to 10,Startup,No,72000.0,72000.0
+24/11/2020 11:54:32,27.0,Male,Munich,QA Engineer,5,Senior,Swift,"Kotlin, Ruby",English,1000+,Product,No,58101.0,63800.0
+24/11/2020 11:55:06,35.0,Male,Frankfurt,ML Engineer,12,Senior,ML,"Python, Java / Scala, R, SQL, AWS, Azure",English,1000+,Product,No,120000.0,150000.0
+24/11/2020 11:55:07,37.0,Male,Munich,Software Engineer,15,Senior,php,"PHP, Javascript / Typescript, SQL, Docker",German,101-1000,Product,No,72500.0,75000.0
+24/11/2020 11:55:33,26.0,Male,Munich,Data Scientist,3,Middle,Python,"Python, SQL, AWS, Docker",English,101-1000,Product,No,52300.0,72000.0
+24/11/2020 11:55:57,33.0,Male,Frankfurt,Solution Architect,6,Middle,Python,"SQL, AWS, Google Cloud, Kubernetes, Docker",English,1000+,Product,No,85000.0,125000.0
+24/11/2020 11:56:00,34.0,Male,Berlin,Frontend Developer,7,Senior,JavaScript,Docker,English,up to 10,Startup,No,0.0,65000.0
+24/11/2020 11:56:05,33.0,Male,Berlin,Backend Developer,12,Lead,PHP,"Javascript / Typescript, SQL, AWS, Docker",English,101-1000,Product,No,60000.0,65000.0
+24/11/2020 11:56:25,0.0,Male,Berlin,QA Engineer,6,Middle,Javascript,"Javascript / Typescript, AWS",English,101-1000,Product,No,45000.0,50000.0
+24/11/2020 11:56:47,29.0,Male,Berlin,Backend Developer,8,Senior,Scala,"Java / Scala, AWS, Kubernetes, Docker",English,101-1000,Startup,No,0.0,72000.0
+24/11/2020 11:56:56,24.0,Male,Munich,Software Engineer,5,Middle,C++,"Javascript / Typescript, Go",English,1000+,Product,No,110000.0,135000.0
+24/11/2020 11:57:37,28.0,Female,Munich,QA Engineer,6,Middle,0,0,English,1000+,Product,No,42000.0,68000.0
+24/11/2020 11:57:53,30.0,Female,Berlin,Software Engineer,8,Senior,"Scala, React.js","Javascript / Typescript, SQL, AWS, Kubernetes, Docker",English,101-1000,Product,No,65000.0,75000.0
+24/11/2020 11:57:55,28.0,Male,Cologne,BI Consultant,8,Senior,SQL,"Python, Javascript / Typescript",English,up to 10,Consulting / Agency,No,0.0,72000.0
+24/11/2020 11:58:24,31.0,Male,Munich,Backend Developer,11,Senior,PHP,"Javascript / Typescript, Java / Scala, AWS, Kubernetes, Docker",English,1000+,Product,No,80000.0,84000.0
+24/11/2020 11:59:14,28.0,Male,Munich,Mobile Developer,5,Senior,iOS,Swift,English,1000+,Product,No,70000.0,65000.0
+24/11/2020 11:59:20,32.0,Female,Kempten,Fullstack Developer,10,Middle,C#,"Javascript / Typescript, .NET, SQL",English and German,51-100,Product,No,0.0,49000.0
+24/11/2020 11:59:33,28.0,Male,Berlin,Software Engineer,6,Senior,Java,"Kotlin, Java / Scala, SQL, AWS, Kubernetes, Docker",English,11-50,Startup,No,120000.0,140000.0
+24/11/2020 11:59:38,26.0,Female,Munich,Data Scientist,3,Junior,Ml/Python,"Python, AWS, Docker",English,1000+,Product,No,0.0,82000.0
+24/11/2020 12:00:01,33.0,Male,Berlin,Mobile Developer,6,Middle,Swift,0,English,101-1000,Product,No,66000.0,69300.0
+24/11/2020 12:00:20,41.0,Male,Munich,Product Manager,18,Middle,0,0,English,1000+,Product,No,60000.0,72000.0
+24/11/2020 12:00:59,31.0,Male,Berlin,Software Engineer,9,Senior,"C#, .net core","Python, Javascript / Typescript, .NET, AWS, Azure, Kubernetes, Docker",English,11-50,Startup,No,0.0,66000.0
+24/11/2020 12:01:01,30.0,Male,Munich,Frontend Developer,6,Senior,Javascript,"Javascript / Typescript, AWS, Docker",English,51-100,Product,No,0.0,75101.0
+24/11/2020 12:01:59,31.0,Male,Berlin,Frontend Developer,8,Senior,JavaScript/TypeScript,"Javascript / Typescript, Google Cloud, Docker",English,101-1000,Startup,No,0.0,70101.0
+24/11/2020 12:02:04,37.0,Male,Munich,Backend Developer,12,Senior,php,"Javascript / Typescript, Docker",English,101-1000,Product,No,65000.0,67000.0
+24/11/2020 12:04:10,30.0,Male,Berlin,Software Engineer,10,Lead,Python,"Python, SQL",English,101-1000,Startup,No,76000.0,79000.0
+24/11/2020 12:04:15,34.0,Male,Munich,0,17,Lead,Java,"Python, Java / Scala, R, SQL, Go, AWS, Google Cloud, Azure, Kubernetes, Docker",German,1000+,Consulting / Agency,No,120000.0,140000.0
+24/11/2020 12:06:20,25.0,Male,Munich,Backend Developer,5,Senior,Java,"Kotlin, Java / Scala, SQL, SAP / ABAP, Kubernetes, Docker",English,101-1000,Product,No,0.0,80000.0
+24/11/2020 12:06:41,36.0,Male,Berlin,Backend Developer,19,Senior,PHP,"Javascript / Typescript, SQL, AWS, Docker",English,101-1000,Product,No,69000.0,69000.0
+24/11/2020 12:06:58,40.0,Male,Berlin,Frontend Developer,7,Middle,Javascript,"PHP, Javascript / Typescript, Dart",English,11-50,Product,No,54000.0,54000.0
+24/11/2020 12:07:16,37.0,Male,Berlin,Product Manager,6,Middle,0,0,German,101-1000,Product,No,118000.0,124000.0
+24/11/2020 12:07:26,35.0,Male,Munich,Software Engineer,13,Senior,Java,"Kotlin, Java / Scala, AWS",English,101-1000,Product,No,78500.0,81500.0
+24/11/2020 12:07:43,42.0,Male,Berlin,Software Engineer,20,Senior,Ruby on Rails,"Ruby, Kubernetes, Docker",German,51-100,Product,No,72000.0,80000.0
+24/11/2020 12:07:44,34.0,Male,Berlin,QA Engineer,10,Senior,Java,"Python, Kotlin, Javascript / Typescript, Go, AWS, Kubernetes, Docker",English,101-1000,Startup,No,68000.0,78000.0
+24/11/2020 12:07:47,30.0,Male,Berlin,Backend Developer,6,Senior,Ruby,"SQL, Elixir",English,101-1000,Product,No,130000.0,150000.0
+24/11/2020 12:08:51,35.0,Male,Berlin,Software Engineer,12,Senior,C#,".NET, SQL, Google Cloud, Kubernetes, Docker",English,1000+,Product,No,0.0,92000.0
+24/11/2020 12:09:03,34.0,Male,Munich,Cloud Architect,10,Senior,"Azure, SAP","SAP / ABAP, AWS, Google Cloud, Azure, Kubernetes, Docker",English,1000+,Cloud,No,100000.0,160000.0
+24/11/2020 12:09:06,35.0,Male,Berlin,Designer (UI/UX),10,Senior,0,0,English,51-100,Product,No,65000.0,70000.0
+24/11/2020 12:09:31,35.0,Male,Berlin,System Administrator,14,Middle,0,0,English,101-1000,Startup,No,0.0,44000.0
+24/11/2020 12:09:50,28.0,Male,Hamburg,Software Engineer,7,Senior,Scala,"Python, Java / Scala, Perl",English,101-1000,Product,No,0.0,85000.0
+24/11/2020 12:09:55,26.0,Male,Münster,Data Scientist,5.5,Junior,Python,"Python, C/C++, SQL, AWS",German,1000+,Product,No,0.0,50000.0
+24/11/2020 12:10:03,35.0,Male,Berlin,Frontend Developer,4,Middle,JavaScript,PHP,English,101-1000,Product,No,0.0,55000.0
+24/11/2020 12:10:05,31.0,Female,Munich,QA Engineer,7,Senior,Java,"Python, Ruby",English,1000+,Product,No,58000.0,68000.0
+24/11/2020 12:11:42,35.0,Male,Frankfurt,Software Engineer,12,Senior,java,"Python, Kotlin, Javascript / Typescript, Java / Scala, Docker",German,51-100,Consulting / Agency,No,66000.0,66000.0
+24/11/2020 12:12:16,28.0,Male,Berlin,Product Manager,3,Middle,0,0,English,51-100,Product,No,0.0,52500.0
+24/11/2020 12:12:35,25.0,Male,Berlin,Backend Developer,4,Middle,Python,"SQL, Go",English,11-50,Startup,No,60000.0,60000.0
+24/11/2020 12:13:24,42.0,Female,Berlin,QA Engineer,20,Middle,python,"Python, Javascript / Typescript",English,1000+,Product,No,0.0,55000.0
+24/11/2020 12:14:03,30.0,Male,Berlin,Product Manager,7,Lead,0,"Python, SQL",English,1000+,Startup,No,0.0,150000.0
+24/11/2020 12:14:23,40.0,Female,Munich,Software Engineer,20,Middle,Java,SQL,German,101-1000,Behörde,No,54000.0,54000.0
+24/11/2020 12:14:27,36.0,Female,Erlangen,Project Manager,14,Middle,0,Python,English,1000+,Product,No,36000.0,62000.0
+24/11/2020 12:14:52,37.0,Male,Berlin,Software Engineer,8,Junior,Java,"Java / Scala, AWS, Kubernetes, Docker",English,51-100,Product,No,0.0,60000.0
+24/11/2020 12:15:30,33.0,Male,Munich,Software Engineer,10,Senior,Java,"AWS, Docker",English,101-1000,Product,No,74800.0,82500.0
+24/11/2020 12:16:38,38.0,Male,Cologne,Software Engineer,11,Senior,PHP,"PHP, Javascript / Typescript, Go, AWS, Google Cloud, Kubernetes, Docker",English,101-1000,Product,No,55000.0,55000.0
+24/11/2020 12:16:49,27.0,Male,Munich,Frontend Developer,4,Senior,Frontend,Javascript / Typescript,English,51-100,Product,No,0.0,60000.0
+24/11/2020 12:17:15,33.0,Male,Berlin,Software Engineer,7,Senior,"Java, JavaScript","Javascript / Typescript, Java / Scala, SQL",English,1000+,Consulting / Agency,No,110000.0,129000.0
+24/11/2020 12:17:21,34.0,Male,Vienna,Data Scientist,12,Senior,0,"Python, SQL, AWS, Azure",English,101-1000,Consulting / Agency,No,67000.0,85250.0
+24/11/2020 12:17:32,36.0,Female,Munich,Backend Developer,5,Middle,PHP,"Javascript / Typescript, Docker",English,101-1000,Product,No,0.0,65000.0
+24/11/2020 12:17:51,42.0,Male,Berlin,DevOps,22,Lead,yaml,"Python, PHP, Javascript / Typescript, SQL, Go, Perl, AWS, Google Cloud, Azure, Kubernetes, Docker",English,1000+,Startup,No,0.0,70000.0
+24/11/2020 12:18:41,32.0,Male,Frankfurt,Network Engineer ,10,Senior,Python ,"Python, Docker",English,101-1000,Product,No,138500.0,74500.0
+24/11/2020 12:21:10,31.0,Male,Berlin,Frontend Developer,10,Senior,Javascript,"Javascript / Typescript, SQL, Google Cloud, Docker",English,51-100,Startup,No,67601.0,71161.0
+24/11/2020 12:21:33,33.0,Female,Berlin,QA Engineer,6,Middle,Java,"Python, Kubernetes",English,101-1000,Startup,No,0.0,60000.0
+24/11/2020 12:21:45,40.0,Male,Berlin,VP Engineering,10,Lead,JS,"Javascript / Typescript, AWS",English,51-100,Product,No,0.0,100000.0
+24/11/2020 12:23:06,28.0,Male,Moldova,Backend Developer,4,Middle,Java ,"Kotlin, Java / Scala",English,51-100,Startup,Yes,0.0,28000.0
+24/11/2020 12:23:47,28.0,Male,Munich,Backend Developer,6,Senior,Java,"Javascript / Typescript, Java / Scala, SQL",English,101-1000,Consulting / Agency,No,58500.0,72000.0
+24/11/2020 12:23:50,46.0,Male,Munich,Agile Coach,4,Senior,0,0,English,101-1000,Product,kurzarbeitzeit for 1.5 months,83000.0,82000.0
+24/11/2020 12:26:12,31.0,Male,Berlin,Software Engineer,9,Senior,Python,"Python, SQL, AWS, Kubernetes, Docker",English,1000+,Product,No,80000.0,90000.0
+24/11/2020 12:26:20,28.0,Male,Berlin,Mobile Developer,5,Lead,Swift,0,English,11-50,Consulting / Agency,No,0.0,70800.0
+24/11/2020 12:27:21,29.0,Male,Berlin,Software Engineer,8,Middle,PHP,"PHP, Javascript / Typescript, SQL, AWS, Docker",English,11-50,Startup,No,0.0,55000.0
+24/11/2020 12:27:23,40.0,Male,Munich,Mobile Developer,25,Lead,Swift,"Swift, Objective-C",English,11-50,Product,No,75000.0,90000.0
+24/11/2020 12:28:08,46.0,Male,Munich,QA Engineer,13,Senior,Java,SQL,German,101-1000,Product,No,78500.0,78500.0
+24/11/2020 12:28:14,33.0,Male,Berlin,Backend Developer,5,Middle,Java,0,English,101-1000,Product,No,122000.0,136000.0
+24/11/2020 12:28:23,33.0,Male,Berlin,ML Engineer,10,Middle,Python,"Python, C/C++, Pytorch",English,51-100,Startup,No,60000.0,62000.0
+24/11/2020 12:28:45,34.0,Male,Berlin,Software Engineer,14,Lead,Java,"Kotlin, Javascript / Typescript, Java / Scala, AWS, Kubernetes, Docker",English,1000+,Product,No,90000.0,100000.0
+24/11/2020 12:28:58,36.0,Male,Berlin,Backend Developer,18,Senior,PHP,"PHP, AWS, Google Cloud",English,101-1000,Product,No,120000.0,135000.0
+24/11/2020 12:29:35,33.0,Female,Berlin,QA Engineer,8,Senior,-,Python,English,11-50,Startup,Yes,42000.0,50000.0
+24/11/2020 12:30:03,32.0,Male,Berlin,Software Engineer,11,Lead,Android,"Python, Kotlin, Swift, Javascript / Typescript, Java / Scala, SQL, AWS, Google Cloud, Kubernetes, Docker",English,101-1000,Product,No,80000.0,80000.0
+24/11/2020 12:35:28,46.0,Male,Berlin,Software Engineer,14,Senior,JavaScript,"PHP, Javascript / Typescript, SQL, Google Cloud, Docker",English,51-100,Product,Yes,63000.0,80000.0
+24/11/2020 12:36:04,30.0,Male,Munich,Mobile Developer,8,Senior,Kotlin,"Kotlin, Java / Scala",English,1000+,Product,No,0.0,66000.0
+24/11/2020 12:36:13,36.0,Male,Rosenheim,Data Science Manager,12,Lead,Python,"R, SQL, AWS, Azure, Docker",English,1000+,Construction,No,0.0,107000.0
+24/11/2020 12:37:20,35.0,Male,Berlin,Product Manager,10,Senior,php,"PHP, Javascript / Typescript",English,101-1000,Product,No,0.0,100000.0
+24/11/2020 12:38:26,47.0,Male,Munich,DevOps,20,Senior,0,"PHP, SQL, AWS, Azure, Kubernetes, Docker",0,1000+,Product,No,0.0,75000.0
+24/11/2020 12:40:25,31.0,Male,Berlin,Data Scientist,10,Lead,Python ,"Kubernetes, Docker",English,1000+,Product,No,175000.0,185000.0
+24/11/2020 12:41:45,46.0,Male,Munich,Scrum Master,12,Senior,Agile,"C/C++, PHP, .NET, SQL",German,1000+,Product,No,98000.0,95000.0
+24/11/2020 12:44:38,26.0,Male,Berlin,Mobile Developer,6,Senior,Kotlin,"Kotlin, Java / Scala",English,101-1000,Product,No,65000.0,70000.0
+24/11/2020 12:44:58,31.0,Male,Mannheim ,Firmware Engineer,10,Senior,C,"Python, C/C++",English,11-50,Product,Yes,0.0,45000.0
+24/11/2020 12:47:46,31.0,Male,Munich,Frontend Developer,12,Lead,"TypeScript, JavaScript","Javascript / Typescript, Docker",English,11-50,Startup,No,75000.0,88000.0
+24/11/2020 12:48:17,30.0,Female,Berlin,QA Engineer,5,Middle,Python ,"Python, Kubernetes, Docker, Ansible",German,101-1000,Product,No,54000.0,54000.0
+24/11/2020 12:50:06,35.0,Male,Munich,Software Engineer,13,Lead,Pegasystems platform ,"C/C++, Javascript / Typescript, Java / Scala, SQL, Docker",English,51-100,Consulting / Agency,No,134000.0,146000.0
+24/11/2020 12:51:24,33.0,Male,Berlin,Software Engineer,12,Senior,Javascript,"PHP, Javascript / Typescript, SQL, Docker",English,101-1000,Product,No,65000.0,120000.0
+24/11/2020 12:52:56,36.0,Male,Berlin,Software Engineer,7,Middle,"C++, Java, Embedded C","Python, C/C++, .NET, Java / Scala",English and German,up to 10,Product,No,42000.0,42000.0
+24/11/2020 12:54:46,36.0,Male,Munich,Solutions Architect,12,Lead,Cloud,"Kotlin, Java / Scala, AWS, Kubernetes, Docker",English,1000+,Product,No,130000.0,130000.0
+24/11/2020 12:55:11,40.0,Male,Munich,Software Engineer,13,Senior,0,".NET, Azure",English,1000+,Product,No,0.0,77101.0
+24/11/2020 12:55:30,38.0,Male,Frankfurt,Data Center Manager,6,Senior,DC Management,0,English,1000+,Product,No,142000.0,80000.0
+24/11/2020 12:55:58,35.0,Female,Berlin,Software Engineer,15,Senior,C#,.NET,German,1000+,Product,No,0.0,76000.0
+24/11/2020 12:58:38,32.0,Male,Munich,Fullstack Developer,9,Senior,Java,"Javascript / Typescript, Kubernetes, Docker, Angular",English,11-50,Product,No,71000.0,74000.0
+24/11/2020 12:59:10,29.0,Male,Berlin,Software Engineer,8,Senior,Go,"Python, Javascript / Typescript, Go",English,1000+,Product,No,75000.0,75000.0
+24/11/2020 13:00:56,30.0,Male,Rosenheim,Software Engineer,9,Middle,Java,"Javascript / Typescript, SQL",German,101-1000,Product,No,57600.0,63000.0
+24/11/2020 13:01:17,35.0,Male,Berlin,ML Engineer,10,Lead,Scala,"Java / Scala, SQL, AWS, Kubernetes, Docker",English,11-50,Product,No,80000.0,100000.0
+24/11/2020 13:02:04,29.0,Male,Berlin,Software Engineer,7,Senior,Python,Javascript / Typescript,English,101-1000,Startup,No,60000.0,64000.0
+24/11/2020 13:05:17,32.0,Female,Berlin,Product Manager,10,Senior,0,0,English,51-100,Consulting / Agency,No,59400.0,66000.0
+24/11/2020 13:05:30,30.0,Female,Munich,Mobile Developer,10,Senior,Swift,"Kotlin, Javascript / Typescript",English,1000+,Product,No,70000.0,70000.0
+24/11/2020 13:05:53,25.0,Male,Berlin,Software Engineer,6,Middle,Java,0,English,1000+,Big commercial,No,0.0,87500.0
+24/11/2020 13:07:04,43.0,Male,Berlin,Software Engineer,20,Senior,Python,"SQL, AWS, Docker",English,1000+,Product,No,80000.0,79000.0
+24/11/2020 13:07:24,38.0,Male,Berlin,Software Engineer,16,Senior,Python,"Python, Javascript / Typescript, Java / Scala, SQL, AWS, Kubernetes, Docker",English,1000+,Product,No,65000.0,65000.0
+24/11/2020 13:09:38,26.0,Male,Berlin,Software Engineer,5,Middle,Scala,"Java / Scala, SQL, Google Cloud, Docker",English,101-1000,Product,No,56500.0,73300.0
+24/11/2020 13:09:51,25.0,Female,Munich,Product Manager,3,Middle,--,0,English,1000+,Product,No,0.0,62000.0
+24/11/2020 13:11:21,34.0,Male,Munich,Software Engineer,12,Lead,python,"Python, Javascript / Typescript, SQL, AWS, Docker",English,11-50,Product,No,95000.0,95000.0
+24/11/2020 13:14:01,34.0,Male,Munich,Designer (UI/UX),11,Senior,0,0,English,11-50,Startup,No,0.0,60000.0
+24/11/2020 13:14:33,27.0,Male,Berlin,Backend Developer,5,Middle,Java,"AWS, Docker",English,1000+,Product,No,0.0,65000.0
+24/11/2020 13:16:52,30.0,Male,Berlin,Mobile Developer,3,Senior,Swift,"Kotlin, .NET, Java / Scala, Dart",English,11-50,Startup,No,52000.0,58000.0
+24/11/2020 13:21:22,34.0,Male,Berlin,Data Scientist,5,Middle,Python,"C/C++, SQL, AWS, Docker",English,101-1000,Product,No,62000.0,70000.0
+24/11/2020 13:23:32,36.0,Female,Berlin,QA Engineer,14,Lead,Java,Kotlin,English,11-50,Product,No,69300.0,75900.0
+24/11/2020 13:25:44,27.0,Male,Berlin,Backend Developer,5,Middle,Java,"AWS, Docker",English,1000+,Product,No,0.0,65000.0
+24/11/2020 13:25:57,45.0,Male,Berlin,Mobile Developer,10,Lead,SWIFT,"Swift, Javascript / Typescript, Java / Scala, Google Cloud",English,101-1000,Product,No,68000.0,79000.0
+24/11/2020 13:29:21,35.0,Male,Berlin,Backend Developer,6,Senior,"Java, angular, Aws","Python, Javascript / Typescript, Java / Scala, SQL, AWS, Docker",English,51-100,Product,No,0.0,76000.0
+24/11/2020 13:32:34,36.0,Male,Berlin,Engineering Manager,7,Lead,"Swift, objective-c","Kotlin, Swift, Go, AWS, Kubernetes, Docker",English,1000+,Product,No,0.0,175000.0
+24/11/2020 13:33:08,32.0,Male,Stuttgart,QA Engineer,9,Senior,Java,"R, SQL, Perl, Docker",German,1000+,Consulting / Agency,No,72000.0,64700.0
+24/11/2020 13:35:41,33.0,Male,Boeblingen,DevOps,14,Senior,Golang,"Python, Javascript / Typescript, SQL, Go, Perl, Google Cloud, Kubernetes, Docker",English,101-1000,Product,No,0.0,70000.0
+24/11/2020 13:36:54,30.0,Male,Berlin,Backend Developer,10,Middle,PHP,"Kotlin, Java / Scala, SQL, AWS, Docker",English,1000+,Product,No,0.0,56000.0
+24/11/2020 13:37:05,35.0,Male,Berlin,Software Engineer,15,Senior,go,"PHP, Javascript / Typescript, Perl, AWS, Kubernetes, Docker",English,51-100,Startup,Yes,0.0,70000.0
+24/11/2020 13:37:57,24.0,Male,Boeblingen,C/C++/Java developer,0.8,Junior,Java,C/C++,English,11-50,Product,No,48101.0,48101.0
+24/11/2020 13:40:28,25.0,Male,Stuttgart,Backend Developer,4,Middle,Java,"Javascript / Typescript, .NET",German,101-1000,Consulting / Agency,No,50000.0,60000.0
+24/11/2020 13:40:53,29.0,Male,Berlin,Mobile Developer,8,Senior,Kotlin,"Kotlin, Javascript / Typescript, Dart",English,101-1000,Product,No,52000.0,65000.0
+24/11/2020 13:41:26,32.0,Male,Berlin,DevOps Manager,10,Lead,DevOps,"Python, AWS, Azure, Kubernetes, Docker",English,1000+,Product,No,0.0,100000.0
+24/11/2020 13:42:43,32.0,Male,Düsseldorf,Software Engineer,11,Senior,.net,"Javascript / Typescript, Java / Scala, Go",English,1000+,Consulting / Agency,No,96000.0,122000.0
+24/11/2020 13:50:23,24.0,Male,Munich,Software Engineer,3,Middle,Node.js,"Swift, Javascript / Typescript, Go, AWS, Kubernetes, Docker",English,1000+,Consulting / Agency,No,0.0,76000.0
+24/11/2020 13:51:23,24.0,Female,Stuttgart,Software Engineer,2,Middle,iOS,"Swift, Flutter",English,11-50,Consulting / Agency,No,0.0,57200.0
+24/11/2020 13:53:01,56.0,Male,Ingolstadt,Software Engineer,9,Senior,R,"R, SQL",German,1000+,Product,No,0.0,75000.0
+24/11/2020 13:54:47,53.0,Male,Stuttgart,Frontend Developer,15,Senior,"Java, Javascript",Javascript / Typescript,German,101-1000,Product,No,0.0,50000.0
+24/11/2020 13:55:19,25.0,Male,Munich,ML Engineer,1,Middle,Python,"Python, C/C++, Swift, Matlab ",English,1000+,Product,No,0.0,67000.0
+24/11/2020 13:55:19,32.0,Male,Berlin,Engineering Manager,9,Lead,0,"PHP, Javascript / Typescript, .NET, SQL, Google Cloud, Kubernetes, Docker",English,1000+,Product,No,0.0,235000.0
+24/11/2020 13:55:55,28.0,Male,Stuttgart,Software Engineer,8,Senior,C++,Python,English,1000+,Outsorce,No,0.0,67200.0
+24/11/2020 13:56:32,32.0,Male,Berlin,Backend Developer,0,Senior,Ruby,"Javascript / Typescript, Go, AWS, Docker",English,101-1000,Product,No,0.0,72000.0
+24/11/2020 13:58:11,30.0,Male,Munich,Software Engineer,7,Senior,C++,0,English,1000+,Product,No,167000.0,175000.0
+24/11/2020 14:00:19,26.0,Female,Berlin,Software Engineer,6,Senior,.NET,".NET, SQL, Azure, Docker",English,101-1000,Product,No,57000.0,66000.0
+24/11/2020 14:01:01,31.0,Female,Stuttgart,Data Scientist,4,Middle,R,"Python, R, Azure",German,1000+,Product,No,130000.0,138000.0
+24/11/2020 14:02:22,31.0,Male,Munich,Software Engineer,9,Middle,C++,Java / Scala,English,1000+,Product,No,0.0,115000.0
+24/11/2020 14:03:04,29.0,Female,Stuttgart,QA Engineer,6,Middle,JS,0,English,101-1000,Product,No,0.0,54000.0
+24/11/2020 14:03:07,33.0,Male,Munich,Backend Developer,15,Lead,Scala,"Javascript / Typescript, Java / Scala, SQL, AWS, Docker",English,11-50,Startup,No,98101.0,110000.0
+24/11/2020 14:04:28,26.0,Male,Munich,ML Engineer,1.5,Junior,Python,"C/C++, PyTorch",German,101-1000,Consulting / Agency,No,55000.0,58000.0
+24/11/2020 14:06:46,30.0,Female,Frankfurt,QA Engineer,6,Senior,Bash,"Python, Java / Scala, SQL, AWS, Azure",German,1000+,Bank ,No,72000.0,72000.0
+24/11/2020 14:07:23,34.0,Male,Berlin,Software Engineer,14,Senior,C#,"Javascript / Typescript, .NET, SQL, AWS, Docker",English,101-1000,Product,No,65000.0,72000.0
+24/11/2020 14:07:23,37.0,Male,Berlin,Team Lead,12,Lead,Python,"Python, PHP, Javascript / Typescript, SQL, Docker",English,11-50,Consulting / Agency,No,85000.0,90000.0
+24/11/2020 14:13:21,38.0,Male,Frankfurt,Tech Lead,16,Lead,.Net,"Javascript / Typescript, .NET, SQL, AWS, Azure, Kubernetes, Docker",English,101-1000,Fintech,No,0.0,211000.0
+24/11/2020 14:13:25,28.0,Male,Munich,Network Administrator,9,Senior,Network,0,English,1000+,Automotive,No,59500.0,68500.0
+24/11/2020 14:14:23,35.0,Male,Stuttgart,Security Manager,14,Senior,0,"AWS, Google Cloud",German,1000+,Product,No,57000.0,85000.0
+24/11/2020 14:17:20,31.0,Male,Berlin,QA Engineer,10,Senior,nothing,Python,English,1000+,Product,No,67500.0,137000.0
+24/11/2020 14:21:40,29.0,Male,Düsseldorf,Consultant Data Analytics,1,Junior,Python,0,German,1000+,Consulting / Agency,No,0.0,47000.0
+24/11/2020 14:24:07,39.0,Male,Munich,BI IT Consultant,5,Middle,"Qlik BI Tool, SQL","Javascript / Typescript, SQL",German,1000+,Product,No,70000.0,73000.0
+24/11/2020 14:26:28,31.0,Female,Berlin,Graphic Designer,11,Middle,0,"Adobe Cloud, Sketch, 3Ds Max",English,101-1000,Startup,No,21800.0,32000.0
+24/11/2020 14:28:29,39.0,Male,Munich,Software Engineer,12,Lead,PHP,"Javascript / Typescript, Kubernetes, Docker",English,up to 10,Consulting / Agency,No,108000.0,108000.0
+24/11/2020 14:28:35,29.0,Male,Munich,Backend Developer,8,Senior,Java,SQL,English,1000+,Product,No,80000.0,102000.0
+24/11/2020 14:29:49,36.0,Male,Nürnberg,Frontend Developer,1,Junior,Javascript,"PHP, SQL",German,up to 10,Startup,Yes,0.0,37500.0
+24/11/2020 14:30:08,33.0,Male,Berlin,iOS Developer,10,Middle,Swift,"Ruby, Objective C",English,1000+,Product,No,66000.0,67000.0
+24/11/2020 14:30:58,35.0,Male,Frankfurt,Banker,12,Senior,0,0,English,101-1000,Bank,No,0.0,132000.0
+24/11/2020 14:31:59,31.0,Male,Berlin,Data Engineer,9,Senior,Python,"Kotlin, SQL, AWS, Docker, Spark",English,101-1000,Product,No,80600.0,93150.0
+24/11/2020 14:34:00,38.0,Male,Berlin,Backend Developer,11,Senior,Javascript,"Python, Javascript / Typescript, SQL, AWS, Docker",English,up to 10,Startup,No,0.0,35000.0
+24/11/2020 14:34:18,37.0,Male,Berlin,Cloud Engineer,15,Senior,Cloud,"Python, .NET, Azure, Kubernetes, Docker",English,1000+,Product,Yes,69000.0,82000.0
+24/11/2020 14:34:36,34.0,Male,Munich,Product Manager,7,Middle,0,0,English,101-1000,Startup,No,72000.0,72000.0
+24/11/2020 14:34:38,30.0,Male,Ansbach,Software Engineer,4,Junior,PHP,Javascript / Typescript,English,101-1000,Product,No,36000.0,42000.0
+24/11/2020 14:37:11,34.0,Male,Munich,Solutions architect,14,Lead,Blockchain,"Python, Kotlin, Java / Scala, SQL, Go, AWS, Google Cloud, Kubernetes, Docker",English,101-1000,Startup,No,95000.0,105000.0
+24/11/2020 14:37:19,33.0,Male,Berlin,Backend Developer,12,Senior,PHP,"SQL, Go, AWS, Docker",English,101-1000,0,No,65000.0,67000.0
+24/11/2020 14:38:11,43.0,Male,Berlin,Backend Developer,5,Middle,Java,Kotlin,English,101-1000,Product,No,69000.0,70000.0
+24/11/2020 14:40:25,32.0,Female,Stuttgart,Stuttgart,2,Junior,Java,0,English,1000+,Product,No,48000.0,56000.0
+24/11/2020 14:42:18,34.0,Male,Leipzig,Mobile Developer,14,Senior,Android,"Kotlin, Java / Scala, Azure",English,101-1000,Consulting / Agency,No,104000.0,120000.0
+24/11/2020 14:47:18,29.0,Male,Berlin,Backend Developer,9,Senior,Java,"Kotlin, SQL, Azure, Kubernetes, Docker, Mongo",English,1000+,Product,No,66000.0,85000.0
+24/11/2020 14:49:06,37.0,Male,Berlin,Frontend Developer,14,Senior,Angular,"Javascript / Typescript, Azure, Kubernetes, GraphQL",English,1000+,IT Department of established business,No,82000.0,84000.0
+24/11/2020 14:49:52,41.0,Male,Munich,Project Manager,19,Senior,Autonomous Driving,C/C++,English,101-1000,Product,No,120000.0,123600.0
+24/11/2020 14:52:12,33.0,Male,Mannheim,Software Engineer,6,Middle,c#,.NET,English,51-100,Startup,No,48000.0,49000.0
+24/11/2020 14:54:48,33.0,Female,Berlin,QA Engineer,9,Middle,Java,0,English,101-1000,Startup,No,54000.0,57000.0
+24/11/2020 14:56:33,40.0,Male,Munich,QA Engineer,18,Lead,Java,"SQL, AWS, Kubernetes, Docker, Groovy",German,1000+,Product,No,83000.0,86000.0
+24/11/2020 14:58:11,38.0,Male,Munich,Backend Developer,12,Senior,Java,"PHP, Javascript / Typescript, SQL",German,101-1000,Telecommunications,No,69500.0,71500.0
+24/11/2020 15:03:12,29.0,Male,Munich,Frontend Developer,5,Middle,"Js, TypeScript, Angular",0,English,101-1000,Product,No,57000.0,57000.0
+24/11/2020 15:04:23,27.0,Male,Berlin,Backend Developer,7,Senior,go,"SQL, Go, AWS, Kubernetes, Docker",English,11-50,Product,No,0.0,87000.0
+24/11/2020 15:05:21,39.0,Male,Berlin,Product Manager,10,Lead,0,0,English,1000+,Product,No,320000.0,320000.0
+24/11/2020 15:07:35,33.0,Male,Frankfurt,Software Engineer,10,Senior,.NET,"Javascript / Typescript, SQL, Azure",English,up to 10,Startup,No,0.0,26400.0
+24/11/2020 15:07:35,28.0,Male,Berlin,Frontend Developer,8,Senior,Javascript,0,0,0,0,other,0.0,68000.0
+24/11/2020 15:08:28,33.0,Female,Munich,QA Engineer,6.5,Senior,0,0,English,101-1000,Product,No,58000.0,61500.0
+24/11/2020 15:09:28,38.0,Male,Munich,ML Engineer,10,Lead,Python,"SQL, AWS, Azure, Kubernetes, Docker",English,51-100,Consulting / Agency,No,92000.0,92101.0
+24/11/2020 15:10:18,42.0,Male,Berlin,ML Engineer,20,Senior,Python,"Java / Scala, SQL, AWS, Google Cloud, Azure, Docker",German,1000+,Product,No,66000.0,80000.0
+24/11/2020 15:16:47,45.0,Female,Frankfurt,Data Analyst,6,Senior,T-SQL,0,English,11-50,Product,No,0.0,55000.0
+24/11/2020 15:17:34,38.0,Male,Hamburg,Software Engineer,12,Senior,Java,"Python, Java / Scala, AWS, Docker",English,51-100,Product,No,72000.0,80000.0
+24/11/2020 15:17:54,29.0,Male,Berlin,QA Engineer,9,Senior,0,"SQL, AWS, Kubernetes",English,101-1000,Startup,No,55000.0,70000.0
+24/11/2020 15:21:19,30.0,Male,Berlin,Software Engineer,11,Senior,Kotlin,"Kotlin, .NET, SQL, AWS",English,11-50,Startup,No,55000.0,55000.0
+24/11/2020 15:22:10,32.0,Male,Berlin,Software Engineer,9,Lead,JavaScript,"Javascript / Typescript, Ruby, AWS, Kubernetes, Docker",English,101-1000,Product,Have been a freelancer at the beginning of year,75000.0,90000.0
+24/11/2020 15:27:01,41.0,Male,Munich,Backend Developer,21,Senior,Java,"Kubernetes, Docker",English,101-1000,Product,No,78000.0,80000.0
+24/11/2020 15:28:50,34.0,Male,Berlin,Security Engineer,10,Senior,python,"Javascript / Typescript, AWS, Kubernetes",English,1000+,Product,No,72000.0,110000.0
+24/11/2020 15:31:46,45.0,Male,Berlin,Software Engineer,25,Lead,c++,"Python, C/C++, Javascript / Typescript, Ruby, .NET, Java / Scala, SQL, Go, AWS, Kubernetes",German,1000+,Product,No,93000.0,95000.0
+24/11/2020 15:32:59,34.0,Male,Berlin,DevOps,6,Middle,"Java, terraform","Python, Kotlin, Javascript / Typescript, Java / Scala, AWS, Kubernetes, Docker",German,1000+,Media,No,114000.0,132000.0
+24/11/2020 15:37:24,25.0,Male,Stuttgart,Backend Developer,7,Senior,PHP,"Python, PHP, Javascript / Typescript, SQL",English,11-50,Startup,Yes,0.0,60000.0
+24/11/2020 15:38:09,32.0,Male,Berlin,Software Engineer,12,Senior,iOS,"Swift, objective-c",English,51-100,Product,No,65000.0,66800.0
+24/11/2020 15:39:13,65.0,Male,Berlin,Software Engineer,25,Senior,"Pascal, VB.NET, C#",".NET, SQL",German,51-100,Product,No,50000.0,55000.0
+24/11/2020 15:41:16,33.0,Male,Munich,Business Analyst,10,Senior,Java,SQL,English,101-1000,Product,"No, but there was a salary cut at 10% for 3 months and then at 5% for further 3 months",70850.0,70000.0
+24/11/2020 15:41:45,34.0,Male,Berlin,ML Engineer,12,Senior,Python,"Python, SQL, Google Cloud, Kubernetes, Docker",English,1000+,Product,No,80000.0,90000.0
+24/11/2020 15:42:31,28.0,Male,Berlin,Backend Developer,7,Senior,PHP,"Javascript / Typescript, .NET, SQL, Azure, Kubernetes, Docker",English,101-1000,Product,No,0.0,70000.0
+24/11/2020 15:47:19,0.0,Male,Berlin,Data Engineer,7.5,Middle,SQL,"Python, SQL, AWS, Kubernetes, Docker",English,101-1000,Product,No,48000.0,68500.0
+24/11/2020 15:56:31,39.0,Male,Munich,DBA,17,Senior,Oracle,SQL,English,101-1000,Product,No,0.0,134000.0
+24/11/2020 15:59:02,30.0,Male,Berlin,Backend Developer,7,Senior,Ruby,"Javascript / Typescript, SQL, Go, AWS, Docker",English,11-50,Product,No,66000.0,72000.0
+24/11/2020 15:59:17,34.0,Male,Berlin,DevOps,12,Senior,Java,"Go, AWS, Kubernetes, Docker",English,101-1000,Product,No,0.0,70000.0
+24/11/2020 16:02:11,35.0,Male,Berlin,Support Engineer,10,Senior,PHP,"SQL, AWS, Docker",English,101-1000,Product,No,120000.0,127000.0
+24/11/2020 16:03:27,35.0,Female,Berlin,Frontend Developer,12,Middle,Javascript ,"AWS, Docker",English,101-1000,E-commerce,No,70000.0,70000.0
+24/11/2020 16:05:55,34.0,Male,Berlin,Frontend Developer,10,Senior,"Angular, React","Python, Javascript / Typescript, Docker",English,11-50,Startup,No,68000.0,68000.0
+24/11/2020 16:06:53,34.0,Male,Berlin,Software Engineer,12,Lead,.net,"Javascript / Typescript, .NET, SQL, Azure",German,1000+,Product,No,134000.0,86000.0
+24/11/2020 16:14:57,35.0,Male,Berlin,Software Engineer,8,Senior,Elixir,Erlang,English,101-1000,Startup,other,0.0,75000.0
+24/11/2020 16:15:34,38.0,Male,Berlin,Software Engineer,13,Lead,Java,Kotlin,English,1000+,Product,No,100240.0,109810.0
+24/11/2020 16:16:41,34.0,Female,Berlin,Software Engineer,9,Senior,Kotlin,"Python, Kotlin, Java / Scala, Google Cloud, Kubernetes, Docker",English,101-1000,Product,No,72000.0,81000.0
+24/11/2020 16:20:42,31.0,Male,Berlin,Mobile Developer,7,Senior,iOS,Swift,English,1000+,Product,No,72500.0,80000.0
+24/11/2020 16:26:30,34.0,Male,Berlin,Backend Developer,15,Senior,Elixir,"Javascript / Typescript, Ruby, SQL, Google Cloud, Kubernetes, Docker",English,51-100,Product,No,130000.0,140000.0
+24/11/2020 16:34:40,29.0,Female,Munich,Software Engineer,5,Middle,"NodeJS, Typescript, AWS","Javascript / Typescript, Java / Scala, AWS",English,101-1000,Product,No,69000.0,72000.0
+24/11/2020 16:35:30,37.0,Male,Berlin,Software Engineer,15,Senior,Scala,"Python, Java / Scala, Docker",English,1000+,Product,No,100000.0,90000.0
+24/11/2020 16:42:53,44.0,Male,Stuttgart,Software Engineer,22,Senior,Erlang,"Python, SQL, Docker",English,51-100,Startup,No,76000.0,76000.0
+24/11/2020 16:56:17,30.0,Male,Munich,Frontend Developer,9,Middle,TypeScript,"Javascript / Typescript, Kubernetes",English,101-1000,Product,No,64000.0,66000.0
+24/11/2020 17:01:00,26.0,Male,Frankfurt,Consultant,4,Middle,JavaScript,"Python, Javascript / Typescript",German,101-1000,Consulting / Agency,No,110000.0,135000.0
+24/11/2020 17:03:03,33.0,Diverse,Hamburg,Software Engineer,1,Middle,Scala,"Python, SQL, Kubernetes, Docker",English,1000+,Product,No,0.0,130000.0
+24/11/2020 17:04:09,46.0,Male,Berlin,Software Engineer,14,Senior,JavaScript,"PHP, Javascript / Typescript, SQL, Google Cloud, Docker",English,51-100,Product,Yes,63000.0,80000.0
+24/11/2020 17:05:17,33.0,Male,Berlin,Software Engineer,14,Senior,PHP,"PHP, Java / Scala",English,51-100,Product,No,68000.0,68000.0
+24/11/2020 17:08:51,27.0,Male,Tuttlingen,Software Engineer,4,Junior,C#,.NET,German,up to 10,Product,No,45000.0,48000.0
+24/11/2020 17:12:18,38.0,Male,Stuttgart,Software Engineer,15,Senior,C#,.NET,English,11-50,Product,No,56400.0,56400.0
+24/11/2020 17:21:09,32.0,Male,Munich,Backend Developer,11,Senior,PHP,"PHP, Javascript / Typescript, Java / Scala, Docker",English,1000+,Product,No,0.0,162400.0
+24/11/2020 17:24:17,36.0,Female,Berlin,Recruiter,11,Senior,0,0,English,1000+,Product,No,55000.0,81000.0
+24/11/2020 17:24:24,26.0,Male,Frankfurt,Backend Developer,7,Senior,Java,0,English,101-1000,Product,No,0.0,65000.0
+24/11/2020 17:27:43,29.0,Male,Berlin,Software Engineer,12,Senior,Go,"PHP, Go",English,101-1000,Product,No,140000.0,150000.0
+24/11/2020 17:28:01,32.0,Male,Nürnberg,QA Engineer,8,Senior,"Java, JS","Javascript / Typescript, Java / Scala",German,101-1000,Consulting / Agency,Yes,0.0,60000.0
+24/11/2020 17:29:12,29.0,Male,Bonn,Mobile Developer,5,Middle,Objective-C,Swift,English,11-50,Product,No,56800.0,59000.0
+24/11/2020 17:29:25,33.0,Male,Hamburg,Software Engineer,10,Senior,Ruby,Elixir,English,101-1000,Product,No,70000.0,75000.0
+24/11/2020 17:29:51,0.0,0,Munich,Data Scientist,2,Middle,Python ,0,English,51-100,Product,No,54000.0,54000.0
+24/11/2020 17:30:40,32.0,Male,Munich,QA Engineer,9,Senior,QA,Java / Scala,English,101-1000,Product,No,0.0,76000.0
+24/11/2020 17:31:48,34.0,Male,Berlin,Software Engineer,10,Senior,C++,Python,English,101-1000,Product,No,81000.0,88000.0
+24/11/2020 17:33:40,31.0,Male,Moscow,Data Scientist,2.5,Lead,Python,Python,Russian,1000+,Bank,No,20500.0,26500.0
+24/11/2020 17:35:27,29.0,Male,Munich,Software Engineer,7,Senior,TypeScript,"Javascript / Typescript, AWS",English,11-50,Startup,No,0.0,80000.0
+24/11/2020 17:35:46,33.0,Male,Munich,Software Engineer,10,Senior,C#,Javascript / Typescript,German,51-100,Product,No,65000.0,78000.0
+24/11/2020 17:37:32,32.0,Male,Berlin,Backend Developer,4,Senior,Ruby,"Python, SQL, Go, AWS, Kubernetes, Docker",English,51-100,Product,No,57000.0,65000.0
+24/11/2020 17:38:29,47.0,Male,Hamburg,Software Engineer,22,Senior,C++/C#,"C/C++, .NET, SQL",English,up to 10,Product,No,92000.0,92000.0
+24/11/2020 17:38:51,29.0,Male,Berlin,Backend Developer,8,Middle,Go,Python,English,101-1000,Product,No,60000.0,65000.0
+24/11/2020 17:39:35,28.0,Male,Munich,Software Engineer,5,Senior,C++,"Python, C/C++",English,up to 10,Startup,Yes,46500.0,69000.0
+24/11/2020 17:40:38,0.0,Male,Hamburg,Support Engineer,0,Senior,0,"Kubernetes, Docker",English,0,0,No,60000.0,61000.0
+24/11/2020 17:40:40,25.0,Male,Hamburg,Data Scientist,2,Middle,Python,.NET,German,11-50,Product,No,91200.0,53000.0
+24/11/2020 17:40:57,32.0,Male,Munich,SAP Developer,9,Senior,ABAP,SAP / ABAP,German,1000+,Consulting / Agency,No,0.0,75800.0
+24/11/2020 17:43:34,45.0,Male,Munich,Frontend Developer,3,Senior,Javascript / Typescript,0,Russian,11-50,Startup,Yes,65000.0,70000.0
+24/11/2020 17:45:03,26.0,Male,Frankfurt,Software Engineer,3,Middle,Python ,"Python, Java / Scala",English,51-100,Consulting / Agency,No,0.0,48000.0
+24/11/2020 17:45:39,29.0,Male,Munich,Mobile Developer,8,Senior,Java/Kotlin,"Kotlin, C/C++, Java / Scala",English,11-50,Consulting / Agency,No,0.0,65400.0
+24/11/2020 17:47:00,40.0,Male,Berlin,Backend Developer,18,Senior,php,"PHP, SQL, Go, Docker, Postgres",English,1000+,Product,No,60000.0,60000.0
+24/11/2020 17:47:42,27.0,Male,Munich,Software Engineer,5,Senior,Typescript / Angular,0,English,1000+,Product,No,66000.0,76000.0
+24/11/2020 17:51:26,27.0,Male,Munich,Software Engineer,5,Senior,Javascript,"Javascript / Typescript, Go",English,51-100,Product,No,130000.0,65000.0
+24/11/2020 17:53:18,38.0,Male,Koblenz,System Administrator,20,Senior,0,0,German,11-50,Systemhaus,No,42000.0,44000.0
+24/11/2020 17:55:30,22.0,Male,Warsaw,Backend Developer,3,Middle,PHP,0,Polish,51-100,Consulting / Agency,No,0.0,27000.0
+24/11/2020 17:57:20,30.0,Male,Berlin,DevOps,9,Lead,Kubernetes,"Python, Google Cloud, Kubernetes, Docker",English,101-1000,Product,No,80000.0,90000.0
+24/11/2020 17:57:39,30.0,Male,Hamburg,Software Engineer,6,Middle,.NET,"Javascript / Typescript, .NET, SQL, Docker",English,101-1000,Product,No,0.0,66000.0
+24/11/2020 18:01:03,29.0,Male,Munich,Architect,8,Senior,C++,"Python, C/C++, Docker",English,1000+,Product,No,119000.0,73400.0
+24/11/2020 18:06:17,37.0,Male,Heidelberg,Software Engineer,15,Senior,ABAP,"Javascript / Typescript, SAP / ABAP",English,1000+,Product,No,70000.0,75000.0
+24/11/2020 18:09:09,28.0,Male,Berlin,SRE,6,Middle,Kubernetes,"Python, Go, AWS, Kubernetes, Docker",English,1000+,Product,No,66000.0,66122.13
+24/11/2020 18:10:47,28.0,Female,Berlin,Software Engineer,8,Lead,Javascript,0,English,101-1000,Product,No,0.0,80000.0
+24/11/2020 18:10:54,26.0,Male,Karlsruhe,Software Engineer,5,0,0,"Python, Kotlin, Javascript / Typescript, Java / Scala, SQL, Kubernetes, Docker",50/50,11-50,Consulting / Agency,No,52000.0,55000.0
+24/11/2020 18:12:43,28.0,Male,Stuttgart,Backend Developer,5,Middle,Java,Linux,German,101-1000,Product,No,42000.0,60000.0
+24/11/2020 18:13:06,33.0,Male,Berlin,Software Engineer,13,Senior,Ruby,"Ruby, Java / Scala, Go, AWS, Kubernetes, Docker",English,1000+,Product,No,68000.0,95000.0
+24/11/2020 18:16:39,25.0,Male,Berlin,Backend Developer,5,Senior,Java,Python,0,0,0,other,0.0,65600.0
+24/11/2020 18:19:49,38.0,Male,Köln,QA Engineer,7,Middle,0,0,German,11-50,Consulting / Agency,No,54500.0,54500.0
+24/11/2020 18:22:41,40.0,Male,Frankfurt,Software Engineer,22,Senior,Java,"Kotlin, Javascript / Typescript, Java / Scala, Kubernetes, Docker",German,1000+,Product,No,90000.0,77000.0
+24/11/2020 18:25:30,28.0,Male,Munich,Software Engineer,9,Senior,React/Typescript,MongoDB,English,up to 10,Startup,No,0.0,60000.0
+24/11/2020 18:27:22,29.0,Male,Berlin,Backend Developer,11,Senior,Python,"Python, Go, AWS, Kubernetes, Docker",English,51-100,Product,No,89000.0,89000.0
+24/11/2020 18:31:25,0.0,Male,Berlin,Software Engineer,9,Lead,Java,"AWS, Docker",English,1000+,Startup,No,0.0,75000.0
+24/11/2020 18:32:14,24.0,Male,Aachen,HiWi,3,Junior,Python,"Python, C/C++",English,11-50,University,No,0.0,10164.0
+24/11/2020 18:33:17,30.0,Male,Berlin,Backend Developer,4,Senior,Golang ,"Javascript / Typescript, .NET, SQL, Go, Kubernetes, Docker",English,101-1000,Product,No,0.0,65000.0
+24/11/2020 18:36:46,31.0,Male,Munich,Software Engineer,11,Middle,Python,Docker,English,1000+,Product,No,0.0,75000.0
+24/11/2020 18:37:32,44.0,Male,Munich,Software Engineer,28,Senior,C#,"C/C++, .NET, SQL",English,51-100,Product,No,80500.0,78500.0
+24/11/2020 18:39:05,35.0,Male,Düsseldorf,Product Manager,5,Senior,0,0,English,101-1000,Product,No,108000.0,112000.0
+24/11/2020 18:39:13,41.0,Female,Munich,Data Engineer,12,Senior,0,"Python, SQL, Azure",German,101-1000,Consulting / Agency,No,66500.0,72500.0
+24/11/2020 18:40:13,32.0,Male,Berlin,Software Engineer,12,Senior,Java,"Python, SQL, AWS, Kubernetes, Docker",English,1000+,Product,No,75000.0,83500.0
+24/11/2020 18:44:33,28.0,Female,Mannheim,Software Engineer,4,Junior,0,"PHP, SQL, Perl",English,1000+,Consulting / Agency,No,0.0,53000.0
+24/11/2020 18:48:30,0.0,Male,Karlsruhe ,Backend Developer,8,Lead,Python,"Python, C/C++, Javascript / Typescript, Java / Scala",English,up to 10,Product,No,75800.0,70400.0
+24/11/2020 18:49:18,33.0,Male,Berlin,Software Engineer,10,Middle,iOS,Swift,English,1000+,Product,No,0.0,65000.0
+24/11/2020 18:49:33,46.0,Male,Munich,Software Engineer,10,Senior,Python ,"Javascript / Typescript, AWS",English,51-100,Startup,No,60000.0,68500.0
+24/11/2020 18:50:28,27.0,Male,Berlin,Frontend Developer,8,Middle,Angular,Javascript / Typescript,English,51-100,Product,No,0.0,45000.0
+24/11/2020 18:50:50,30.0,Male,Samara,Backend Developer,2,Middle,php,"PHP, Javascript / Typescript, SQL",0,0,0,other,0.0,12000.0
+24/11/2020 18:51:35,32.0,Male,Berlin,Backend Developer,5,Middle,Ruby,"Javascript / Typescript, AWS, Docker",English,11-50,Product,No,60000.0,72000.0
+24/11/2020 18:52:09,34.0,Male,Berlin,Software Engineer,15,Lead,Java,"Java / Scala, SQL",English,1000+,Product,No,87000.0,92000.0
+24/11/2020 18:53:16,33.0,Male,Berlin,Software Engineer,10,Senior,Salesforce ,"Python, Javascript / Typescript, Apex",English,11-50,Startup,No,0.0,68000.0
+24/11/2020 18:53:57,26.0,Male,"Riga, Latvia",Software Engineer,4,Middle,javascript,"Javascript / Typescript, SAP / ABAP",English,101-1000,Consulting / Agency,No,20000.0,24000.0
+24/11/2020 18:54:07,41.0,Male,Berlin,Software Engineer,19,Lead,Python,"C/C++, SQL, AWS, Kubernetes, Docker",English,1000+,Product,No,101500.0,110000.0
+24/11/2020 18:54:54,35.0,Male,Cologne,Software Engineer,14,Senior,C++,"Python, C/C++, SQL",English,101-1000,Product,No,140000.0,149000.0
+24/11/2020 18:58:54,26.0,Male,Hamburg,Software Engineer,7,Senior,TypeScript,"Python, Javascript / Typescript, AWS, Docker",German,101-1000,Consulting / Agency,No,0.0,72000.0
+24/11/2020 18:59:20,27.0,Male,Berlin,Mobile Developer,3,Middle,Kotlin,"Kotlin, Java / Scala",English,101-1000,Startup,No,0.0,65000.0
+24/11/2020 18:59:38,24.0,Male,Munich,Software Engineer,3,Middle,Java/C++,"Python, C/C++, Javascript / Typescript, Java / Scala, SQL, Kubernetes",English,1000+,Product,No,90800.0,121100.0
+24/11/2020 19:07:37,35.0,Male,Hamburg,Software Engineer,13,Lead,Scala / Python,"Python, Ruby, Java / Scala, Google Cloud, Kubernetes, Docker",English,51-100,Startup,No,90000.0,110000.0
+24/11/2020 19:07:57,31.0,Male,Dusseldorf,Software Engineer,7,Senior,C++,"Python, C/C++, Javascript / Typescript, SQL",English,1000+,Product,No,100000.0,100800.0
+24/11/2020 19:09:32,25.0,Male,Berlin,Backend Developer,5,Middle,Java,"Python, Kotlin, Java / Scala, SQL, AWS, Google Cloud, Kubernetes, Docker",English,1000+,Startup,other,0.0,80000.0
+24/11/2020 19:12:16,30.0,Male,Moscow,Backend Developer,2,Middle,Python,"Python, SQL, Docker",Russian,51-100,Startup,No,0.0,13000.0
+24/11/2020 19:14:03,37.0,Male,Zurich,Project manager,20,Middle,0,0,English,1000+,Consulting / Agency,No,135000.0,150000.0
+24/11/2020 19:15:02,30.0,Male,Moscow,Software Engineer,5,Middle,C,C/C++,Russian,101-1000,Product,No,14712.0,14712.0
+24/11/2020 19:15:49,33.0,Male,Berlin,Product Manager,5,Senior,0,Python,German,101-1000,Product,No,132000.0,70800.0
+24/11/2020 19:19:30,35.0,Male,Berlin,QA Engineer,11,Senior,Java,"Python, Javascript / Typescript, .NET, Java / Scala, Kubernetes, Docker",English,101-1000,Product,No,0.0,74400.0
+24/11/2020 19:24:50,37.0,Male,Hamburg,Software Engineer,15,Senior,Java,"Python, Javascript / Typescript, Java / Scala, Go, AWS, Kubernetes, Docker",English,11-50,Startup,No,60000.0,70000.0
+24/11/2020 19:30:15,36.0,Male,Hamburg,Backend Developer,10,Senior,Java/Scala,"Python, Go, AWS, Docker",German,51-100,Product,No,78000.0,82000.0
+24/11/2020 19:31:46,32.0,Female,Cologne,Data Scientist,4,Senior,Python,0,English,1000+,consumer goods,No,154000.0,173000.0
+24/11/2020 19:40:48,38.0,Male,Berlin,Security Engineer,5,Lead,0,"Python, C/C++, AWS, Kubernetes, Docker",English,101-1000,Startup,No,73500.0,80000.0
+24/11/2020 19:41:27,23.0,Male,Berlin,Software Engineer,4,Middle,Javascript,"Javascript / Typescript, SQL, AWS, Docker",English,1000+,Product,No,58000.0,70500.0
+24/11/2020 19:42:42,39.0,Male,Stuttgart,Software Engineer,11,Lead,PHP,"PHP, SQL, Kubernetes, Docker",English,101-1000,Product,No,75000.0,75000.0
+24/11/2020 19:47:34,27.0,Female,Berlin,Data Scientist,3,Middle,Python,"Python, SQL, Google Cloud, Kubernetes, Docker",English,51-100,Product,No,55000.0,59000.0
+24/11/2020 19:48:24,50.0,Male,Berlin,Software Engineer,29,Lead,C++,"C/C++, PHP, SQL",German,11-50,IT-Outsourcing,No,57600.0,57600.0
+24/11/2020 19:57:46,35.0,Female,Berlin,Designer (UI/UX),15,Middle,0,0,English,1000+,Product,No,0.0,118000.0
+24/11/2020 20:00:02,40.0,Male,Berlin,Architect,10,Middle,0,"Python, R, Go",English,101-1000,0,No,0.0,99000.0
+24/11/2020 20:01:18,35.0,Male,Helsinki,Backend Developer,11,Senior,python,"SQL, AWS, Docker",English,101-1000,Product,No,109000.0,68000.0
+24/11/2020 20:02:15,29.0,Male,Berlin,Backend Developer,10,Senior,Ruby,Go,English,101-1000,Product,No,0.0,80000.0
+24/11/2020 20:02:34,30.0,Male,Munich,Mobile Developer,8,Lead,Swift,Swift,English,11-50,Startup,No,125000.0,161000.0
+24/11/2020 20:04:24,24.0,Male,Frankfurt,Frontend Developer,3,Middle,JavaScript,"Javascript / Typescript, Docker",English,51-100,Product,No,44000.0,47000.0
+24/11/2020 20:04:37,28.0,Male,Würzburg,Software Engineer,8,Senior,Java,"Kotlin, Javascript / Typescript",English,101-1000,Product,No,0.0,75000.0
+24/11/2020 20:14:50,28.0,Male,Berlin,Backend Developer,9,Senior,PHP,"SQL, AWS, Docker",English,11-50,Product,No,90000.0,61000.0
+24/11/2020 20:15:27,37.0,Female,Berlin,Designer (UI/UX),2,Middle,0,0,English,up to 10,Startup,No,0.0,70000.0
+24/11/2020 20:18:31,37.0,Male,Berlin,Software Engineer,8,Senior,Python ,"Python, Javascript / Typescript, SQL, Go, AWS, Google Cloud, Kubernetes, Docker",English,101-1000,Product,No,144800.0,154300.0
+24/11/2020 20:23:25,33.0,Male,Berlin,Technical Lead,10,Lead,0,"Kotlin, Java / Scala, SQL, AWS, Kubernetes, Docker",English,1000+,Startup,No,70000.0,85000.0
+24/11/2020 20:23:56,30.0,Male,Kiev,Backend Developer,8,Middle,Web developer,"PHP, Javascript / Typescript, SQL, Docker",Русский,51-100,Product,No,27000.0,27000.0
+24/11/2020 20:25:32,30.0,Male,Munich,Frontend Developer,4,Middle,JavaScript/Typescript,"PHP, SQL",English,1000+,Product,No,0.0,55000.0
+24/11/2020 20:26:19,31.0,Male,Berlin,Software Engineer,4,Lead,Java,"Kotlin, SQL, AWS, Kubernetes, Docker",English,1000+,Startup,No,89000.0,95000.0
+24/11/2020 20:26:20,0.0,Male,Munich,Software Engineer,4,Middle,Java,"Javascript / Typescript, AWS, Kubernetes",English,1000+,Product,No,56000.0,56000.0
+24/11/2020 20:26:58,28.0,Female,Berlin,Software Engineer,3,Middle,Javascript,"PHP, Javascript / Typescript",English,101-1000,Startup,No,55000.0,60000.0
+24/11/2020 20:28:38,31.0,Female,Munich,Software Engineer,2,Middle,Java,SQL,German,1000+,Product,No,27500.0,61000.0
+24/11/2020 20:28:49,34.0,Male,Berlin,Mobile Developer,9,Senior,Android,"Kotlin, Java / Scala",English,1000+,Product,No,65000.0,72012.0
+24/11/2020 20:29:04,24.0,Male,Berlin,Backend Developer,4,Middle,PHP,"SQL, Kubernetes, Docker",English,51-100,Startup,No,42000.0,46000.0
+24/11/2020 20:29:50,39.0,Male,Berlin,DevOps,15,Senior,Python,"Python, Ruby, Java / Scala, Go, Rust, AWS, Kubernetes, Docker, Terraform, helm, packer",English,101-1000,Product,No,70000.0,70000.0
+24/11/2020 20:30:14,42.0,Male,Den Haag,Backend Developer,20,Senior,.NET,"Python, Javascript / Typescript, SQL, AWS, Docker",English,101-1000,Product,No,75000.0,75000.0
+24/11/2020 20:37:40,26.0,Male,London,Frontend Developer,8,Senior,"TypeScript, React","Javascript / Typescript, Google Cloud, Kubernetes, Docker",English,1000+,Startup,No,145000.0,165000.0
+24/11/2020 20:38:22,31.0,Female,Frankfurt,Software Engineer,2,Junior,0,0,English,1000+,Consulting / Agency,No,0.0,50000.0
+24/11/2020 20:39:33,32.0,Female,Berlin,Mobile Developer,7,Senior,Kotlin,"Python, Ruby",English,1000+,Product,No,55000.0,63000.0
+24/11/2020 20:41:20,30.0,Female,Berlin,QA Engineer,4,Middle,0,Javascript / Typescript,English,51-100,Startup,No,0.0,52000.0
+24/11/2020 20:41:21,23.0,Male,Berlin,Mobile Developer,3,Lead,Swift,Swift,English,51-100,Startup,No,0.0,130000.0
+24/11/2020 20:43:22,27.0,Female,Berlin,Backend Developer,3,Middle,0,0,English,11-50,0,No,0.0,60000.0
+24/11/2020 21:04:58,27.0,Male,Amsterdam,ML Engineer,4,Middle,python,"Python, R, SQL, SAP / ABAP, AWS, Kubernetes, Docker",English,1000+,Product,No,80000.0,124000.0
+24/11/2020 21:05:56,27.0,Male,Berlin,Tech Lead / Full-Stack,5,Lead,Python / JavaScript (React),"Python, Javascript / Typescript, SQL, AWS, Docker, React, Tailwindcss",English,11-50,Startup,No,76000.0,91000.0
+24/11/2020 21:07:50,29.0,Male,Berlin,Frontend Developer,8,Senior,JavaScript / typescript,0,English,1000+,Product,No,0.0,143000.0
+24/11/2020 21:10:08,32.0,Male,Munich,Software Engineer,10,Senior,Java,"Javascript / Typescript, Go",English,1000+,Product,No,201000.0,208000.0
+24/11/2020 21:14:25,31.0,Male,Berlin,DevOps,11,Senior,Terraform,"PHP, SQL, AWS, Docker",English,101-1000,Startup,No,75000.0,81000.0
+24/11/2020 21:16:30,29.0,Male,Cracovia,Frontend Developer,2,Middle,JavaScript,"Javascript / Typescript, Angular",Polish,1000+,Product,No,32300.0,37900.0
+24/11/2020 21:21:56,26.0,Male,Berlin,Marketing Analyst,7,Middle,SQL,"Python, Javascript / Typescript, Google Cloud",English,101-1000,Startup,No,48000.0,65000.0
+24/11/2020 21:28:26,29.0,Male,Berlin,Software Engineer,5,Middle,PHP,"Javascript / Typescript, SQL, Docker",English,11-50,Product,No,0.0,56000.0
+24/11/2020 21:34:09,30.0,Male,Hamburg,Frontend Developer,7,Senior,JavaScript,Javascript / Typescript,English,101-1000,Product,No,0.0,55000.0
+24/11/2020 21:34:10,38.0,Male,Berlin,Mobile Developer,10,Senior,Swift,"Swift, Objective-C",English,1000+,Product,Yes,75000.0,70000.0
+24/11/2020 21:36:24,32.0,Male,Berlin,CTO,10,Lead,JAVA,"Python, C/C++",English,101-1000,Product,Yes,0.0,400000.0
+24/11/2020 21:37:44,25.0,Male,Berlin,Solutions Architect,6,Middle,Apache Spark,"Python, Java / Scala",English,1000+,Product,No,73000.0,120000.0
+24/11/2020 21:38:24,24.0,Male,Berlin,Backend Developer,3,Junior,C#,"Javascript / Typescript, .NET, Kubernetes, Docker",English,1000+,Game Company,No,0.0,48000.0
+24/11/2020 21:39:12,24.0,Male,Tallinn,Software Engineer,3,Junior,Java,"Python, SQL",English,11-50,Product,No,28800.0,30000.0
+24/11/2020 21:45:48,27.0,Male,Prague,Software Engineer,3,Middle,.NET,"Javascript / Typescript, Java / Scala, SQL",Czech,11-50,Product,No,19320.0,24640.0
+24/11/2020 21:47:25,34.0,Female,Berlin,QA Engineer,6,Senior,Ruby,"Ruby, Java / Scala, AWS, Kubernetes, Docker",English,1000+,Product,No,61400.0,67500.0
+24/11/2020 21:47:33,30.0,Male,Utrecht,Data Scientist,2,Middle,python,Google Cloud,English,1000+,Product,No,47000.0,58000.0
+24/11/2020 21:52:03,27.0,Female,Munich,Frontend Developer,2,Middle,JavaScript,Javascript / Typescript,English,101-1000,Startup,No,50000.0,64000.0
+24/11/2020 22:04:32,46.0,Male,Frankfurt,Software Engineer,23,Senior,C#,"C/C++, Javascript / Typescript, .NET, SQL, Azure",German,1000+,Consulting / Agency,No,158000.0,186000.0
+24/11/2020 22:06:59,48.0,Male,Berlin,Sequrity Engineer,0,Senior,"Computer Networking,  Network Security ",SQL,English,1000+,Startup,No,0.0,68500.0
+24/11/2020 22:08:31,42.0,Female,Munich,Software tester ,12,No level,Java,0,German,51-100,Product,No,78000.0,95000.0
+24/11/2020 22:10:34,40.0,Female,Berlin,Fullstack Developer,8,Senior,C#,"PHP, Javascript / Typescript, .NET, SQL, Azure, Kubernetes, Docker, React, Angular2+",German,51-100,Product,No,54100.0,58500.0
+24/11/2020 22:17:23,23.0,Male,Stockholm,Frontend Developer,5,Senior,Javascript,Javascript / Typescript,English,up to 10,Consulting / Agency,No,0.0,91200.0
+24/11/2020 22:22:57,33.0,Male,Berlin,Software Engineer,0,Senior,Java,"Java / Scala, Google Cloud, Kubernetes, Docker",English,1000+,Product,No,78000.0,99000.0
+24/11/2020 22:28:07,30.0,Male,Moscow,Backend Developer,2,Junior,Elixir,0,English,101-1000,Product,No,36000.0,105000.0
+24/11/2020 22:34:48,40.0,Male,Braunschweig ,SAP BW Senior Consultant ,11,Senior,SAP BW / ABAP,SAP / ABAP,German,1000+,Financial ,No,76800.0,80000.0
+24/11/2020 22:41:24,38.0,Male,Dresden,Software Engineer,10,Lead,"Go, PHP, SQL","PHP, SQL, Go, AWS, Docker",German,51-100,Product,No,0.0,62000.0
+24/11/2020 22:46:49,28.0,Male,Kyiv,Mobile Developer,5,Senior,Swift,"Swift, Google Cloud",English,11-50,Product,No,30000.0,45000.0
+24/11/2020 22:52:26,38.0,Male,Berlin,Software Engineer,16,Senior,ABAP,"PHP, SQL, SAP / ABAP, Delphi",English,1000+,Startup,No,160000.0,94000.0
+24/11/2020 23:09:13,32.0,Male,Hamburg,Software Engineer,12,Senior,Java,"Kotlin, PHP, Javascript / Typescript, Java / Scala",German,101-1000,Product,No,66000.0,67300.0
+24/11/2020 23:20:02,33.0,Female,Berlin,Software Engineer,6,Middle,java,"SQL, AWS, Kubernetes, Docker",English,1000+,Startup,No,54000.0,65000.0
+24/11/2020 23:38:34,34.0,Male,Berlin,Software Engineer,13,Lead,Kotlin ,"Python, Kotlin, C/C++, Java / Scala",English,1000+,Product,No,0.0,85000.0
+24/11/2020 23:40:13,35.0,Female,Stuttgart ,QA Manager ,9,Middle,Jira,0,English,101-1000,Consulting / Agency,No,60000.0,60000.0
+24/11/2020 23:42:24,37.0,Male,Stuttgart ,Software Engineer,9,Senior,Qml,C/C++,English,101-1000,Consulting / Agency,No,60000.0,60000.0
+24/11/2020 23:44:21,40.0,Male,Stuttgart,Software Engineer,14,Senior,C,C/C++,German,1000+,Product,No,0.0,95000.0
+24/11/2020 23:59:07,33.0,Male,Berlin,Director of Engineering,10,Lead,PHP,"PHP, Javascript / Typescript, Java / Scala, SQL, AWS, Docker",English,1000+,Product,No,84000.0,100000.0
+25/11/2020 00:01:55,36.0,Male,Munich,IT Spezialist,15,Senior,AWS,"Javascript / Typescript, Java / Scala, AWS, Docker",German,1000+,Product,No,79000.0,91200.0
+25/11/2020 00:01:59,31.0,Female,Berlin,Product Manager,0,Senior,0,0,English,1000+,Product,No,0.0,60000.0
+25/11/2020 00:09:51,27.0,Male,Frankfurt,Software Engineer,5,Middle,C#/.NET,"C/C++, SQL, VBA",English,up to 10,Consulting / Agency,No,45000.0,48000.0
+25/11/2020 00:41:34,28.0,Male,Berlin,Software Engineer,6,Middle,PHP,"Javascript / Typescript, SQL, Go, Docker",English,101-1000,E-commerce,No,60000.0,60000.0
+25/11/2020 01:12:28,23.0,Male,Warsaw,Software Engineer,4,Middle,PHP,"Javascript / Typescript, SQL, Docker",English,up to 10,Product,No,0.0,34000.0
+25/11/2020 01:29:48,31.0,Female,Berlin,QA Engineer,11,Middle,JS,"Ruby, SQL",English,101-1000,Startup,No,,56999.0
+25/11/2020 03:27:34,0.0,0,Berlin,0,0,0,0,0,0,0,0,other,0.0,99999999999.0
+25/11/2020 05:58:16,34.0,Male,Tallinn,Software Engineer,12,Middle,PHP,"Javascript / Typescript, SQL, Go, Docker",English,101-1000,Product,No,0.0,54000.0
+25/11/2020 06:05:32,34.0,Male,Berlin,Software Engineer,10,Senior,.Net,Python,English,11-50,Product,No,55000.0,60000.0
+25/11/2020 06:26:53,29.0,Male,Tallinn,Mobile Developer,7,Senior,Android,Kotlin,English,101-1000,Startup,No,77000.0,85000.0
+25/11/2020 07:05:35,38.0,Male,Munich,Software Engineer,15,Senior,Javascript,"Javascript / Typescript, .NET, SQL, AWS, Kubernetes, Docker",English,51-100,Corporation,No,83000.0,86000.0
+25/11/2020 07:27:58,25.0,Female,Berlin,Frontend Developer,4,Middle,Javascript / Typescript,NodeJS,English,11-50,Startup,Yes,0.0,60000.0
+25/11/2020 07:38:11,28.0,Male,Berlin,Frontend Developer,6,Senior,JavaScript,"Javascript / Typescript, Docker",English,0,0,No,0.0,66000.0
+25/11/2020 07:46:34,23.0,Male,Berlin,Software Engineer,3,Middle,JavaScript,AWS,English,1000+,Product,No,52000.0,66000.0
+25/11/2020 07:56:59,30.0,Male,Munich,Software Engineer,10,Senior,.NET,"Python, Javascript / Typescript, Azure",English,1000+,Product,No,82000.0,80000.0
+25/11/2020 08:05:37,32.0,Male,Berlin,Engineering Manager,10,Middle,JavaScript,"Javascript / Typescript, Ruby, Kubernetes, Docker",English,101-1000,Product,No,78000.0,85000.0
+25/11/2020 08:08:50,28.0,Male,Berlin,Frontend Developer,2,Junior,JavaScript,"Javascript / Typescript, Google Cloud",German,1000+,Publishing and Technology,No,46000.0,47000.0
+25/11/2020 08:12:21,31.0,Male,Berlin,ML Engineer,4,Junior,python,"Python, Java / Scala, AWS",German,1000+,Product,No,50000.0,70000.0
+25/11/2020 08:17:18,29.0,Male,Berlin,Designer (UI/UX),6,Middle,0,0,English,11-50,Startup,No,54000.0,56000.0
+25/11/2020 08:35:46,40.0,Female,Berlin,Software Engineer,"1,5",Junior,JavaScript ,Ruby,English,51-100,Startup,No,45000.0,50000.0
+25/11/2020 08:39:38,42.0,Male,Berlin,Software Engineer,17,Senior,Go,"Ruby, AWS, Kubernetes, Docker",English,101-1000,Startup,No,76000.0,83000.0
+25/11/2020 08:43:21,40.0,Male,Berlin,Product Manager,13,Lead,0,SQL,English,1000+,Product,No,75000.0,100000.0
+25/11/2020 08:47:15,27.0,Male,Berlin,Software Engineer,6,Middle,Java,"C/C++, Kubernetes, Docker",English,1000+,Product,No,186000.0,94000.0
+25/11/2020 08:47:37,29.0,Male,Munich,Software Engineer,8,Middle,PHP,"Javascript / Typescript, SQL",English,1000+,Product,No,66000.0,75000.0
+25/11/2020 08:47:37,37.0,Male,Malta,Software Architect,18,Lead,Go,"Google Cloud, Kubernetes, Docker, Shell",English,11-50,Startup,No,156000.0,156000.0
+25/11/2020 08:54:22,23.0,Male,Berlin,Software Engineer,5,Middle,Python,"Python, C/C++, Javascript / Typescript, SQL, Docker",English,101-1000,Product,No,0.0,53000.0
+25/11/2020 08:55:24,35.0,Male,Munich,Backend Developer,14,Senior,Java,"Kotlin, Java / Scala, SQL, Kubernetes, Docker",English,101-1000,Startup,No,69300.0,77000.0
+25/11/2020 09:00:23,39.0,Male,Berlin,Manager,11,Lead,Python ,"Python, Kotlin, Java / Scala, AWS",English,1000+,Product,No,250000.0,330000.0
+25/11/2020 09:03:05,33.0,Male,Lübeck,Software Engineer,10,Middle,C#,"Javascript / Typescript, .NET",German,101-1000,Product,No,0.0,55000.0
+25/11/2020 09:04:25,31.0,Male,Berlin,Software Engineer,10,Lead,Python,"AWS, Docker",English,101-1000,Startup,other,0.0,82000.0
+25/11/2020 09:05:26,38.0,Male,Berlin,Data Scientist,15,Lead,Python,"Python, SQL, SAP / ABAP, AWS",English,101-1000,Startup,No,80000.0,220000.0
+25/11/2020 09:05:43,31.0,Male,Hamburg,ML Engineer,3,Lead,Python ,"Kubernetes, Docker",English,11-50,Startup,No,65000.0,70000.0
+25/11/2020 09:05:48,24.0,Male,Cologne,Data Scientist,1,0,Python,"SQL, Google Cloud, Kubernetes, Docker",English,11-50,Consulting / Agency,No,55000.0,64600.0
+25/11/2020 09:06:43,26.0,Female,Berlin,Data Scientist,2,Junior,Python,"R, SQL, AWS, Docker",English,11-50,Consulting / Agency,No,0.0,47000.0
+25/11/2020 09:08:09,30.0,Male,Berlin,Software Engineer,10,Senior,Java,"PHP, Java / Scala",English,11-50,Startup,No,70000.0,70000.0
+25/11/2020 09:14:40,33.0,Male,Munich,Software Engineer,9,Lead,Java,"Python, Kotlin, Javascript / Typescript, SQL, AWS, Docker",German,51-100,Product,No,100000.0,100000.0
+25/11/2020 09:15:08,33.0,Male,Munich,Software Engineer,11,Senior,Python,"Python, Javascript / Typescript, SQL, AWS",English,51-100,Startup,No,0.0,65000.0
+25/11/2020 09:22:40,31.0,Male,Berlin,Mobile Developer,10,Senior,Swift,Swift,English,1000+,Product,No,128000.0,93500.0
+25/11/2020 09:24:45,33.0,Male,Nuremberg ,Data Scientist,2,Middle,Python,"R, SQL, AWS, Kubernetes, Docker",English,1000+,Market Research ,No,54000.0,54000.0
+25/11/2020 09:29:09,43.0,Male,Munich,Consultant ,21,Senior,Java,"Javascript / Typescript, .NET, Java / Scala, Docker",German,101-1000,Consulting / Agency,No,64000.0,72000.0
+25/11/2020 09:29:24,36.0,Male,Berlin,Frontend Developer,14,Senior,Javascript,Javascript / Typescript,English,11-50,Startup,No,70000.0,78000.0
+25/11/2020 09:35:28,33.0,Male,Nürnberg,Software Engineer,9,Senior,Javascript / Typescript,"Python, Java / Scala, SQL, Azure, Docker",German,1000+,Consulting / Agency,No,77000.0,85000.0
+25/11/2020 09:40:44,36.0,Female,Berlin,DevOps,1,Middle,java,"Kubernetes, Docker",English,51-100,Consulting / Agency,No,58000.0,65000.0
+25/11/2020 09:44:24,27.0,Female,Munich,Mobile Developer,1,Junior,"Kotlin, Java","Kotlin, Java / Scala",English,11-50,Startup,No,100000.0,50000.0
+25/11/2020 09:45:51,33.0,Male,Berlin,Software Engineer,12,Lead,Go,"Go, AWS, Docker",English,101-1000,Product,No,114000.0,170000.0
+25/11/2020 09:49:36,33.0,Male,Berlin,Data Analyst,2,Middle,SQL,Python,English,101-1000,Product,No,50000.0,62000.0
+25/11/2020 09:56:50,40.0,Male,Berlin,QA Engineer,11,Senior,Python,"Python, Java / Scala",German,101-1000,Product,No,61000.0,61000.0
+25/11/2020 10:02:55,24.0,Female,Berlin,Software Engineer,2,Middle,0,"Python, Javascript / Typescript, Java / Scala, SQL",German,11-50,Consulting / Agency,No,0.0,58000.0
+25/11/2020 10:15:25,40.0,Male,Bodensee,Product Manager,17,Lead,Linux Kernel,C/C++,German,11-50,Product,No,86500.0,88000.0
+25/11/2020 10:26:16,37.0,Male,Munich,DevOps,13,Lead,0,"Ruby, SQL, Go, AWS, Kubernetes, Docker",English,11-50,Product,No,60000.0,70000.0
+25/11/2020 10:31:01,35.0,Male,Frankfurt,Frontend Developer,6,Senior,Javascript,0,English,11-50,Product,No,0.0,80000.0
+25/11/2020 10:33:07,39.0,Male,Berlin,Data Scientist,7,Senior,several,"Python, SQL, AWS, Docker, unix shell scripts",English,101-1000,Startup,No,130000.0,140000.0
+25/11/2020 10:35:44,25.0,Male,Berlin,Software Engineer,6,Middle,Java,"Python, Java / Scala, Go, AWS, Kubernetes, Docker",English,1000+,e-commerce,No,60600.0,65300.0
+25/11/2020 10:37:36,27.0,Male,Berlin,Software Engineer,4,Middle,C#,"Javascript / Typescript, .NET, Azure, Docker",English,101-1000,Product,No,0.0,65000.0
+25/11/2020 10:42:48,30.0,Male,Berlin,Product Manager,3,Junior,0,0,English,11-50,Product,No,0.0,30000.0
+25/11/2020 10:44:20,28.0,Male,Berlin,Data Scientist,4,Middle,Python ,"Java / Scala, R, SQL, Docker, Julia ",English,101-1000,Product,No,75500.0,75500.0
+25/11/2020 10:50:19,36.0,Female,Munich,Frontend Developer,10,Middle,javascript,Javascript / Typescript,German,101-1000,Product,No,40000.0,48000.0
+25/11/2020 10:53:48,29.0,Female,Berlin,Software Developer,9,Lead,Java,"Javascript / Typescript, SQL, Docker",English,101-1000,Startup,No,60000.0,66000.0
+25/11/2020 10:53:55,37.0,Male,Berlin,Data Analyst,3,0,Python,SQL,English,1000+,Product,No,0.0,67000.0
+25/11/2020 10:55:15,34.0,Male,Berlin,Mobile Developer,10,Senior,Android/Kotlin,"Kotlin, Java / Scala",English,51-100,Product,No,0.0,70000.0
+25/11/2020 10:56:28,28.0,Female,Berlin,Data Scientist,4,Middle,Python,"Python, SQL, Docker",English,101-1000,0,No,112000.0,69000.0
+25/11/2020 10:58:00,39.0,Male,Munich,Software Architect,20,Lead,embedded,"C/C++, Clojure, Assembly",English,1000+,Product,No,164000.0,167000.0
+25/11/2020 10:58:13,0.0,Male,Berlin,Software Engineer,15,Senior,Java,0,English,0,0,No,0.0,300000.0
+25/11/2020 11:03:17,0.0,Male,Leipzig,Frontend Developer,0,Middle,JavaScript,PHP,German,101-1000,Product,No,0.0,44200.0
+25/11/2020 11:07:02,32.0,Male,Berlin,Software Engineer,6,Middle,PHP,"Python, PHP, Javascript / Typescript, SQL, AWS, Kubernetes, Docker",German,1000+,Product,Yes,0.0,58000.0
+25/11/2020 11:08:17,37.0,Male,Berlin,QA Engineer,6,Middle,Java/Groovy,"AWS, Docker",English,101-1000,SaaS,No,67100.0,69200.0
+25/11/2020 11:11:06,32.0,Male,Munich,Software Engineer,7,Senior,Python ,"Python, Javascript / Typescript, SQL, Docker",English,11-50,Startup,No,65000.0,72000.0
+25/11/2020 11:13:31,28.0,Male,Berlin,Technical account manager ,4,Lead,0,0,English,101-1000,Product,No,45000.0,57000.0
+25/11/2020 11:15:53,35.0,Male,Munich,Software Engineer,16,Lead,PHP,"Javascript / Typescript, SQL, AWS, Kubernetes, Docker",English,101-1000,Product,No,79000.0,84000.0
+25/11/2020 11:18:27,26.0,Male,Berlin,Data Scientist,5,Middle,Python ,"SQL, AWS, Kubernetes, Docker",English,101-1000,Startup,No,55000.0,59000.0
+25/11/2020 11:18:46,32.0,Male,Berlin,Frontend Developer,7,Middle,Typescript,"Java / Scala, Kubernetes, Docker",English,101-1000,Startup,No,0.0,68000.0
+25/11/2020 11:20:58,29.0,Male,Berlin,Data Engineer,5,Middle,Python,"Python, Java / Scala, SQL, AWS, Kubernetes, Docker",English,1000+,Startup,No,55000.0,68000.0
+25/11/2020 11:21:08,36.0,Male,Berlin,Software Engineer,10,Senior,typescript,"Javascript / Typescript, .NET, Azure",German,1000+,Product,No,80000.0,88000.0
+25/11/2020 11:22:06,26.0,Male,Berlin,Software Engineer,5,Middle,Swift,0,English,1000+,Product,No,65000.0,71000.0
+25/11/2020 11:24:14,28.0,Male,Berlin,Data Engineer,5,Middle,Scala,Java / Scala,English,101-1000,Product,No,60000.0,65000.0
+25/11/2020 11:29:28,36.0,Male,Berlin,Data Scientist,5,Middle,python,"Python, SQL, AWS, Google Cloud",English,101-1000,Startup,No,0.0,65000.0
+25/11/2020 11:30:04,40.0,Male,Munich,Software Engineer,18,Senior,java,"AWS, Docker",German,up to 10,Consulting / Agency,No,160000.0,160000.0
+25/11/2020 11:37:31,29.0,Male,Milan,Data Scientist,4,Middle,Python + SQL,"Python, SQL, Spark",Italian,101-1000,Consulting / Agency,No,35000.0,37500.0
+25/11/2020 11:39:11,32.0,Male,Berlin,Software Engineer,10,Middle,javascript,"Javascript / Typescript, SQL, AWS, Docker",English,51-100,Startup,No,65000.0,70000.0
+25/11/2020 11:41:13,28.0,Male,Munich,Software Engineer,5,Middle,Java,"Javascript / Typescript, Java / Scala, AWS, Docker",English,11-50,Startup,No,59000.0,64000.0
+25/11/2020 11:42:08,27.0,Male,Berlin,DevOps,7,Senior,Go,"Python, PHP, AWS, Google Cloud, Kubernetes, Docker",English,101-1000,Startup,No,75000.0,80000.0
+25/11/2020 11:47:34,33.0,Male,Berlin,Software Engineer,16,Senior,Java,"Python, Kotlin, Java / Scala, Go, Rust, AWS, Kubernetes, Docker",English,1000+,Product,No,90000.0,100000.0
+25/11/2020 11:48:54,34.0,Male,Munich,QA Engineer,5,Senior,Java,"Kotlin, Swift",English,1000+,Product,No,72000.0,76500.0
+25/11/2020 11:49:21,31.0,Male,Berlin,Frontend Developer,8,Senior,Typescript,"Javascript / Typescript, Google Cloud, Kubernetes, Docker",English,11-50,Product,No,55000.0,60000.0
+25/11/2020 11:51:49,31.0,Male,Munich,Frontend Developer,8,Senior,"Typescript, Web apps",Javascript / Typescript,English,1000+,Product,No,67000.0,84000.0
+25/11/2020 11:54:11,31.0,Male,Berlin,Data Scientist,5,Middle,Python,"Python, Java / Scala, SQL, AWS, Docker",English,101-1000,Product,No,102000.0,108000.0
+25/11/2020 11:54:25,27.0,Male,Berlin,ML Engineer,6,Middle,Python,AWS,English,1000+,Product,Yes,78000.0,120500.0
+25/11/2020 11:56:27,31.0,Male,Hamburg,Data Scientist,9,Middle,Python,"Python, Docker",German,up to 10,Product,No,48000.0,50000.0
+25/11/2020 11:57:58,29.0,Male,Berlin,Backend Developer,10,Senior,Scala,"Java / Scala, SQL, Go, Google Cloud, Kubernetes, Docker",English,11-50,Startup,No,75000.0,80000.0
+25/11/2020 12:01:50,39.0,Male,Berlin,Software Engineer,6,Senior,PHP,"Javascript / Typescript, SQL, AWS, Docker",English,101-1000,Product,No,0.0,60000.0
+25/11/2020 12:04:41,35.0,Male,Berlin,Frontend Developer,10,Senior,JavaScript,Javascript / Typescript,English,1000+,Startup,No,70000.0,75000.0
+25/11/2020 12:05:48,38.0,Male,Berlin,Tech Leader,24,Lead,Java,"Kotlin, PHP, Swift, Javascript / Typescript, Java / Scala, Clojure, R, Rust, AWS, Google Cloud, Azure, Kubernetes, Docker",English,101-1000,Product,Yes,0.0,130000.0
+25/11/2020 12:06:58,31.0,Male,Salzburg,Chief Research Officer,10,Lead,Python,"Python, C/C++, AWS, Kubernetes, Docker",English,51-100,Startup,No,86000.0,140000.0
+25/11/2020 12:15:16,32.0,Male,Berlin,QA Engineer,7,Senior,Swift,Javascript / Typescript,English,51-100,Startup,No,65000.0,65000.0
+25/11/2020 12:20:23,35.0,Male,Berlin,SRE,10,Senior,Terraform ,"Python, AWS, Kubernetes",English,101-1000,Product,No,75000.0,85000.0
+25/11/2020 12:21:48,28.0,Male,Rome,ML Engineer,2,Middle,Java,"Python, C/C++",English,1000+,Product,No,28000.0,38400.0
+25/11/2020 12:23:50,30.0,Female,Berlin,Data Scientist,6,Senior,python,"Python, SQL, Google Cloud, Kubernetes, Docker",English,1000+,Product,No,126000.0,86000.0
+25/11/2020 12:27:53,30.0,Male,Berlin,Data Engineer,5,Lead,0,Python,English,1000+,Product,No,173000.0,89999.0
+25/11/2020 12:29:33,26.0,Male,Berlin,Data Engineer,2,Middle,Python,"Python, SQL, AWS, Google Cloud, Kubernetes, Docker",English,1000+,Product,No,62000.0,55000.0
+25/11/2020 12:41:42,25.0,Male,Berlin,Data Engineer,3,Senior,Scala,"Python, Java / Scala, SQL, Go, AWS, Google Cloud, Kubernetes, Docker",English,1000+,Product,No,58000.0,75000.0
+25/11/2020 12:44:08,30.0,Male,Berlin,Product Manager,3,Junior,0,0,English,11-50,Product,No,0.0,30000.0
+25/11/2020 12:44:24,27.0,Male,Berlin,DevOps,4,Middle,AWS,"Python, AWS, Docker",English,101-1000,Consulting / Agency,No,128400.0,72000.0
+25/11/2020 12:47:31,28.0,Male,Berlin,Product Manager,7,Lead,0,0,English,101-1000,Product,No,0.0,69000.0
+25/11/2020 13:02:51,22.0,Male,Berlin,Presales Engineer ,4,Middle,"Java, .Net",".NET, Java / Scala, SQL, Go, AWS, Docker",English,101-1000,Startup,No,0.0,63000.0
+25/11/2020 13:03:32,37.0,Female,Berlin,Data Scientist,2,Middle,Python,"R, SQL, AWS",German,101-1000,Publisher,No,58600.0,62000.0
+25/11/2020 13:05:32,25.0,Male,Berlin,Data Scientist,1,Junior,"Python, statistics, SQL","Python, SQL, Google Cloud, Docker",English,1000+,Product,No,0.0,61000.0
+25/11/2020 13:12:26,33.0,Male,Berlin,Backend Developer,11,Senior,Scala,"Java / Scala, AWS, Kubernetes, Docker",German,11-50,Startup,No,110000.0,154000.0
+25/11/2020 13:16:43,38.0,Male,Berlin,Freelance AI lead / advisor,20,Lead,C,"Python, C/C++, Docker",English,up to 10,Consulting / Agency,Yes,160000.0,400000.0
+25/11/2020 13:20:02,31.0,Male,Berlin,Data Scientist,6,Senior,0,"Python, SQL, AWS, Docker",English,1000+,E-commerce,No,76000.0,78000.0
+25/11/2020 13:26:21,24.0,Male,Munich,Data Scientist,1,Junior,C++,"Python, C/C++, Swift, Java / Scala, R, SQL, Go, AWS, Google Cloud, Azure, Kubernetes, Docker",English,101-1000,Startup,No,0.0,300000.0
+25/11/2020 13:37:21,28.0,Male,Berlin,DevOps,10,Lead,0,AWS,English,101-1000,Product,No,0.0,78000.0
+25/11/2020 13:37:26,25.0,Male,Berlin,Software Engineer,5,Senior,Node.js,"Javascript / Typescript, Google Cloud, Kubernetes",English,up to 10,Consulting / Agency,No,0.0,57000.0
+25/11/2020 13:39:11,26.0,Female,Berlin,Data Scientist,4,Middle,"Sql, BQ, tableau, gtm, ga","Python, Javascript / Typescript, SQL",English,101-1000,Startup,Yes,45000.0,45000.0
+25/11/2020 13:41:37,29.0,Male,Berlin,Frontend Developer,3,Middle,React ,Javascript / Typescript,English,51-100,Product,No,47000.0,47300.0
+25/11/2020 13:41:50,22.0,Female,Berlin,Business Development Manager Operations ,4,Middle,Business Development Manager Operation ,0,English,1000+,Startup,No,39000.0,39000.0
+25/11/2020 13:43:52,30.0,Male,Berlin,Frontend Developer,4,Senior,TypeScript,Javascript / Typescript,English,101-1000,Product,No,70000.0,73000.0
+25/11/2020 13:45:22,30.0,Male,Berlin,Frontend Developer,11,Senior,Typescript,Java / Scala,English,1000+,Product,No,82000.0,85000.0
+25/11/2020 13:45:45,28.0,Female,Amsterdam,Program Manager,10,Senior,Management,0,English,1000+,Product,No,80000.0,116000.0
+25/11/2020 13:49:33,29.0,Male,Berlin,Frontend Developer,9,Senior,Javascript / Typescript,"Python, Javascript / Typescript, SQL, Perl, Docker",English,1000+,Startup,No,0.0,74000.0
+25/11/2020 13:50:55,32.0,Male,Cologne,DevOps,10,Middle,Bash,"Python, Google Cloud",English,101-1000,Product,No,0.0,110000.0
+25/11/2020 13:51:21,36.0,Male,Berlin,Researcher,4,Middle,C++,"Python, C/C++",English,up to 10,University,No,37000.0,40000.0
+25/11/2020 13:51:32,32.0,Male,Hamburg,Product Manager,7,Senior,0,SQL,English,101-1000,Product,No,90000.0,90000.0
+25/11/2020 13:54:19,30.0,Female,Berlin,Software Engineer,4,Middle,Python,"Python, Java / Scala, SQL, AWS, Kubernetes, Docker",English,1000+,Product,No,55000.0,56000.0
+25/11/2020 13:55:16,29.0,Male,Stuttgart ,Software Engineer,7,Middle,C++,0,English,51-100,Product,No,70000.0,70000.0
+25/11/2020 13:56:50,32.0,Female,Berlin,QA Engineer,10,Middle,Java,Docker,English,1000+,Product,No,62000.0,68000.0
+25/11/2020 13:57:19,34.0,Male,Berlin,QA Engineer,10,Senior,JS,"Python, Javascript / Typescript, AWS, Docker",English,1000+,Product,No,65000.0,70000.0
+25/11/2020 13:58:38,30.0,Male,Berlin,Data Scientist,6,Senior,0,"Python, SQL, AWS, Google Cloud, Docker",English,1000+,Startup,No,130000.0,157000.0
+25/11/2020 13:59:02,40.0,Male,Berlin,Engineering manager,15,Lead,Python,"Python, SQL, Perl, AWS, Google Cloud, Docker",English,1000+,Product,No,65000.0,80000.0
+25/11/2020 13:59:16,35.0,Male,Berlin,Software Engineer,15,Lead,C++,"Python, Swift, Java / Scala",English,1000+,Product,No,97000.0,97000.0
+25/11/2020 14:00:05,31.0,Male,Berlin,Software Engineer,8,Senior,"Java, Kotlin","Kotlin, Java / Scala, AWS",English,1000+,Product,No,72000.0,77000.0
+25/11/2020 14:00:28,38.0,Male,Berlin,Data Scientist,15,Senior,Python,"Python, SQL, AWS",English,11-50,Product,No,115000.0,115000.0
+25/11/2020 14:02:47,39.0,Male,Hamburg,Data Scientist,10,Senior,R,"Python, R, SQL",English,1000+,Energy ,No,80000.0,80000.0
+25/11/2020 14:08:16,35.0,Male,Berlin,Backend Developer,13,Senior,Nodejs,"PHP, Javascript / Typescript",English,up to 10,Startup,No,82000.0,90000.0
+25/11/2020 14:08:18,30.0,Female,Berlin,QA Engineer,5,Middle,TS,0,English,11-50,Product,No,0.0,54000.0
+25/11/2020 14:08:39,29.0,Female,Berlin,Data Scientist,0,Junior,Python,"Python, SQL, AWS, Google Cloud, Docker",English,1000+,Product,No,0.0,40000.0
+25/11/2020 14:08:48,36.0,Male,Berlin,Engineering Manager,18,Lead,C++,"Python, Swift, Java / Scala",English,1000+,Product,No,123000.0,123000.0
+25/11/2020 14:09:53,41.0,Male,Berlin,Backend Developer,20,Senior,Python,"Python, SQL, AWS, Kubernetes, Docker",English,1000+,Product,No,98000.0,94000.0
+25/11/2020 14:14:02,41.0,Male,Berlin,Software Engineer,18,Lead,PHP,"SQL, Google Cloud, Kubernetes, Docker",English,51-100,Product,No,160000.0,200000.0
+25/11/2020 14:21:26,28.0,Female,Berlin,Data Scientist,6,Senior,sql,"Python, R, SQL",English,1000+,Product,No,0.0,70000.0
+25/11/2020 14:21:32,33.0,Male,Berlin,Software Engineer,10,Lead,javascript,"Javascript / Typescript, AWS, Docker",English,101-1000,Startup,No,70000.0,75000.0
+25/11/2020 14:26:49,31.0,Male,Munich,Software Engineer,3,Middle,JavaScript ,"Javascript / Typescript, Java / Scala",German,51-100,Product,No,100800.0,126909.0
+25/11/2020 14:27:14,29.0,Male,Berlin,Backend Developer,5,Senior,Java,"Java / Scala, SQL, AWS, Kubernetes, Docker",English,1000+,Product,No,0.0,70000.0
+25/11/2020 14:32:04,23.0,Male,Berlin,Backend Developer,3,Middle,Java,0,English,1000+,Product,No,0.0,180000.0
+25/11/2020 14:34:19,25.0,Male,Berlin,ML Engineer,4.5,Middle,"Spark, Pytorch",Python,English,11-50,Startup,No,0.0,90000.0
+25/11/2020 14:35:03,34.0,Male,Berlin,QA Engineer,10,Lead,Java,"Javascript / Typescript, SQL, AWS, Docker",English,101-1000,Startup,No,73000.0,85000.0
+25/11/2020 14:37:06,45.0,Male,Berlin,Backend Developer,30,Senior,PHP,"Javascript / Typescript, Go, AWS, Google Cloud, Docker",English,11-50,Startup,No,55000.0,55000.0
+25/11/2020 14:37:07,37.0,Male,Berlin,Embedded Software Engineer,15,Senior,C/C++,"Python, C/C++",English,1000+,Product,No,78000.0,78000.0
+25/11/2020 14:37:25,31.0,Male,Berlin,Software Engineer,9,Lead,javascript,"AWS, Docker",English,101-1000,Startup,No,178000.0,198000.0
+25/11/2020 14:48:38,32.0,Male,Amsterdam,Backend Developer,15,Senior,Golang,"Python, Javascript / Typescript, SQL, AWS, Kubernetes, Docker",English,11-50,Product,No,90000.0,90000.0
+25/11/2020 14:53:46,45.0,Female,Berlin,Product Manager,15,Lead,Java,0,English,11-50,Product,No,52000.0,52000.0
+25/11/2020 14:55:16,42.0,Male,Wroclaw,Software Engineer,16,Senior,java/scala/go/clouds/devops,"Java / Scala, Go, AWS, Google Cloud, Kubernetes, Docker",English,1000+,Product,No,0.0,36000.0
+25/11/2020 14:56:08,23.0,Male,Berlin,Dana Analyst,4,Middle,0,"Python, SQL",English,11-50,Product,No,0.0,45000.0
+25/11/2020 14:56:36,36.0,Male,Berlin,Backend Developer,14,Middle,JS,Docker,English,101-1000,Product,No,73500.0,75000.0
+25/11/2020 14:57:52,40.0,Male,Karlsruhe,Team Manager,20,Lead,C#,"Python, .NET, Azure, Kubernetes, Docker",English,1000+,Enterprise,No,90000.0,100000.0
+25/11/2020 14:58:22,28.0,Male,Berlin,Backend Developer,7,Senior,Java,"Ruby, Go, Perl",English,101-1000,Product,No,0.0,135000.0
+25/11/2020 14:58:40,35.0,Male,Frankfurt,Backend Developer,15,Senior,C,"Python, Javascript / Typescript, SQL, Docker",German,51-100,Product,No,63000.0,70000.0
+25/11/2020 15:03:27,37.0,Male,Berlin,Backend Developer,12,Senior,Java,"Javascript / Typescript, Java / Scala, Google Cloud, Docker",English,101-1000,Startup,No,78000.0,102000.0
+25/11/2020 15:03:59,33.0,Male,Berlin,Software Engineer,10,Lead,C/C++,C/C++,English,1000+,Product,No,85000.0,110000.0
+25/11/2020 15:05:30,33.0,Male,Berlin,Backend Developer,13,Senior,Java,"Java / Scala, SQL, Kubernetes, Docker",English,101-1000,Product,No,78600.0,78600.0
+25/11/2020 15:11:46,31.0,Male,Munich,Software Engineer,10,Lead,Java ,"Python, Javascript / Typescript, AWS, Docker",English,101-1000,Product,No,64000.0,147000.0
+25/11/2020 15:16:59,31.0,Male,Berlin,Software Engineer,4,Middle,Java,"Kotlin, Javascript / Typescript, Docker",English,1000+,Product,No,105000.0,137500.0
+25/11/2020 15:27:18,28.0,Male,Wolfsburg,Software Engineer,3,Middle,Java,SQL,English,101-1000,Consulting / Agency,No,42800.0,42000.0
+25/11/2020 15:51:41,31.0,Male,Boeblingen,QA Engineer,6,Senior,Python,"Python, Squish",English,1000+,Consulting / Agency,No,53000.0,53000.0
+25/11/2020 15:53:21,40.0,Male,Cupertino,Software Engineer,20,Lead,Swift,0,English,1000+,Product,No,530000.0,700000.0
+25/11/2020 16:06:56,25.0,Female,Frankfurt,Software Engineer,3,Middle,Java,"Javascript / Typescript, SQL",German,1000+,Product,No,50004.0,58000.0
+25/11/2020 16:08:01,35.0,Male,Berlin,Data Analyst,9,Senior,Python,"Python, SQL, AWS, Kubernetes, Docker",German,101-1000,Startup,No,70000.0,77000.0
+25/11/2020 16:08:21,35.0,Male,Berlin,Software Engineer,15,Senior,.net,"C/C++, .NET, Go, Docker",English,11-50,Consulting / Agency,No,134000.0,160000.0
+25/11/2020 16:10:29,41.0,Male,Berlin,DevOps,20,Senior,"Linux/UNIX, GIT, Virtualisation Platforms, *shell(s) scripts","Python, Javascript / Typescript, SQL, AWS, Google Cloud, Kubernetes, Docker",German,1000+,Bloody enterprise,No,73400.0,79500.0
+25/11/2020 16:16:23,33.0,Male,Berlin,DevOps,8,Senior,AWS,"Python, AWS, Kubernetes, Docker",English,1000+,service,No,72500.0,76000.0
+25/11/2020 16:17:02,33.0,Male,Berlin,Data Engineer,13,Senior,Python,"Python, Java / Scala, SQL, AWS, Kubernetes, Docker",English,101-1000,Startup,No,150000.0,90000.0
+25/11/2020 16:26:38,38.0,Male,Munich,Software Engineer,15,Senior,Java,"Java / Scala, Kubernetes, Docker",English,11-50,Product,No,145000.0,145000.0
+25/11/2020 16:39:24,35.0,Male,Berlin,Software Engineer,10,Senior,php,"Python, PHP, Javascript / Typescript, SQL",German,up to 10,Product,No,156000.0,156000.0
+25/11/2020 16:42:43,36.0,Female,Berlin,Data Scientist,5,Senior,Python,"Python, Java / Scala, SQL, AWS",English,51-100,Startup,No,75000.0,75000.0
+25/11/2020 16:50:22,49.0,Male,Munich,Software Engineer,27,Senior,Java,"Javascript / Typescript, Java / Scala, SQL, Docker, Groovy",German,101-1000,Consulting / Agency,No,57000.0,57000.0
+25/11/2020 17:00:00,32.0,Male,Berlin,Software Engineer,10,Lead,TypeScript,Javascript / Typescript,Deuglisch,1000+,Concern,Yes,90000.0,120000.0
+25/11/2020 17:02:13,32.0,Female,Berlin,Software Engineer,6,Lead,Java,"Python, Kotlin, AWS, Docker",English,101-1000,Startup,No,75000.0,75000.0
+25/11/2020 17:06:04,27.0,Female,Berlin,Data Analyst ,1,Middle,"Python, SQL","Python, SQL",English,1000+,Product,No,88000.0,63000.0
+25/11/2020 17:08:54,31.0,Male,Frankfurt,Data Scientist,6,Senior,python,"Python, AWS, Docker",English,51-100,Consulting / Agency,No,0.0,75000.0
+25/11/2020 17:09:19,31.0,Male,Paris,Mobile Developer,8,Senior,Swift,Swift,English,101-1000,Product,No,66000.0,66000.0
+25/11/2020 17:11:50,28.0,Male,Cologne,Backend Developer,4,Middle,Java,Pl/sql,German,101-1000,Product,No,50000.0,50000.0
+25/11/2020 17:13:52,28.0,Female,Berlin,Frontend Developer,3,Middle,JavaScript,0,English,101-1000,Product,No,52000.0,54500.0
+25/11/2020 17:20:37,27.0,Male,Berlin,Software Engineer,2,Lead,DWH,SQL,English,1000+,Product,No,184000.0,97000.0
+25/11/2020 17:20:50,29.0,Male,Berlin,Frontend Developer,8,Lead,JavaScript,"Kubernetes, Docker",English,1000+,Product,No,65000.0,82500.0
+25/11/2020 17:45:05,32.0,Female,Munich,Data Engineer,10,Middle,Python,"Python, SQL, AWS, Docker, Spark, Airflow",English,11-50,Startup,Yes,70000.0,75000.0
+25/11/2020 17:45:21,28.0,Male,Berlin,QA Engineer,5,Middle,QA,Python,English,101-1000,Product,No,58000.0,60000.0
+25/11/2020 17:46:23,34.0,Female,Berlin,0,13,Lead,python,"AWS, Terraform, Scala Spark, ",English,1000+,Product,No,90000.0,108000.0
+25/11/2020 17:48:02,38.0,Male,Dublin ,Mobile Developer,16,Senior,Swift,"Swift, Java / Scala",English,101-1000,Product,No,170000.0,85000.0
+25/11/2020 17:48:12,29.0,Male,Berlin,Data Engineer,3,Middle,Azure,"Python, SQL, Azure",German,1000+,Utilities,No,45000.0,60000.0
+25/11/2020 17:49:56,30.0,Male,Stockholm,Backend Developer,7,Senior,C++,"Python, C/C++, Java / Scala, AWS, Kubernetes, Docker",English,1000+,Product,No,69000.0,74000.0
+25/11/2020 17:58:39,33.0,Female,Berlin,Designer (UI/UX),6,Middle,"Sketch, Figma",0,English,51-100,Product,Yes,0.0,42000.0
+25/11/2020 18:00:44,30.0,Male,Paderborn,Data Scientist,6,Junior,Python,"Python, SQL, Docker",German,101-1000,Product,No,0.0,55250.0
+25/11/2020 18:02:06,31.0,Male,Berlin,Product Manager,5,Lead,0,0,English,51-100,Startup,No,780000.0,96000.0
+25/11/2020 18:04:21,37.0,Male,Berlin,Mobile Developer,16,Senior,iOS,"Kotlin, C/C++, Swift, Ruby",English,101-1000,Product,No,55000.0,65000.0
+25/11/2020 18:12:52,32.0,Male,Amsterdam,Mobile Developer,13,Senior,Kotlin,Kotlin,English,1000+,Bank,No,164000.0,174000.0
+25/11/2020 18:15:28,32.0,Female,Munich,QA Engineer,9,Middle,0,0,German,101-1000,Product,No,0.0,60000.0
+25/11/2020 18:19:22,40.0,Male,Berlin,Product Manager,13,Lead,0,SQL,English,1000+,Product,No,75000.0,100000.0
+25/11/2020 18:19:58,30.0,Male,Berlin,Software Engineer,7,Senior,Java,"Go, AWS, Kubernetes",English,1000+,Product,No,82600.0,86000.0
+25/11/2020 18:24:15,30.0,Male,Berlin,Software Engineer,8,Senior,JS,0,English,51-100,Product,No,60000.0,60000.0
+25/11/2020 18:28:01,32.0,Male,Berlin,QA Engineer,10,Senior,js,"Java / Scala, Google Cloud, Docker",English,1000+,Product,No,103000.0,126000.0
+25/11/2020 18:28:01,32.0,Male,Cologne,DevOps,7,Middle,k8s,"Python, Google Cloud, Kubernetes, Docker",English,101-1000,Product,Yes,70000.0,60000.0
+25/11/2020 18:31:48,34.0,Male,Munich,Software Engineer,12,Senior,Java,"Java / Scala, SQL, Go, Google Cloud, Kubernetes, Docker",English,101-1000,Product,No,69000.0,74000.0
+25/11/2020 18:45:41,43.0,Male,Cologne,Backend Developer,10,Senior,Php,PHP,German,101-1000,Product,No,112600.0,65600.0
+25/11/2020 18:49:08,33.0,Male,Munich,Software Engineer,13,Senior,Java,"Python, Kotlin, Javascript / Typescript, AWS, Kubernetes, Docker",English,101-1000,Startup,No,64000.0,70000.0
+25/11/2020 18:51:20,28.0,Female,Munich,QA Engineer,8,Senior,Kotlin,"Kotlin, Java / Scala, AWS, Kubernetes, Docker",English,101-1000,Product,No,70000.0,75000.0
+25/11/2020 18:51:36,33.0,Male,Hamburg,Software Engineer,11,Senior,Java,"Python, SQL",English,11-50,Product,No,0.0,65000.0
+25/11/2020 18:53:10,33.0,Male,Munich,Software Engineer,11,Lead,"Frontend: react, node.js","Javascript / Typescript, AWS, Kubernetes, Docker",English,1000+,Product,No,75000.0,90000.0
+25/11/2020 18:56:02,51.0,Male,Berlin,Software Engineer,30,Senior,"VB, RPA, Python","Python, PHP, Javascript / Typescript, .NET, SQL, SAP / ABAP",German,1000+,Consulting / Agency,No,55000.0,65000.0
+25/11/2020 18:57:32,35.0,Male,Berlin,Software Engineer,8,Senior,Go,"Java / Scala, Go, AWS, Google Cloud, Azure, Kubernetes, Docker",English,1000+,Product,No,135000.0,190000.0
+25/11/2020 18:58:56,35.0,Male,Berlin,Software Engineer,1,Junior,FBD,"PHP, Javascript / Typescript, SQL",German,up to 10,Product,No,0.0,30000.0
+25/11/2020 18:59:36,33.0,Male,Berlin,ML Engineer,10,Senior,0,"Python, Java / Scala",English,1000+,Product,other,0.0,90000.0
+25/11/2020 19:02:12,28.0,Male,Munich,Software Engineer,6,Middle,"C, C++","C/C++, Linux Kernel",English,101-1000,Product,No,0.0,73000.0
+25/11/2020 19:02:20,21.0,Female,Cologne,Mobile Developer,2,Middle,0,0,0,0,0,other,0.0,50000.0
+25/11/2020 19:02:43,25.0,Male,Berlin,Mobile Developer,2,Middle,"Swift, Objective-C, iOS",Swift,English,1000+,Product,No,43000.0,44000.0
+25/11/2020 19:06:21,25.0,Female,Hamburg,working student (QA),1,Junior,Ruby,"Java / Scala, SQL",English,1000+,Product,No,12000.0,12000.0
+25/11/2020 19:10:04,32.0,Male,Berlin,Backend Developer,10,Lead,Ruby,"Python, Javascript / Typescript, Ruby, SQL, AWS, Docker",English,51-100,Product,No,68500.0,80000.0
+25/11/2020 19:15:16,32.0,Male,Berlin,Software Engineer,9,Lead,Embedded,"Python, C/C++, Go",English,101-1000,Product,No,66000.0,74000.0
+25/11/2020 19:31:47,26.0,Male,Berlin,Architect ,9,Lead,Go,"Kotlin, Ruby, Go, Rust, AWS, Kubernetes, Docker",English,1000+,Product,Yes,135000.0,170000.0
+25/11/2020 19:33:52,25.0,Male,Berlin,Software Engineer,6,Senior,JavaScript / TypeScript,"AWS, Docker",English,1000+,Product,No,71500.0,77750.0
+25/11/2020 19:38:20,27.0,Female,Berlin,Backend Developer,5,Middle,Kotlin,"Python, Kotlin, Java / Scala, Google Cloud, Kubernetes",English,51-100,Product,No,52000.0,65000.0
+25/11/2020 19:44:29,28.0,Male,Frankfurt,Frontend Developer,7,Senior,Javascript,"Javascript / Typescript, AWS, Azure, Docker",English,11-50,Startup,No,80000.0,80000.0
+25/11/2020 19:44:59,32.0,Female,Munich,QA Engineer,8,Senior,Java,"Javascript / Typescript, C#",English,101-1000,Consulting / Agency,No,0.0,130000.0
+25/11/2020 19:54:39,28.0,Male,Karlsruhe,Backend Developer,7,Senior,Java,"Kotlin, Javascript / Typescript, AWS, Kubernetes, Docker",English,1000+,Product,No,142000.0,69000.0
+25/11/2020 19:57:23,34.0,Male,Berlin,Frontend Developer,13,Lead,JavaScript,"Javascript / Typescript, SQL, AWS",English,101-1000,Product,No,0.0,85000.0
+25/11/2020 20:01:27,35.0,Male,Konstanz,Data Scientist,10,Middle,python,"Python, Azure, Kubernetes",English,51-100,Product,No,65000.0,65000.0
+25/11/2020 20:13:33,38.0,Male,Berlin,Head of Engineering,20,Lead,Java,"Python, Kotlin, Java / Scala, SQL, AWS, Kubernetes, Docker",English,1000+,Corporation,Yes,150000.0,150000.0
+25/11/2020 20:15:31,33.0,Male,Berlin,Backend Developer,9,Senior,Java,"Python, Javascript / Typescript, Java / Scala, SQL, Go, AWS, Kubernetes, Docker",English,1000+,Startup,No,0.0,184500.0
+25/11/2020 20:31:41,36.0,Male,Berlin,Product Manager,10,Senior,0,SQL,English,1000+,Product,No,80000.0,85000.0
+25/11/2020 20:34:33,31.0,Female,Ulm,QA Engineer,8,Middle,Java,Java / Scala,English,101-1000,Product,No,39000.0,45000.0
+25/11/2020 20:41:13,43.0,Male,Stuttgart,SAP Consultant,20,Senior,SAP / ABAP,"SQL, SAP / ABAP",German,1000+,Product,No,92000.0,94000.0
+25/11/2020 20:42:52,38.0,Male,Berlin,Data Scientist,15,Lead,Python,"Python, SQL, SAP / ABAP, AWS",English,101-1000,Startup,No,80000.0,220000.0
+25/11/2020 20:47:48,35.0,Male,Munich,DevOps,17,Lead,Kubrrnetes,"R, AWS, Google Cloud, Kubernetes, Docker",English,1000+,Consulting / Agency,No,80500.0,80000.0
+25/11/2020 20:52:29,33.0,Male,Düsseldorf ,Product Manager,6,Senior,0,0,English,101-1000,Product,No,0.0,70000.0
+25/11/2020 20:52:36,33.0,Male,Düsseldorf ,Product Manager,6,Senior,0,0,English,101-1000,Product,No,0.0,70000.0
+25/11/2020 20:52:51,32.0,Male,Berlin,DevOps,10,Middle,python,"Python, SQL, Go, AWS, Google Cloud, Azure, Kubernetes, Docker",English,101-1000,Product,No,0.0,62000.0
+25/11/2020 21:05:06,43.0,Male,Berlin,DevOps,21,Lead,0,"Python, PHP, SQL, Perl, AWS, Google Cloud, Kubernetes, Docker",German,51-100,Startup,No,75000.0,83000.0
+25/11/2020 21:10:17,37.0,Male,Stuttgart ,Backend Developer,0,Senior,C#,0,0,0,0,No,0.0,70000.0
+25/11/2020 21:19:54,37.0,Male,Berlin,Mobile Developer,17,Senior,Swift,Javascript / Typescript,English,1000+,Product,No,71000.0,77500.0
+25/11/2020 21:20:37,30.0,Male,Stuttgart,Software Engineer,8,Middle,C++,SQL,English,101-1000,Product,No,75900.0,78100.0
+25/11/2020 21:48:49,29.0,Male,Berlin,Mobile Developer,5,Senior,iOS,Swift,English,101-1000,Product,No,58000.0,65000.0
+25/11/2020 22:05:13,41.0,Male,Berlin,Software Engineer,18,Senior,JavaScript,"Javascript / Typescript, AWS, Docker, Node",English,up to 10,Startup,No,92000.0,120000.0
+25/11/2020 22:11:45,38.0,Male,Stuttgart ,Backend Developer,4,Middle,PHP,"Javascript / Typescript, SQL, Docker",English,up to 10,Consulting / Agency,No,43000.0,43000.0
+25/11/2020 22:18:59,0.0,Male,Frankfurt,Software Engineer,18,Senior,0,"Javascript / Typescript, .NET, SQL, Google Cloud",English,1000+,Product,No,0.0,84375.0
+25/11/2020 22:40:29,29.0,Male,Düsseldorf,Frontend Developer,6,Middle,TypeScript,"Javascript / Typescript, Azure",German,11-50,Product,No,0.0,55000.0
+25/11/2020 23:01:28,35.0,Male,Berlin,QA Engineer,12,Senior,JS,"Javascript / Typescript, SQL",English,101-1000,Product,Yes,56000.0,63000.0
+25/11/2020 23:03:43,41.0,Male,Munich,Software Engineer,19,Senior,Java,"PHP, Java / Scala, SQL, AWS, Docker",English,101-1000,Product,No,73000.0,75000.0
+25/11/2020 23:04:36,29.0,Male,Barcelona,Data Scientist,0,Junior,Python,"R, SQL",English,51-100,Product,No,11500.0,24000.0
+25/11/2020 23:08:40,26.0,Female,Dusseldorf,BI Consultant SAP/ Data Engineer,5,Middle,ABAP,"Python, SQL",German,up to 10,Startup,No,96000.0,142000.0
+25/11/2020 23:20:02,32.0,Male,Paris,DevOps,12,Senior,0,0,English,1000+,0,other,0.0,62000.0
+25/11/2020 23:30:07,30.0,Male,Berlin,Data Engineer,6,Middle,Python,AWS,English,1000+,Product,No,0.0,66000.0
+25/11/2020 23:32:29,26.0,Male,London,DevOps,3,Middle,"networking, linux, automation, cloud","Python, AWS",English,51-100,Product,No,0.0,37000.0
+25/11/2020 23:42:47,35.0,Female,Munich,Backend Developer,4,Middle,PHP,"PHP, Javascript / Typescript, Java / Scala",German,101-1000,Insurance,No,50500.0,55000.0
+25/11/2020 23:51:01,47.0,Male,Bölingen,Software Engineer,25,No level,java,"Java / Scala, SQL",German,11-50,Consulting / Agency,No,0.0,69999.0
+25/11/2020 23:57:50,33.0,Male,Berlin,Backend Developer,10,Lead,0,0,English,101-1000,Startup,No,0.0,93000.0
+26/11/2020 00:00:46,44.0,Male,Kyiv,Business Analyst,15,Lead,UML,0,English,101-1000,Consulting / Agency,No,0.0,60000.0
+26/11/2020 00:06:33,40.0,0,Berlin,Backend Developer,13,Senior,python,"Python, Javascript / Typescript, AWS, Docker",English,51-100,Startup,No,72000.0,72000.0
+26/11/2020 00:16:00,32.0,Male,Berlin,Frontend Developer,13,Senior,JavaScript,"PHP, Javascript / Typescript",English,11-50,Product,No,66000.0,71000.0
+26/11/2020 04:00:49,33.0,Male,Dusseldorf,Data Scientist,2,Lead,Spark,"Python, Docker",English,1000+,Product,No,126000.0,76000.0
+26/11/2020 04:00:56,32.0,Male,Munich,Frontend Developer,8,Senior,"Js, reactJS ","Javascript / Typescript, AWS",English,1000+,Product,No,0.0,70000.0
+26/11/2020 04:18:01,26.0,Male,Berlin,Data Engineer,4,Middle,Scala,"Python, Java / Scala, SQL, AWS, Google Cloud, Azure",English,11-50,Consulting / Agency,No,46000.0,51000.0
+26/11/2020 04:26:30,0.0,Male,Berlin,DevOps,10,Senior,0,"Python, Go",English,1000+,Product,No,80000.0,90000.0
+26/11/2020 05:53:19,22.0,Diverse,Cologne,QA Engineer,1,Lead,Cobol,Perl,German,1000+,Product,No,121000.0,194000.0
+26/11/2020 06:01:22,43.0,Male,Berlin,Engineering Manager,20,Lead,Java,"C/C++, .NET, Java / Scala, AWS, Kubernetes, Docker",English,1000+,Product,No,105000.0,105000.0
+26/11/2020 07:06:11,33.0,Male,Munich,Software Engineer,11,Senior,JavaScript ,".NET, SQL",English,101-1000,Product,No,64000.0,80000.0
+26/11/2020 07:14:19,35.0,Female,Frankfurt,Software Engineer,1,Junior,ABAP,"SQL, SAP / ABAP",German,51-100,Consulting / Agency,No,50000.0,50000.0
+26/11/2020 08:04:52,28.0,Male,Munich,Frontend Developer,5,Middle,JavaScript,"Python, Javascript / Typescript, SQL, Rust, AWS, Kubernetes, Docker",German,11-50,Product,No,68200.0,72000.0
+26/11/2020 08:35:29,36.0,Male,Munich,DevOps,16,Senior,SRE,"Python, C/C++, Go",English,1000+,Product,Yes,0.0,255000.0
+26/11/2020 08:37:49,27.0,Male,Munich,Data Engineer,2,Junior,Python ,"Python, SQL, AWS, Azure, Docker",German,11-50,Consulting / Agency,No,0.0,54000.0
+26/11/2020 08:39:28,36.0,Male,Berlin,Backend Developer,4,Middle,Java,"Python, SQL, Kubernetes, Docker",English,101-1000,Product,No,55000.0,55000.0
+26/11/2020 08:40:22,38.0,Male,Berlin,Backend Developer,5,Middle,Java,"Kotlin, Java / Scala, Google Cloud, Kubernetes, Docker",English,101-1000,Product,No,120000.0,66000.0
+26/11/2020 08:40:41,28.0,Male,Berlin,Mobile Developer,6,Middle,Android,"Kotlin, Java / Scala",English,1000+,Product,No,0.0,95000.0
+26/11/2020 08:41:29,25.0,Male,Berlin,Mobile Developer,8,Senior,Clojure,"Swift, Javascript / Typescript, Java / Scala, Clojure",English,51-100,Startup,No,0.0,95000.0
+26/11/2020 08:42:09,30.0,Male,Berlin,Frontend Developer,6,Senior,Javascript,"Python, Javascript / Typescript, SQL, SAP / ABAP",English,1000+,Product,No,77000.0,89000.0
+26/11/2020 08:46:32,42.0,Female,Berlin,QA Engineer,10,Middle,"JS, WDIO","Javascript / Typescript, SQL, Docker",English,11-50,Startup,No,32000.0,42000.0
+26/11/2020 09:02:41,30.0,Male,Berlin,Backend Developer,8,Middle,Python,"SQL, AWS, Kubernetes, Docker",English,1000+,Product,No,77000.0,85000.0
+26/11/2020 09:09:03,28.0,Male,Berlin,Backend Developer,8,Lead,Ruby,"SQL, AWS",English,51-100,Startup,No,62000.0,67000.0
+26/11/2020 09:13:05,32.0,Female,Berlin,DevOps,9,Middle,"Terraform, Kubernetes, AWS, GCP, Ansible, Puppet","Ruby, Java / Scala, SQL, Go, AWS, Google Cloud, Kubernetes, Docker",English,101-1000,Product,No,65000.0,84000.0
+26/11/2020 09:20:23,29.0,Male,Berlin,Frontend Developer,3,Middle,JavaScript ,PHP,English,51-100,Consulting / Agency,No,0.0,48000.0
+26/11/2020 09:26:37,30.0,Female,Karlsruhe,Product Manager,8,Middle,0,0,English,11-50,Product,No,0.0,64470.0
+26/11/2020 09:38:35,35.0,Male,Berlin,Software Engineer,13,Lead,TypeScript,"Python, Javascript / Typescript, SQL, AWS, Google Cloud, Kubernetes, Docker, Elixir",English,101-1000,Startup,No,117000.0,303000.0
+26/11/2020 09:40:54,33.0,Male,Berlin,Frontend Developer,10,Senior,JS,"Javascript / Typescript, Google Cloud, Kubernetes, Docker",English,101-1000,Startup,No,66000.0,74000.0
+26/11/2020 09:49:16,34.0,Male,Berlin,Backend Developer,13,Senior,Elixir,SQL,English,101-1000,Product,No,0.0,70000.0
+26/11/2020 09:50:38,25.0,Male,Berlin,Backend Developer,6,Senior,Go,"Python, SQL, Go, AWS, Kubernetes, Docker",English,101-1000,Startup,No,85000.0,86000.0
+26/11/2020 09:51:53,42.0,Female,Berlin,QA Engineer,5,Middle,Java,0,English,51-100,Product,No,46000.0,46000.0
+26/11/2020 10:07:39,25.0,Female,Tampere (Finland),computer vision researcher,3,Junior,Python,"Python, Tensorflow, Theano, Pytorch",English,51-100,Science Institute ,No,0.0,46000.0
+26/11/2020 10:11:01,40.0,Male,Berlin,Backend Developer,14,Lead,Spring,"Java / Scala, AWS, Azure, Kubernetes, Docker",English,101-1000,Product,No,65000.0,135000.0
+26/11/2020 10:14:19,33.0,Male,Heidelberg,Software Engineer,11,Senior,Python,"Python, Javascript / Typescript, SQL, AWS, Kubernetes, Docker",English,101-1000,Research institute,No,78000.0,80000.0
+26/11/2020 10:31:07,39.0,Male,Cologne,Teamlead,12,Lead,PHP ,"AWS, Docker",German,up to 10,Startup,No,150009.0,150000.0
+26/11/2020 10:31:59,24.0,Male,Berlin,Software Engineer,2,Junior,Javascript,"Javascript / Typescript, Java / Scala, SQL, AWS, Docker",German,1000+,Product,No,70000.0,50000.0
+26/11/2020 10:40:41,24.0,Female,Prague,Software Engineer,3,Middle,Java,"Java / Scala, AWS, Azure, Kubernetes, Docker",English,11-50,Startup,No,23000.0,29000.0
+26/11/2020 10:53:48,39.0,Male,Berlin,Engineering Manager,15,Lead,Java,"Python, Kotlin, Javascript / Typescript, SQL, Docker",German,101-1000,Product,No,90000.0,90000.0
+26/11/2020 10:59:10,33.0,Male,Amsterdam,Backend Developer,8,Senior,C#,"Python, .NET, SQL",English,11-50,Product,No,56000.0,75000.0
+26/11/2020 11:10:50,26.0,Male,Berlin,Backend Developer,2.5,Middle,Java,0,English,101-1000,Product,No,0.0,60000.0
+26/11/2020 11:13:18,29.0,Male,Berlin,Software Engineer,6,Middle,Swift,Swift,English,1000+,Product,No,0.0,70000.0
+26/11/2020 11:33:16,29.0,Female,Berlin,Software Engineer,5,Middle,PHP,"Python, Javascript / Typescript, SQL, AWS, Google Cloud, Docker",English,11-50,Startup,No,47000.0,55000.0
+26/11/2020 11:45:08,32.0,Male,Prague,Software Engineer,8,Senior,"C, C++",Python,Czech,1000+,Product,No,28600.0,39600.0
+26/11/2020 11:46:05,34.0,Male,Hannover,Hardware Engineer,12,Senior,0,0,English,up to 10,Product,No,56000.0,56000.0
+26/11/2020 11:49:59,30.0,Male,Berlin,Backend Developer,9,Lead,Java,"Javascript / Typescript, Java / Scala, Go, AWS, Docker",English,51-100,Startup,No,80000.0,85000.0
+26/11/2020 11:50:35,31.0,Male,Berlin,ML Engineer,7,Middle,Python,"AWS, Kubernetes, Docker",English,1000+,Product,No,65000.0,92000.0
+26/11/2020 12:20:03,33.0,Male,Berlin,Mobile Developer,8,Senior,swift,SQL,English,1000+,Product,No,76000.0,76000.0
+26/11/2020 12:21:47,31.0,Female,Berlin,Software Engineer,1,Junior,React,"Python, AWS, Kubernetes, Docker, React",English,1000+,Retail,No,55000.0,58000.0
+26/11/2020 12:47:20,36.0,Male,Frankfurt,Software Engineer,16,Middle,.Net,".NET, SQL",German,51-100,Consulting / Agency,No,65000.0,65000.0
+26/11/2020 13:35:07,30.0,Male,Berlin,DevOps,7,Middle,0,0,English,1000+,Startup,No,0.0,80000.0
+26/11/2020 14:10:57,30.0,Male,Berlin,Mobile Developer,8,Senior,Swift,"Python, Kotlin, Swift, Javascript / Typescript",English,up to 10,Consulting / Agency,Leads and project inquiries have slowed down,0.0,60000.0
+26/11/2020 14:37:05,27.0,Male,Bucharest,QA Engineer,1,Junior,Javascript,Javascript / Typescript,0,0,0,other,0.0,11000.0
+26/11/2020 14:48:23,39.0,Male,Berlin,Software Engineer,19,Senior,Golang,"Python, Ruby, Go, AWS, Google Cloud, Kubernetes, Docker",English,11-50,Startup,No,174000.0,184000.0
+26/11/2020 14:53:30,30.0,Male,Munich,Software Engineer,10,Senior,Офмф,0,English,11-50,Product,No,0.0,79000.0
+26/11/2020 15:14:31,32.0,Male,Berlin,Software Engineer,11,Senior,C++,"Python, C/C++, Rust",English,1000+,Product,No,0.0,110000.0
+26/11/2020 15:29:49,35.0,Male,Berlin,Backend Developer,12,Senior,php,"SQL, Google Cloud, Docker",English,101-1000,Product,No,0.0,54000.0
+26/11/2020 15:31:02,34.0,Male,Berlin,Data Scientist,6,Senior,python,"Python, Javascript / Typescript, SQL, Google Cloud, Docker",English,1000+,Product,No,76000.0,90000.0
+26/11/2020 15:37:45,26.0,Male,Berlin,Data Scientist,4,Middle,Python,"Python, SQL, Google Cloud, Docker",English,1000+,Ecommerce,No,66000.0,66000.0
+26/11/2020 16:20:53,29.0,Male,Helsinki,Mobile Developer,7,Senior,Kotlin,"Javascript / Typescript, Java / Scala, Flutter",English,51-100,Consulting / Agency,No,0.0,65100.0
+26/11/2020 17:08:47,42.0,Male,Berlin,Frontend Developer,18,Senior,React JS,Javascript / Typescript,English,101-1000,Product,Yes,157000.0,945000.0
+26/11/2020 17:24:39,31.0,Male,Berlin,Software Engineer,12,Senior,Java,"SQL, Go, AWS, Kubernetes, Docker",English,1000+,Product,No,55000.0,60000.0
+26/11/2020 17:25:10,30.0,Male,Berlin,Backend Developer,8,Senior,0,"Javascript / Typescript, Ruby, Elixir",English,51-100,Startup,No,0.0,73000.0
+26/11/2020 17:27:56,33.0,Male,Berlin,Software Engineer,10,Senior,Python,"PHP, Javascript / Typescript, SQL, Go, Google Cloud, Kubernetes, Docker",English,1000+,Product,No,70000.0,90000.0
+26/11/2020 17:45:29,28.0,Male,Berlin,Data Engineer,6,Middle,Python,"Java / Scala, SQL, Kubernetes, Docker",English,1000+,Product,No,75000.0,83000.0
+26/11/2020 18:08:57,33.0,Male,Prague,Designer (UI/UX),7,Senior,0,0,English,1000+,Product,No,39000.0,42000.0
+26/11/2020 18:57:33,35.0,Male,Düsseldorf,Data Scientist,3,Middle,Python,"SQL, AWS",English,51-100,E-Commerce,No,68000.0,76000.0
+26/11/2020 19:22:38,35.0,Male,Berlin,Consultant,16,Senior,Python,"Python, Java / Scala, SQL, Google Cloud",English,1000+,Product,No,130000.0,130000.0
+26/11/2020 19:22:45,31.0,Male,Berlin,Software Engineer,8,Senior,Typescript ,"Javascript / Typescript, Java / Scala, Go, Rust, AWS, Kubernetes, Docker",English,1000+,Product,No,0.0,80000.0
+26/11/2020 19:25:56,32.0,Male,Siegen,Software Engineer,13,Junior,C,C/C++,English,51-100,Product,No,0.0,48000.0
+26/11/2020 20:19:33,38.0,Male,Berlin,Software Engineer,15,Senior,Go,"Google Cloud, Docker",English,101-1000,Product,No,73000.0,75000.0
+26/11/2020 20:19:38,29.0,Male,Berlin,Engineering Manager,9,Lead,Go,"SQL, AWS, Docker",English,101-1000,Product,No,0.0,85000.0
+26/11/2020 20:41:46,33.0,Male,Berlin,Backend Developer,13,Senior,Java,"Kotlin, Java / Scala, SQL, AWS, Google Cloud, Docker",English,101-1000,Product,No,0.0,110000.0
+26/11/2020 20:57:32,30.0,Male,Berlin,DevOps,7,Senior,0,"Python, SQL, AWS, Kubernetes, Docker",English,101-1000,Product,No,80000.0,80000.0
+26/11/2020 21:13:25,28.0,Male,Berlin,Fullstack Developer,6,Senior,JavaScript,"Javascript / Typescript, SQL, AWS, Docker",English,11-50,Startup,No,60000.0,75000.0
+26/11/2020 21:13:28,32.0,Male,Berlin,Senior Data Engineer,9,Senior,Python,"Java / Scala, SQL, AWS",English,51-100,Startup,No,85000.0,90000.0
+26/11/2020 21:19:48,39.0,Male,Berlin,Frontend Developer,10,Senior,Javascript,"Javascript / Typescript, Ruby, AWS, Docker",English,101-1000,Product,No,0.0,85000.0
+26/11/2020 21:22:59,31.0,Male,Minsk,Frontend Developer,6,Senior,TypeScript/Angular,"Python, Javascript / Typescript",English,11-50,Product,No,90000.0,110000.0
+26/11/2020 21:29:02,33.0,Male,Berlin,Software Engineer,10,Senior,golang,"Go, Google Cloud, Kubernetes, Docker",English,101-1000,Product,No,117000.0,117000.0
+26/11/2020 21:30:58,30.0,Male,Berlin,QA Engineer,8,Senior,Python,"Python, C/C++, Docker",English,51-100,Startup,No,66000.0,68000.0
+26/11/2020 21:35:14,39.0,Female,Munich,DevOps,11,Lead,0,SQL,German,1000+,Product,No,93000.0,93000.0
+26/11/2020 21:42:38,30.0,Female,Düsseldorf ,Analyst,2,Junior,R,"Python, SQL",English,1000+,Product,No,0.0,45000.0
+26/11/2020 21:49:57,37.0,Male,Munich,Software Engineer,15,Senior,C#,"Python, PHP, Javascript / Typescript, .NET, Java / Scala, AWS, Azure",German,51-100,Consulting / Agency,Yes,65000.0,80000.0
+26/11/2020 21:50:13,42.0,Male,Berlin,Software Engineer,20,Senior,PHP,"PHP, Javascript / Typescript, AWS, Docker",English,101-1000,Startup,No,73000.0,70000.0
+26/11/2020 22:09:35,28.0,Male,Munich,IT Manager,6,Middle,0,Azure,English,51-100,Consulting / Agency,No,123000.0,75000.0
+26/11/2020 22:35:44,31.0,Male,Nuremberg,QA Engineer,9,Middle,Java,"Javascript / Typescript, Java / Scala",English,1000+,Product,No,116000.0,125000.0
+26/11/2020 22:41:33,20.0,Male,Berlin,Mobile Developer,5,Lead,C#,.NET,English,1000+,Product,Yes,0.0,255000.0
+26/11/2020 22:44:06,34.0,Female,Berlin,QA Engineer,1 (as QA Engineer) / 11 in total,Senior,Python,"AWS, Kubernetes, Docker",German,1000+,Product,No,36000.0,62000.0
+26/11/2020 23:22:43,38.0,Male,Berlin,Head of IT ,15,Lead,0,0,English,101-1000,Product,No,75000.0,85000.0
+26/11/2020 23:26:02,35.0,Male,Berlin,Engineering Manager,20,Lead,Go,"PHP, Java / Scala, Go, AWS, Docker",English,11-50,Product,No,75000.0,85000.0
+26/11/2020 23:34:45,31.0,Male,Munich,Software Engineer,14,Senior,C++,"Javascript / Typescript, Java / Scala",English,101-1000,Consulting / Agency,No,0.0,75000.0
+26/11/2020 23:40:18,37.0,Male,Berlin,Software Engineer,11,Senior,Python,"C/C++, SQL, Docker",English,101-1000,Product,No,67000.0,103000.0
+26/11/2020 23:45:20,37.0,Male,Berlin,Backend Developer,12,Lead,Kotlin/PHP,"Kotlin, PHP, SQL",English,11-50,Product,No,84000.0,90000.0
+27/11/2020 00:02:27,34.0,Male,Berlin,Mobile Developer,9,Senior,iOS,Swift,English,1000+,Product,No,67000.0,90000.0
+27/11/2020 00:29:36,25.0,Male,Marseille,Data Scientist,1,Junior,Python,"Python, Javascript / Typescript, SQL, Docker",English,up to 10,Startup,No,0.0,92000.0
+27/11/2020 00:33:53,42.0,Male,Friedrichshafen,Software Engineer,20,Senior,C++,"Python, C/C++, .NET",English,101-1000,Product,No,0.0,70000.0
+27/11/2020 00:35:10,35.0,Female,Berlin,Product Manager,13,Senior,0,0,English,101-1000,Product,No,64000.0,85000.0
+27/11/2020 06:57:33,37.0,Male,Berlin,QA Engineer,8,Middle,0,0,German,101-1000,Product,No,54000.0,54000.0
+27/11/2020 08:08:17,33.0,Female,Berlin,Data Scientist,8,Senior,Python ,"SQL, Google Cloud, Docker",English,1000+,Product,No,70000.0,77000.0
+27/11/2020 09:50:36,26.0,Female,Moscow,Frontend Developer,6,Senior,JavaScript,Javascript / Typescript,Russian,101-1000,Product,No,27000.0,33000.0
+27/11/2020 10:25:49,46.0,Male,Stuttgart,Software Engineer,13,Middle,C++,Python,English,1000+,Product,No,68000.0,73000.0
+27/11/2020 10:43:49,30.0,Male,Berlin,DevOps,11,Senior,0,0,English,101-1000,Product,No,75000.0,80000.0
+27/11/2020 11:04:39,34.0,Male,Berlin,Lead Software Developer,13,Lead,C#,".NET, Kubernetes, Docker",English,51-100,Product,No,65000.0,65000.0
+27/11/2020 11:09:58,35.0,Male,Berlin,Software Engineer,15,Senior,Java,"Python, SQL, AWS, Docker",English,11-50,Product,No,85000.0,85000.0
+27/11/2020 11:44:47,27.0,Male,Berlin,Backend Developer,4,Senior,Go,"Python, C/C++, Go, AWS, Docker",English,11-50,Startup,No,0.0,70000.0
+27/11/2020 11:46:07,31.0,Male,Berlin,Software Engineer,7,Lead,python,"Python, Javascript / Typescript, SQL, Go, AWS, Google Cloud, Kubernetes, Docker",English,1000+,Product,Yes,85000.0,90000.0
+27/11/2020 11:53:47,24.0,Male,Berlin,Software Engineer,2,Junior,Java,"Python, Java / Scala, SQL, AWS, Google Cloud, Kubernetes, Docker",German,up to 10,Consulting / Agency,No,60000.0,60000.0
+27/11/2020 12:01:25,28.0,Male,Berlin,Data Engineer,7,Senior,Python,"Python, SQL, AWS, Google Cloud, Kubernetes, Docker",English,101-1000,Startup,No,75000.0,90000.0
+27/11/2020 12:03:55,42.0,Male,Berlin,Backend Developer,18,Middle,PHP,0,English,11-50,Product,No,0.0,53000.0
+27/11/2020 12:05:25,27.0,Male,Berlin,Data Scientist,5,Middle,Python,SQL,English,51-100,Product,No,0.0,55000.0
+27/11/2020 12:16:02,30.0,Male,Hannover,Software Engineer,5,Middle,Python,"Javascript / Typescript, Java / Scala, SQL",English,up to 10,Startup,No,45000.0,45000.0
+27/11/2020 12:20:51,0.0,Male,Berlin,data engineer,11,Middle,python,"Python, SQL, AWS, Google Cloud",English,1000+,Product,No,0.0,68000.0
+27/11/2020 12:26:33,26.0,Male,Berlin,Software Engineer,2,Middle,TypeScript,"Python, Kotlin, Javascript / Typescript, SQL, AWS, Docker",English,1000+,Consulting / Agency,No,0.0,61000.0
+27/11/2020 12:30:01,37.0,Male,Walldorf,ML Engineer,15,Lead,Python,"AWS, Google Cloud, Kubernetes, Docker",English,1000+,Product,No,90000.0,95000.0
+27/11/2020 12:33:03,0.0,Male,Hamburg,Software Engineer,12,Senior,Java,"Python, Kotlin, Javascript / Typescript, Java / Scala, SQL, AWS, Google Cloud, Docker",German,0,Consulting / Agency,No,80000.0,80000.0
+27/11/2020 12:42:00,39.0,Male,Munich,Software Engineer,8,Senior,Python,C/C++,English,1000+,Product,No,175000.0,180000.0
+27/11/2020 12:44:12,26.0,Female,Berlin,Tech recruiting,"2,5",Middle,JS,Python,English,101-1000,Product,No,33000.0,41000.0
+27/11/2020 12:53:07,30.0,Male,Hamburg,Data Scientist,5,Lead,Python,"R, SQL, AWS",English,11-50,Startup,No,150000.0,170000.0
+27/11/2020 12:56:27,44.0,Male,Frankfurt,Software Engineer,10,Senior,SAP ABAP,SAP / ABAP,Russian,101-1000,Product,No,151000.0,155000.0
+27/11/2020 13:02:41,26.0,Male,Munich,ML Engineer,5,Senior,Spark,"Python, Java / Scala, R, SQL",German,up to 10,Consulting / Agency,No,190000.0,180000.0
+27/11/2020 13:02:57,30.0,Male,Munich,Software Engineer,10,Senior,Go,"Python, C/C++, Javascript / Typescript, Go",English,1000+,Startup,No,0.0,189840.0
+27/11/2020 13:12:14,26.0,Male,Eindhoven,ML Engineer,3,Middle,Python,"Python, C/C++, Docker, Tensorflow, PyTorch",English,101-1000,Product,No,42000.0,48000.0
+27/11/2020 13:21:26,25.0,Female,Munich,ML Engineer,1,Junior,AI,"Python, SQL",English,1000+,Product,No,0.0,57000.0
+27/11/2020 13:24:29,34.0,Male,France,Data Scientist,11,Senior,Python,"Javascript / Typescript, R, SQL, Google Cloud",French,1000+,Consulting / Agency,No,0.0,90000.0
+27/11/2020 13:31:20,38.0,Female,Regensburg,ML Engineer,3,Middle,Python,"R, SQL",German,1000+,Product,Yes,60000.0,65000.0
+27/11/2020 13:38:23,40.0,Male,Berlin,Product Manager,13,Lead,0,SQL,English,1000+,Product,No,75000.0,100000.0
+27/11/2020 13:41:01,28.0,Male,Frankfurt,Mobile Developer,5,Senior,Swift,Swift,English,11-50,Consulting / Agency,No,50000.0,50000.0
+27/11/2020 13:47:57,29.0,Female,Berlin,Data Scientist,2,Junior,R,Python,German,up to 10,Consulting / Agency,No,0.0,52000.0
+27/11/2020 14:08:28,30.0,Female,Berlin,ML Engineer,5,Middle,pythin,"Python, SQL, Docker",English,11-50,Startup,No,46000.0,51000.0
+27/11/2020 14:14:20,28.0,Male,"Warsaw, Poland",Software Engineer,6,Middle,C#,"Javascript / Typescript, .NET, SQL",English,51-100,Consulting / Agency,No,51400.0,57200.0
+27/11/2020 14:34:16,0.0,Female,Berlin,Data Scientist,1,Junior,Python,"Python, R, SQL, Azure",English,1000+,Product,No,0.0,55000.0
+27/11/2020 14:43:39,42.0,Male,Berlin,Software Engineer,12,Lead,Java,"Kotlin, SQL, Kubernetes, Docker",English,101-1000,Product,No,0.0,95000.0
+27/11/2020 14:45:29,27.0,Male,Berlin,ML Engineer,5,Senior,Python,Google Cloud,0,0,0,other,0.0,70000.0
+27/11/2020 14:52:02,29.0,Male,Munich,Data Scientist,4,Middle,Python,"Java / Scala, SQL, AWS, Azure",English,11-50,Consulting / Agency,No,111000.0,128000.0
+27/11/2020 14:54:00,29.0,Male,Munich,Software Engineer,4,Middle,R,"Python, SQL",English,1000+,Semiconductor,No,82000.0,82000.0
+27/11/2020 14:55:13,29.0,Female,Cologne,ML Engineer,1,Middle,julia,0,English,up to 10,Startup,No,550000000.0,5500000000.0
+27/11/2020 15:26:10,27.0,Female,Berlin,Backend Developer,1,Junior,Java,0,German,101-1000,Product,No,45000.0,45000.0
+27/11/2020 15:28:36,36.0,Male,Berlin,CTO,"15, thereof 8 as CTO",Lead,Java & PHP,"Python, PHP, Javascript / Typescript, Java / Scala, SQL, AWS, Google Cloud, Kubernetes, Docker",German,101-1000,Media,No,150000.0,200000.0
+27/11/2020 15:31:37,37.0,Male,Munich,Software Engineer,14,Lead,Typescript,"Python, Javascript / Typescript, Java / Scala, SQL, AWS, Google Cloud, Docker",English,up to 10,Product,No,164000.0,168000.0
+27/11/2020 15:49:51,31.0,Male,Amsterdam,Data Scientist,10,Lead,Python,"Javascript / Typescript, R, SQL, AWS, Azure, Docker",English,11-50,Product,No,0.0,120000.0
+27/11/2020 15:57:34,35.0,Male,Berlin,Data Analyst,5,Middle,R,"R, SQL, Google Cloud",English,101-1000,Product,No,48000.0,49000.0
+27/11/2020 16:22:55,27.0,Male,Berlin,Data Scientist,4,Junior,Python,"C/C++, Javascript / Typescript",English,51-100,Consulting / Agency,No,0.0,140000.0
+27/11/2020 16:43:00,29.0,Male,Munich,Data Analyst ,6,Middle,Python,"Javascript / Typescript, SQL, AWS, Kubernetes, Docker",English,101-1000,Product,No,0.0,72500.0
+27/11/2020 17:18:20,36.0,Male,Berlin,Backend Developer,5,Senior,Java,"Java / Scala, Kubernetes, Docker",English,101-1000,Startup,No,60000.0,70000.0
+27/11/2020 17:21:50,33.0,Male,Munich,Backend Developer,10,Senior,Java,"Python, Kotlin, Go, Kubernetes",English,11-50,Consulting / Agency,No,140000.0,70000.0
+27/11/2020 17:38:58,42.0,Male,Berlin,Software Engineer,12,Lead,Java,"Kotlin, SQL, Kubernetes, Docker",English,101-1000,Product,No,0.0,95000.0
+27/11/2020 17:46:19,32.0,Female,Berlin,BI Analyst ,1,Junior,Sql ,Python,English,101-1000,Startup,No,0.0,48000.0
+27/11/2020 17:47:59,30.0,Male,Berlin,Software Engineer,10,Lead,Frontend,"C/C++, Javascript / Typescript, Go, AWS, Docker",English,1000+,Consulting / Agency,No,108500.0,132000.0
+27/11/2020 18:13:16,29.0,Female,Berlin,Software Engineer,4,Middle,Java/Kotlin,"Javascript / Typescript, SQL, AWS, Google Cloud, Kubernetes, Docker",English,101-1000,Consulting / Agency,No,0.0,75900.0
+27/11/2020 18:27:25,23.0,Male,Munich,ML Engineer,1,Junior,Python,"C/C++, SQL, Google Cloud, Docker",English,101-1000,Product,Yes,0.0,49000.0
+27/11/2020 19:08:08,35.0,Female,Berlin,Frontend Developer,2,Junior,React,Javascript / Typescript,English,101-1000,Startup,No,38000.0,40000.0
+27/11/2020 19:13:30,36.0,Male,Frankfurt,Software Engineer,14,Senior,C++/c,"Python, Docker",English,1000+,Product,No,86600.0,86000.0
+27/11/2020 19:45:57,34.0,Male,Berlin,BI Developer / Data Engineer,10,Senior,SQL,Python,English,101-1000,Product,No,130000.0,82500.0
+27/11/2020 19:50:24,34.0,Male,Berlin,DevOps,12,Lead,Kubernetes,"Python, Go, AWS, Kubernetes, Docker",English,1000+,Product,No,92000.0,94000.0
+27/11/2020 20:17:35,31.0,Male,Munich,ML Engineer,4,Senior,Python,Python,English,1000+,Product,No,172000.0,200000.0
+27/11/2020 20:41:17,34.0,Female,Berlin,QA Engineer,7,Senior,Java,"Java / Scala, SQL, Docker",English,101-1000,Product,No,0.0,55000.0
+27/11/2020 20:47:20,31.0,Male,Munich,Data Scientist,0,Middle,Python,"Python, C/C++, Azure, Docker",English,101-1000,Consulting / Agency,No,0.0,62000.0
+27/11/2020 21:00:34,33.0,Male,Munich,Frontend Developer,14,Senior,"Angular, Typescript","PHP, Javascript / Typescript",German,11-50,Product,No,0.0,80000.0
+27/11/2020 21:29:14,33.0,Male,Frankfurt,Software Engineer,8,Senior,C#,"Javascript / Typescript, .NET, SQL",English,11-50,Product,No,68500.0,73000.0
+27/11/2020 21:35:38,33.0,Male,Munich,Backend Developer,12,Middle,PHP,"PHP, Javascript / Typescript, SQL, Docker",English,101-1000,Product,No,0.0,56000.0
+27/11/2020 21:36:09,29.0,Male,Milan,Data Scientist,3,Middle,Python,"Python, SQL",0,11-50,Startup,No,0.0,38000.0
+27/11/2020 21:45:12,44.0,Female,Berlin,ML Engineer,13,Junior,0,"Python, R, SQL, AWS, Google Cloud, Azure, Docker",English,51-100,Consulting / Agency,No,0.0,45000.0
+27/11/2020 22:14:52,31.0,Male,Berlin,Backend Developer,5,Senior,Python,"Python, SQL, AWS, Kubernetes, Docker",English,1000+,Product,No,60000.0,77000.0
+27/11/2020 22:20:22,26.0,Male,Berlin,Data Scientist,2,Junior,Pyrhon,"Python, SQL, AWS, Google Cloud, Kubernetes, Docker",English,1000+,0,No,0.0,110000.0
+27/11/2020 22:35:06,42.0,Male,Berlin,Software Engineer,12,Lead,Java,"Kotlin, SQL, Kubernetes, Docker",English,101-1000,Product,No,0.0,95000.0
+28/11/2020 05:36:11,27.0,Male,Hamburg,Backend Developer,3,Middle,.net,"Javascript / Typescript, .NET, SQL, Docker",English,11-50,Consulting / Agency,No,0.0,10001.0
+28/11/2020 07:10:16,33.0,Male,Berlin,Product Manager,5,Middle,PM tools,0,English,1000+,Product,No,0.0,70000.0
+28/11/2020 08:39:21,33.0,Male,Heilbronn,Senior Scrum Master (RTE),7,Lead,C++,C/C++,German,1000+,Product,No,114000.0,90000.0
+28/11/2020 10:53:43,36.0,Male,Frankfurt,QA Engineer,9,Senior,0,0,English,101-1000,Consulting / Agency,No,60000.0,64000.0
+28/11/2020 12:31:36,31.0,Male,Berlin,Backend Developer,9,Senior,"Grails, Groovy","Java / Scala, SQL, AWS",English,101-1000,Product,No,63000.0,67473.0
+28/11/2020 12:42:48,42.0,Male,Berlin,Software Engineer,12,Lead,Java,"Kotlin, SQL, Kubernetes, Docker",English,101-1000,Product,No,0.0,95000.0
+28/11/2020 13:49:27,30.0,Male,Berlin,Head of BI,7,Lead,Python,"Python, SQL, AWS, Kubernetes, Docker",English,101-1000,Startup,No,100000.0,100000.0
+28/11/2020 14:13:25,32.0,Female,Berlin,QA Engineer,10,Lead,Java,"Python, Kotlin, .NET, SQL, Go, Docker",German,1000+,Product,No,55000.0,71000.0
+28/11/2020 17:56:48,34.0,Male,Berlin,Software Engineer,16,Lead,Ruby,"Kotlin, Javascript / Typescript, Java / Scala",English,101-1000,Startup,No,91000.0,91000.0
+28/11/2020 19:20:34,35.0,Male,Berlin,Data Scientist,15,Middle,C++,Python,English,101-1000,Product,No,60000.0,60000.0
+28/11/2020 19:42:06,33.0,Male,Munich,SRE,10,Senior,PHP,"Python, Javascript / Typescript, Ruby, Java / Scala, AWS, Kubernetes, Docker",English,1000+,Product,No,78000.0,79000.0
+28/11/2020 20:21:28,39.0,Male,Düsseldorf ,Technical project manager,12,Senior,PHP,SQL,German,1000+,Consulting / Agency,No,58000.0,71000.0
+28/11/2020 20:23:28,39.0,Female,Stuttgart ,Project manager ,13,Senior,0,0,German,1000+,Automotive ,No,102000.0,108000.0
+28/11/2020 21:02:40,25.0,Female,Berlin,support engineer,2,Middle,python ,"Python, Javascript / Typescript, Ruby, SQL",English,1000+,Startup,Yes,24000.0,90000.0
+28/11/2020 22:07:47,34.0,Male,Munich,Frontend Developer,4,Middle,JavaScript,"Javascript / Typescript, Go",English,101-1000,Product,No,66000.0,66000.0
+28/11/2020 22:16:17,28.0,Male,London,Software Engineer,8,Senior,.NET,"Javascript / Typescript, .NET, SQL, AWS",English,101-1000,Product,No,0.0,81000.0
+29/11/2020 01:29:24,35.0,Male,Berlin,Frontend Developer,6,Middle,React / JavaScript,Javascript / Typescript,English,1000+,Product,No,0.0,66500.0
+29/11/2020 03:48:11,38.0,Male,Berlin,Backend Developer,8,Senior,Perl,"SQL, Go, AWS, Docker",German,1000+,Product,No,128000.0,137000.0
+29/11/2020 09:34:53,34.0,Male,Munich,Backend Developer,13,Lead,Java,"Kotlin, Javascript / Typescript, Java / Scala, AWS, Azure, Kubernetes, Docker",English,11-50,Startup,No,77000.0,120000.0
+29/11/2020 10:06:00,36.0,Male,Dortmund,Software Engineer,8,Senior,kotlin,"Python, Kotlin, Javascript / Typescript, Java / Scala, SQL, AWS, Kubernetes, Docker",English,1000+,Product,No,81000.0,83000.0
+29/11/2020 10:27:35,30.0,Female,Munich,Software Engineer,8,Senior,Java,"AWS, Docker",German,1000+,Consulting / Agency,No,52000.0,52000.0
+29/11/2020 12:27:03,0.0,Male,Berlin,Software Engineer,10,Senior,.net,".NET, SQL, Azure",German,1000+,0,No,57000.0,62000.0
+29/11/2020 13:17:18,27.0,Male,Berlin,Data Engineer,6,Middle,Python,"Python, AWS",English,1000+,Product,No,70000.0,95000.0
+29/11/2020 14:27:45,27.0,Male,Berlin,QA Engineer,5,Middle,Java,"Python, Javascript / Typescript, Google Cloud, Kubernetes, Docker",English,101-1000,Product,No,0.0,56700.0
+29/11/2020 15:23:30,33.0,Male,Berlin,Software Engineer,7,Middle,Ruby,"Javascript / Typescript, Ruby, AWS, Docker",English,51-100,Startup,No,0.0,54000.0
+29/11/2020 15:26:18,29.0,Male,Berlin,Security engineer,7,Middle,0,"Python, SQL, Go, AWS, Kubernetes, Docker",English,101-1000,Product,No,0.0,72000.0
+29/11/2020 17:12:02,30.0,Female,Cologne,Data Scientist,8,Senior,"Python, cloud computing ","Python, SQL, AWS, Azure",both,1000+,Utilities,No,90000.0,92000.0
+29/11/2020 17:48:04,25.0,Male,Frankfurt,DevOps,2,Junior,Python,"Python, AWS, Kubernetes, Docker",English,1000+,Consulting / Agency,No,0.0,65000.0
+29/11/2020 18:41:38,38.0,Male,Berlin,Software Engineer,12,Senior,Java,Kotlin,English,1000+,Product,No,115000.0,132000.0
+29/11/2020 18:51:15,30.0,Female,Jena,Software Engineer,4,Middle,JS,"Python, PHP, Javascript / Typescript, SQL, AWS",English,101-1000,Institute,No,0.0,54000.0
+29/11/2020 19:42:21,24.0,Male,Berlin,ML Engineer,3,0,0,0,0,0,Startup,other,0.0,90000.0
+29/11/2020 20:04:23,34.0,Male,City in Russia,Software Architect,14,Lead,Haskell,"Python, C/C++, .NET, SQL",English,51-100,Product,No,80000.0,100000.0
+29/11/2020 20:24:21,29.0,Male,Berlin,Frontend Developer,8,Senior,JavScript,"Javascript / Typescript, AWS, Docker",English,101-1000,Product,No,137000.0,164500.0
+29/11/2020 20:53:17,27.0,Male,Berlin,Backend Developer,3,Middle,Java,0,English,51-100,Product,No,0.0,57000.0
+29/11/2020 21:34:45,36.0,Male,Berlin,Software Engineer,5,Middle,JavaScript,Javascript / Typescript,English,101-1000,Startup,No,60000.0,60000.0
+30/11/2020 09:07:15,43.0,Male,Berlin,Software Engineer,20,Middle,Ruby,"Kotlin, PHP, Ruby, Java / Scala, SQL, AWS, Kubernetes, Docker",English,1000+,Product,No,80000.0,90000.0
+30/11/2020 09:57:43,32.0,Male,Munich,Frontend Developer,10,Lead,js,Javascript / Typescript,English,11-50,Startup,No,0.0,165000.0
+30/11/2020 10:48:04,28.0,Male,Berlin,ML Engineer,0,Junior,python,"Python, Docker",English,11-50,Startup,Yes,0.0,48000.0
+30/11/2020 10:49:42,36.0,Male,Nuremberg,Software Engineer,20,Lead,Java,"Java / Scala, SQL, Kubernetes, Docker",German,1000+,Finance,No,80000.0,80000.0
+30/11/2020 10:49:54,38.0,Female,Düsseldorf,Data Scientist,14,Middle,R,"Python, R, SQL",German,1000+,Product,No,145000.0,145000.0
+30/11/2020 10:50:53,27.0,Male,Nürnberg,QA Engineer,3,Middle,0,0,German,101-1000,Consulting / Agency,No,0.0,55000.0
+30/11/2020 10:52:55,26.0,Male,Berlin,Backend Developer,2,Junior,Php,"PHP, Javascript / Typescript, SQL, Docker",German,11-50,Product,No,25700.0,26000.0
+30/11/2020 10:58:04,26.0,Male,Amsterdam,Data Scientist,2,Junior,Python,"Python, SQL, Azure",English,51-100,Fintech,No,43000.0,63000.0
+30/11/2020 11:03:07,34.0,Male,Stuttgart ,Software Engineer,6,Lead,C++,"Python, Javascript / Typescript, Java / Scala, R, SQL, AWS, Google Cloud, Azure, Kubernetes, Docker",German,1000+,Product,No,70000.0,91000.0
+30/11/2020 11:06:44,25.0,Male,Stuttgart,Data Scientist,0,Junior,Python ,"R, SQL, Hadoop Hive",German,1000+,Handel ,No,0.0,58000.0
+30/11/2020 11:08:23,30.0,Male,Frankfurt,Data Engineer,3,Middle,Python,"SQL, Docker, Apache Spark, Apache Hadoop, Oracle, PostgreSQL, Bash, Apache Impala, Apache Hive",English,101-1000,Consulting and Product,No,94000.0,68000.0
+30/11/2020 11:13:05,35.0,Male,Berlin,Designer (UI/UX),10,Senior,0,"Figma, Sketch, Photoshop, etc...",German,11-50,Consulting / Agency,No,50400.0,50400.0
+30/11/2020 11:16:18,30.0,Male,Cracow,Business Analyst,7,Senior,SQL,"Python, AWS, Google Cloud, Azure, Alteryx, SAS",English,51-100,Consulting / Agency,No,41000.0,138500.0
+30/11/2020 11:23:45,26.0,Male,Berlin,Software Engineer,5,Middle,Python (Django),"Python, Javascript / Typescript, SQL, Google Cloud, Kubernetes, Docker",English,101-1000,Product,No,60000.0,71000.0
+30/11/2020 11:24:53,30.0,Female,Stockholm,QA Engineer,7,Senior,Python,"Ruby, SQL",English,51-100,Product,No,45600.0,48000.0
+30/11/2020 11:32:03,33.0,Female,Brunswick,Software Engineer,6,Middle,C++,Python,German,1000+,Product,No,67000.0,64000.0
+30/11/2020 11:34:22,26.0,Male,Berlin,Backend Developer,6,Senior,Go,"PHP, Go",English,1000+,Product,No,64000.0,141000.0
+30/11/2020 11:38:00,29.0,Male,Berlin,Data Scientist,6,Middle,Python ,"SQL, AWS, Google Cloud, Docker",English,up to 10,Startup,Yes,0.0,57000.0
+30/11/2020 11:44:04,36.0,Male,Zurich,Data Scientist,5,Senior,Python,"Javascript / Typescript, SQL",English,11-50,Product,No,0.0,212000.0
+30/11/2020 11:45:40,23.0,Male,Dublin,Data Analyst,3,Senior,Python,"Python, R, SQL",English,1000+,Product,No,46000.0,51200.0
+30/11/2020 11:52:06,45.0,Male,Madrid,Data Scientist,2,Senior,Python,"SQL, Azure",Spanish,101-1000,Consulting / Agency,No,0.0,42000.0
+30/11/2020 11:56:44,41.0,Male,Rome,CTO,22,Lead,Python,"C/C++, SQL, Go, Rust, AWS, Google Cloud, Kubernetes, Docker",Italian,51-100,Product,No,45000.0,50000.0
+30/11/2020 12:06:18,28.0,Male,Berlin,ML Engineer,1,Junior,Python,"C/C++, AWS, Google Cloud, Docker",English,up to 10,Startup,Yes,84000.0,86000.0
+30/11/2020 12:07:23,35.0,Male,Berlin,Data Scientist,12,Senior,Python,"R, SQL, AWS, Docker",English,1000+,Startup,Yes,75000.0,89000.0
+30/11/2020 12:08:57,37.0,Female,Berlin,Data Scientist,8,Middle,Python ,"SQL, AWS",English,1000+,Startup,No,0.0,67000.0
+30/11/2020 12:10:34,26.0,Male,Lisbon,Software Engineer,4,Middle,JavaScript,"Javascript / Typescript, Ruby, SQL",English,51-100,Product,No,19000.0,21000.0
+30/11/2020 12:11:34,30.0,Male,Barcelona,Data Scientist,5,Senior,R,"Python, SQL",Spanish,1000+,Consulting / Agency,No,40000.0,40000.0
+30/11/2020 12:11:41,24.0,Male,Sofia,ML Engineer,5,Senior,Python,"Python, C/C++, SQL, Google Cloud, Kubernetes, Docker",English,11-50,Startup,No,40000.0,64000.0
+30/11/2020 12:11:50,35.0,Male,Frankfurt,Manager ,6,Lead,C,"Python, C/C++, Docker",English,1000+,Product,No,95500.0,97500.0
+30/11/2020 12:13:37,27.0,Male,Rome,Data Scientist,2,Junior,SQL,"Python, SQL, Google Cloud",Italian,1000+,Consulting / Agency,No,25600.0,28300.0
+30/11/2020 12:15:48,31.0,Male,Munich,Professor,10,Lead,Python,0,German,101-1000,Education,No,78000.0,80000.0
+30/11/2020 12:17:06,27.0,Female,Munich,Backend Developer,6,Senior,Java,Python,English,101-1000,Product,No,85000.0,95600.0
+30/11/2020 12:24:32,29.0,Male,Bonn,Data Scientist,2,Middle,Python,SQL,English,1000+,Product,No,50000.0,55200.0
+30/11/2020 12:32:14,29.0,Male,Berlin,AI Management,6,Lead,Python,"Python, Azure, Docker",German,1000+,Product,No,153000.0,106000.0
+30/11/2020 12:45:00,34.0,Male,Berlin,Backend Developer,14,Lead,Kotlin,"Python, Kotlin, Java / Scala, SQL, AWS, Kubernetes, Docker",English,1000+,Startup,No,175000.0,196000.0
+30/11/2020 12:49:08,29.0,Male,Helsinki,Frontend Developer,10,Senior,TypeScript,Javascript / Typescript,English,101-1000,Product,No,0.0,62500.0
+30/11/2020 12:55:38,35.0,Male,Luttich,Data Scientist,12,Lead,Python,"Python, R, Spark",English,1000+,Product,No,170000.0,180000.0
+30/11/2020 12:56:08,54.0,Male,Milano,Sales ,31,Lead,Network Automation,Python,English,11-50,Consulting / Agency,No,210000.0,210000.0
+30/11/2020 13:10:41,31.0,Male,Berlin,Software Engineer,6,Senior,Kotlin,"Kotlin, PHP, Java / Scala, SQL, Go, AWS, Kubernetes",English,1000+,Product,No,160000.0,189000.0
+30/11/2020 13:12:47,30.0,Male,Bielefeld,Software Engineer,5,Junior,C++,"Python, Qt",German,11-50,Product,No,0.0,110000.0
+30/11/2020 13:17:39,36.0,Male,Zurich,Backend Developer,15,Senior,C++,"C/C++, Java / Scala",English,1000+,Product,No,289000.0,272000.0
+30/11/2020 13:26:02,24.0,Male,Berlin,Backend Developer,1,Junior,Python,"Python, Javascript / Typescript, R",German,up to 10,Startup,No,0.0,14399.0
+30/11/2020 13:33:21,28.0,Male,Frankfurt,XR Developer,8,Lead,C#,"Python, Javascript / Typescript",English,11-50,Startup,No,30000.0,27000.0
+30/11/2020 13:50:56,0.0,Male,Berlin,Data Scientist,4,Lead,python,"R, SQL, AWS, Docker",German,11-50,Consulting / Agency,No,85000.0,105000.0
+30/11/2020 13:52:05,36.0,Male,Hamburg,Data Scientist,2,Middle,Python,"Java / Scala, SQL",English,11-50,Product,No,55000.0,63000.0
+30/11/2020 13:55:09,26.0,Male,Berlin,DevOps,5,Middle,"Kubernetes, Terraform, GCP","Ruby, AWS, Google Cloud, Docker, Helm, Kustomize, Ansible",English,11-50,Startup,No,60000.0,72000.0
+30/11/2020 14:06:35,36.0,Male,Munich,DevOps,14,Middle,PowerShell,SQL,German,101-1000,Consulting / Agency,No,58040.0,70000.0
+30/11/2020 14:30:05,33.0,Male,Berlin,Backend Developer,13,Senior,Python,"Python, Go, Docker",English,51-100,Startup,No,73000.0,83000.0
+30/11/2020 14:36:32,35.0,Male,Berlin,Data Engineer,6,Senior,Java,"Python, Java / Scala, SQL, Go, AWS, Kubernetes, Docker",English,11-50,Startup,No,400000.0,400000.0
+30/11/2020 14:42:27,29.0,Male,Basel,Data Scientist,5,Lead,Python,"R, SQL",English,1000+,Pharma,No,0.0,128000.0
+30/11/2020 14:47:24,36.0,Male,Berlin,Frontend Developer,6,Middle,JavaScript,"Javascript / Typescript, Kubernetes, Docker",English,101-1000,Product,Yes,55000.0,58000.0
+30/11/2020 15:10:35,35.0,Male,Berlin,Software Engineer,2,Middle,"python, scala","Python, Java / Scala, SQL, AWS, Docker",English,1000+,Product,No,42500.0,50500.0
+30/11/2020 15:27:53,29.0,Male,Berlin,Backend Developer,9,Senior,Java,"Kotlin, Java / Scala, SQL, AWS",English,51-100,Startup,Yes,75000.0,75000.0
+30/11/2020 15:45:24,29.0,Male,Berlin,DevOps,11,Lead,TypeScript,"Python, Javascript / Typescript, SQL, Google Cloud, Kubernetes, Docker",English,up to 10,Startup,No,140000.0,140000.0
+30/11/2020 15:48:04,32.0,Male,Hamburg,Backend Developer,14,Lead,Java,"Javascript / Typescript, .NET, SQL",English,101-1000,Startup,No,75000.0,85000.0
+30/11/2020 16:01:37,23.0,Male,"NJ, USA","Student, Software Developer, Data Engineer",4,Junior,"Django, Flask, Plotly Dash","Python, AWS",English,up to 10,"Full-time position in Education, part-time position in at a data startup",No,0.0,115026.45
+30/11/2020 16:20:18,32.0,Female,Berlin,Engineering Team Lead,10,Lead,QA,0,English,101-1000,Product,No,0.0,68250.0
+30/11/2020 16:24:25,30.0,Male,Berlin,Software Engineer,7,Senior,python,"Python, C/C++, AWS",English,11-50,Startup,No,39000.0,49000.0
+30/11/2020 16:32:24,30.0,Male,Munich,Data Scientist,2,Middle,Python,"Python, C/C++, Java / Scala, AWS, Azure, spark",English,11-50,Startup,No,50000.0,55000.0
+30/11/2020 16:42:50,30.0,Male,Berlin,ML Engineer,6,Middle,Python,"SQL, AWS, Docker",English,51-100,Startup,No,54000.0,59000.0
+30/11/2020 16:54:46,30.0,Male,Frankfurt,Data Scientist,5,Middle,Python,"Javascript / Typescript, Java / Scala, R, Google Cloud, Azure, Kubernetes, Docker",English,11-50,Startup,No,52500.0,52500.0
+30/11/2020 16:57:51,48.0,Male,Madrid,DevOps,15,Senior,Python,"Python, Javascript / Typescript, Perl, AWS, Google Cloud, Kubernetes, Docker",English,up to 10,Startup,Yes,0.0,30000.0
+30/11/2020 17:05:15,31.0,Male,Berlin,Data Analyst,7,Senior,Sql,"Python, R, SQL",English,101-1000,Startup,No,95000.0,103000.0
+30/11/2020 18:24:21,38.0,Male,Cologne,Software Engineer,15,Senior,C#,"SQL, Azure",English,up to 10,Product,No,0.0,66000.0
+30/11/2020 18:25:04,22.0,Male,Istanbul,Backend Developer,3,Middle,PHP,"Python, Javascript / Typescript, SQL, AWS, Docker",English,up to 10,Startup,Yes,0.0,10001.0
+30/11/2020 18:39:45,28.0,Male,warsaw,Data Scientist,3,Middle,Python,"Java / Scala, SQL, AWS, Google Cloud",English,101-1000,Product,No,60000.0,60000.0
+30/11/2020 18:41:07,29.0,Male,Berlin,Data Scientist,5,Senior,Python,"Python, R, SQL, Google Cloud",English,11-50,Startup,Yes,75000.0,75000.0
+30/11/2020 19:12:11,34.0,Male,Munich,Frontend Developer,5,Senior,Javascript / Typescript,0,English,101-1000,Product,No,108000.0,108000.0
+30/11/2020 19:23:52,27.0,Male,Berlin,Frontend Developer,5,Middle,"Javascript, Angular",Javascript / Typescript,English,101-1000,Startup,No,0.0,116000.0
+30/11/2020 19:28:15,34.0,Male,Berlin,ML Engineer,3,Senior,Python,AWS,English,101-1000,Product,No,55000.0,70000.0
+30/11/2020 20:09:04,28.0,Male,Wolfsburg,Software Engineer,2,Junior,C,"Python, C/C++, Docker",English,101-1000,Product,No,0.0,48000.0
+30/11/2020 20:14:04,40.0,Male,Mannheim,Software Engineer,9,Middle,C,"Python, C/C++, Javascript / Typescript, Java / Scala, Perl, MATLAB",English,1000+,Product,No,90000.0,93000.0
+30/11/2020 20:39:33,29.0,Male,Berlin,Product Manager,5,Middle,0,0,English,101-1000,Startup,No,55000.0,57750.0
+30/11/2020 20:56:33,27.0,Male,Cologne,Software Engineer,1,Junior,C++,0,German,11-50,Product,No,90000.0,90000.0
+30/11/2020 21:19:16,35.0,Female,Munich,Data Scientist,5,Senior,"SAS,SQL,Python","Python, SQL, SAS",English,1000+,Bank,No,0.0,85000.0
+30/11/2020 21:31:01,29.0,Male,London,Software Engineer,9,Senior,Typescript,"Javascript / Typescript, Java / Scala",English,1000+,Corporation ,No,0.0,283000.0
+30/11/2020 21:45:21,38.0,Male,Munich,Product Manager,12,Senior,Node,"Python, PHP, SQL",English,1000+,Product,No,82000.0,88000.0
+30/11/2020 21:48:26,32.0,Male,Berlin,Data Engineer,7,Senior,Python/SQL,"AWS, Kubernetes, Docker",English,101-1000,Product,No,155000.0,164000.0
+30/11/2020 21:57:56,37.0,Male,Berlin,Data Scientist,10,Senior,Python,"Python, SQL, AWS, Azure, Kubernetes, Docker",English,101-1000,Product,No,79000.0,82000.0
+30/11/2020 21:58:51,29.0,Male,Karlsruhe,DevOps,6,Senior,"php, js, python, docker","SQL, AWS, Azure",English,11-50,Startup,No,65850.0,74250.0
+30/11/2020 22:13:06,32.0,Male,Frankfurt,Software Engineer,7,Senior,"C, Matlab",0,German,51-100,Product,No,0.0,74000.0
+30/11/2020 22:18:02,40.0,Male,Hildesheim,Software Engineer,16,Senior,C++,0,English,1000+,Product,No,75000.0,77000.0
+30/11/2020 22:42:01,39.0,Male,Berlin,Software Engineer,12,Lead,Javascript,"Python, Javascript / Typescript, SQL, AWS, Docker",English,1000+,Product,No,80000.0,84000.0
+30/11/2020 22:42:57,32.0,Male,Vienna,DataOps Team Lead,10,Lead,Java,"Javascript / Typescript, SQL, Go, Google Cloud, Kubernetes, Docker",German,1000+,Transport & Logistics,No,115000.0,120000.0
+30/11/2020 23:26:56,26.0,Female,Berlin,Backend Developer,5,Middle,Java,Python,English,1000+,Product,No,0.0,140000.0
+30/11/2020 23:38:05,30.0,Male,Berlin,Software Engineer,9,Middle,"TypeScript, Kotlin","Kotlin, Javascript / Typescript, Rust",English,1000+,Product,No,74000.0,77000.0
+01/12/2020 00:06:49,32.0,Female,Munich,Data Scientist,5,Senior,Python ,"Python, Go",German,1000+,Product,No,75000.0,80000.0
+01/12/2020 00:16:18,32.0,Male,Munich,Software Engineer,8,Senior,C++,"Python, C/C++",English,101-1000,Consulting / Agency,No,0.0,65000.0
+01/12/2020 00:20:42,31.0,Male,Helsinki,Software Engineer,5,Middle,Java,"Javascript / Typescript, Java / Scala, SQL, AWS, Kubernetes, Docker",English,51-100,Product,No,55200.0,125511.0
+01/12/2020 00:25:07,30.0,Male,Berlin,Software Engineer,10,Senior,Ruby,"Python, Javascript / Typescript, Ruby, .NET, Java / Scala, Azure, Kubernetes",English,1000+,Product,No,0.0,120000.0
+01/12/2020 00:32:37,30.0,Male,Munich,Software Sales,12,Senior,Cloud,0,English,1000+,Product,No,0.0,170000.0
+01/12/2020 00:32:53,30.0,Female,Berlin,QA Engineer,8,Senior,Javascript,"Javascript / Typescript, AWS, Docker",English,101-1000,Product,No,0.0,70000.0
+01/12/2020 00:38:14,25.0,Male,Hamburg,Backend Developer,5,Middle,Java,"Kotlin, SQL",English,1000+,Product,No,100000.0,107000.0
+01/12/2020 01:32:35,30.0,Male,Berlin,Software Engineer,9,Lead,0,0,English,11-50,Product,No,90500.0,90000.0
+01/12/2020 07:13:14,26.0,Male,Munich,Software Engineer,4,Middle,JavaScript / TypeScript,Javascript / Typescript,English,101-1000,Startup,No,0.0,157500.0
+01/12/2020 08:00:20,32.0,Male,Munich,Product Manager,4,Senior,0,"Java / Scala, SQL",English,1000+,Consulting / Agency,No,124000.0,130000.0
+01/12/2020 08:38:27,32.0,Female,Heidelberg ,Software Engineer,8,0,Typescript,"Javascript / Typescript, .NET, C#, Angular ",English,101-1000,Product,Yes,0.0,60000.0
+01/12/2020 08:39:16,39.0,Male,Siegen,Software Engineer,16,Senior,Embedded,C/C++,Russian,1000+,Product,No,65000.0,67400.0
+01/12/2020 08:45:11,31.0,Male,Munich,DevOps,8,0,0,"Kubernetes, Docker",English,51-100,Product,No,62000.0,66000.0
+01/12/2020 08:49:09,35.0,Male,Murnau am Staffelsee ,Beikoch,1,Middle,Apotheker,0,German,up to 10,Biergarten ,No,0.0,31000.0
+01/12/2020 08:52:15,38.0,Male,Munich,Software Engineer,16,Senior,.net,.NET,English,101-1000,Product,No,90000.0,90000.0
+01/12/2020 09:44:56,22.0,Male,Zürich,Product Management Praktikant,2,Junior,Python,"Python, SQL, Google Cloud",German,up to 10,Startup,No,60000.0,70000.0
+01/12/2020 09:47:47,32.0,Male,Innsbruck,Data Scientist,3,Senior,Python,"R, SQL, AWS, Google Cloud",English,1000+,Product,No,65000.0,65000.0
+01/12/2020 09:50:38,30.0,Female,Munich,Frontend Developer,9,Senior,"JavaScript, TypeScript",PHP,English,1000+,Product,No,55000.0,64000.0
+01/12/2020 09:59:53,34.0,Male,Berlin,Backend Developer,10,Middle,Java,Docker,English,101-1000,Product,No,67000.0,66400.0
+01/12/2020 10:04:53,36.0,Male,Stockholm,Mobile Developer,14,Senior,Java,Kotlin,English,1000+,Product,No,75000.0,80000.0
+01/12/2020 10:11:09,26.0,Female,Hannover,QA Engineer,2,Middle,Tricentis Tosca,"Java / Scala, SQL",German,1000+,Non-tech retail,No,0.0,32000.0
+01/12/2020 10:48:26,28.0,Female,Berlin,Data Analyst,3,Middle,SQL,"Python, Javascript / Typescript, Ruby, AWS",English,101-1000,Product,No,43000.0,53000.0
+01/12/2020 11:17:35,25.0,Male,Berlin,Software Engineer,6,Middle,Scala,"Python, Javascript / Typescript, Java / Scala, AWS, Kubernetes",English,1000+,Product,No,0.0,66000.0
+01/12/2020 12:29:04,28.0,Male,Berlin,Data Scientist,6,Lead,"Python, SQL","Python, Javascript / Typescript, SQL, AWS, Google Cloud",English,51-100,Consulting / Agency,No,78000.0,78000.0
+01/12/2020 12:47:27,26.0,Male,Berlin,QA Engineer,4,Middle,Swift/Kotlin,"Kotlin, Javascript / Typescript, SQL, AWS, Docker",English,51-100,Startup,No,0.0,55500.0
+01/12/2020 13:56:36,35.0,Male,Berlin,Software Engineer,20,Senior,JavaScript,"Javascript / Typescript, AWS, Kubernetes, Docker",English,1000+,Product,No,90000.0,100000.0
+01/12/2020 13:58:10,25.0,Male,Brussels ,Data Scientist,1,Junior,Python ,"Python, SQL, AWS",English,1000+,Consulting / Agency,No,0.0,38000.0
+01/12/2020 14:21:01,23.0,Female,Berlin,Data analyst ,1,Junior,Sql ,"Python, R, SQL, Google Cloud",English,1000+,Startup,No,72000.0,72000.0
+01/12/2020 14:33:35,28.0,Male,Munich,Software Engineer,3,Junior,.NET,"Python, C/C++, .NET",English,1000+,Finance,No,78000.0,78000.0
+01/12/2020 14:58:24,36.0,Male,Berlin,Software Engineer,10,Lead,Java & Distributed Systems Stuff,"Python, Javascript / Typescript, Java / Scala, SQL, Google Cloud, Kubernetes, Docker",English,1000+,Product,No,113500.0,135000.0
+01/12/2020 15:57:44,41.0,Male,Berlin,Designer (UI/UX),20,Senior,Php,"PHP, Javascript / Typescript, SQL",English,0,0,other,0.0,36000.0
+01/12/2020 16:16:38,30.0,Male,Heidelberg,Software Engineer,9,Senior,.NET,"Javascript / Typescript, .NET, Docker",English,1000+,Research,No,55000.0,62000.0
+01/12/2020 16:16:56,30.0,Male,Heidelberg,Software Engineer,9,Senior,.NET,"Javascript / Typescript, .NET, Docker",English,1000+,Research,No,55000.0,62000.0
+01/12/2020 16:36:05,28.0,Male,Zurich,Software Engineer,6,Middle,C++,"Python, C/C++, Java / Scala",German,11-50,Product,No,213000.0,118000.0
+01/12/2020 17:50:06,29.0,Male,Berlin,Frontend Developer,5,Middle,javascript,"Javascript / Typescript, Kubernetes, Docker",English,1000+,Product,No,60000.0,66000.0
+01/12/2020 18:09:57,0.0,Male,Berlin,Backend Developer,15,Middle,Elixir,"Python, Ruby, Kubernetes, Docker",English,101-1000,Consulting / Agency,No,0.0,73000.0
+01/12/2020 18:58:24,26.0,Female,Prague,Software Engineer,4,Middle,C#,.NET,"Russian, English",1000+,Product,No,55000.0,64000.0
+01/12/2020 19:09:43,26.0,Male,Berlin,Product Analyst,4,Middle,Python,"Python, Javascript / Typescript, SQL, Google Cloud",English,1000+,Product,No,45000.0,55000.0
+01/12/2020 19:26:55,31.0,Male,Munich,Software Engineer,5,Middle,Java,"Javascript / Typescript, Java / Scala, SQL, Docker",English,1000+,Product,No,71000.0,77000.0
+01/12/2020 20:57:41,34.0,Female,Hildesheim ,QA Engineer,11,Senior,QA,"Python, SQL",German,1000+,Product,No,61000.0,62000.0
+01/12/2020 21:28:19,34.0,Male,Hamburg,DevOps,8,Senior,Embedded,C/C++,English,101-1000,Product,No,0.0,70300.0
+01/12/2020 22:23:17,36.0,Male,Munich,Software Engineer,13,Lead,Java,"Javascript / Typescript, Java / Scala, AWS, Azure, Kubernetes, Docker",English,101-1000,Product,No,80000.0,95000.0
+01/12/2020 23:24:17,36.0,Male,Berlin,DevOps,17,Lead,Python,"Go, AWS, Kubernetes, Docker",English,101-1000,Product,No,0.0,231000.0
+02/12/2020 00:07:14,40.0,Female,Berlin,QA Engineer,16,Middle,0,PHP,English,11-50,Startup,Yes,57000.0,65000.0
+02/12/2020 00:27:03,31.0,Male,Berlin,Software Engineer,7,Senior,Java,"SQL, AWS, Kubernetes, Docker",English,101-1000,Product,No,87500.0,87500.0
+02/12/2020 04:49:47,28.0,Male,Munich,Software Engineer,8,Senior,PHP,"PHP, Javascript / Typescript, SQL, Go, AWS",English,51-100,Product,No,0.0,57000.0
+02/12/2020 04:49:53,28.0,Male,Munich,Software Engineer,8,Senior,PHP,"PHP, Javascript / Typescript, SQL, Go, AWS",English,51-100,Product,No,0.0,57000.0
+02/12/2020 08:56:43,36.0,Male,Berlin,Backend Developer,16,Lead,Scala,"Python, Kotlin, Java / Scala, SQL, AWS, Kubernetes, Docker",English,101-1000,Startup,No,240000.0,240000.0
+02/12/2020 10:35:10,22.0,Female,Eindhoven,Frontend Developer,2,Junior,JS,"Javascript / Typescript, SQL, Docker",English,11-50,Product,Laid off for a bit,,23999.0
+02/12/2020 11:52:05,26.0,Female,Berlin,Backend Developer,7,Senior,0,0,English,up to 10,Product,No,0.0,60000.0
+02/12/2020 12:06:42,30.0,Male,Berlin,Backend Developer,4,Middle,python,Python,English,101-1000,Product,No,55000.0,58000.0
+02/12/2020 14:20:32,35.0,Male,Berlin,Software Engineer,12,Middle,Kotlin,"Python, Ruby, Java / Scala, AWS",English,1000+,Product,No,168000.0,170000.0
+02/12/2020 14:43:40,30.0,Male,Berlin,Software Engineer,10,Middle,iOS,0,English,101-1000,Product,No,65000.0,71000.0
+02/12/2020 14:45:13,36.0,Male,Bonn,DevOps,15,Junior,jenkins bash,"Kotlin, Swift, Javascript / Typescript, Docker",English,11-50,Product,No,0.0,52500.0
+02/12/2020 16:12:21,35.0,Male,Berlin,Team lead,0,Lead,0,"Python, Java / Scala, AWS, Kubernetes, Docker",English,51-100,Startup,No,85000.0,85000.0
+02/12/2020 17:06:36,28.0,Male,Cologne,Software Engineer,5,Middle,Java,"Python, Kotlin, Javascript / Typescript, SQL, Docker",Russian,101-1000,Product,No,100000.0,100000.0
+02/12/2020 17:09:22,42.0,Male,Berlin,Backend Developer,19,Senior,PHP,"Kotlin, SQL, Kubernetes, Docker",English,101-1000,Product,No,70000.0,70000.0
+02/12/2020 18:46:00,34.0,Male,Berlin,Backend Developer,14,Senior,Kotlin,"Java / Scala, SQL, AWS, Kubernetes, Docker",English,1000+,Product,No,180000.0,220000.0
+02/12/2020 19:35:54,27.0,Male,Hamburg,Backend Developer,0,Junior,Python,Javascript / Typescript,English,up to 10,Startup,No,0.0,55000.0
+02/12/2020 21:39:34,0.0,Male,Munich,Frontend Developer,5,Lead,javascript,Javascript / Typescript,English,11-50,Startup,No,0.0,70000.0
+02/12/2020 21:42:33,36.0,Female,Berlin,Data Scientist,5,Senior,Python,"Python, R",English,1000+,Product,No,89000.0,102000.0
+02/12/2020 21:53:01,31.0,Male,Berlin,Software Engineer,4,Senior,Python,"Python, Javascript / Typescript, AWS, Docker",English,101-1000,Startup,No,65000.0,68000.0
+02/12/2020 22:41:04,32.0,Female,Munich,It Consulting ,2,Junior,Test Management ,0,German,1000+,Consulting / Agency,No,47700.0,55500.0
+03/12/2020 08:53:41,32.0,Male,Berlin,Software Engineer,13,Lead,JavaScript,"Javascript / Typescript, SQL, AWS, Docker",English,1000+,Product,No,80000.0,86000.0
+03/12/2020 09:40:36,36.0,Male,Prefer not to say,ML Engineer,6,Senior,Python,"Python, R, Docker",English,101-1000,Startup,No,67500.0,135000.0
+03/12/2020 10:59:45,26.0,Male,Munich,Software Engineer,6,Senior,TypeScript,"AWS, Docker",English,11-50,Startup,No,80000.0,103000.0
+03/12/2020 11:04:39,28.0,Female,Berlin,Data Scientist,4,Middle,Python,Python,English,1000+,Product,No,134000.0,154100.0
+03/12/2020 11:52:21,34.0,Male,Munich,Data Scientist,10,Senior,Python,"R, SQL, AWS, Docker",English,101-1000,Consulting / Agency,No,73500.0,105000.0
+03/12/2020 13:25:21,38.0,Male,Berlin,Data Scientist,10,Senior,Python,Python,German,101-1000,Product,No,85000.0,87550.0
+03/12/2020 13:58:08,37.0,Male,Berlin,Software Engineer,16,Senior,Java,"Google Cloud, Kubernetes, Docker",English,101-1000,Product,No,75000.0,80000.0
+03/12/2020 21:03:20,31.0,Male,Berlin,Backend Developer,9,Senior,NodeJS/TS,Javascript / Typescript,English,51-100,Startup,No,65000.0,70000.0
+03/12/2020 21:25:35,38.0,Male,Berlin,Backend Developer,15,Middle,PHP/MySQL,"PHP, SQL, Docker, VMs",English,11-50,Consulting / Agency,No,20000.0,40700.0
+03/12/2020 21:59:27,24.0,Male,Moscow,Product Manager,3,Senior,0,0,Русский,1000+,Product,No,36000.0,55200.0
+03/12/2020 22:07:03,25.0,Male,Hamburg,ML Engineer,2,Middle,Python,.NET,German,11-50,Product,No,101000.0,125000.0
+04/12/2020 09:21:01,33.0,Female,Berlin,Frontend Developer,13,Middle,"Angular, TypeScript",Javascript / Typescript,English,1000+,Product,No,51545.0,51545.0
+04/12/2020 10:37:11,39.0,Female,Berlin,Data Scientist,2.5,Junior,python,"C/C++, R, SQL",English,up to 10,corporate incubator,Yes,120000.0,120000.0
+04/12/2020 11:18:51,25.0,Male,Hamburg,Software Engineer,1,Junior,C#,"Javascript / Typescript, .NET, SQL, Kubernetes",German,51-100,Startup,No,0.0,43500.0
+04/12/2020 11:51:26,30.0,Female,Berlin,Software Engineer,7,Senior,Java,"Python, Javascript / Typescript",English,51-100,Product,No,55000.0,60000.0
+04/12/2020 15:56:55,45.0,Male,Stuttgart,CTO,27,Lead,0,"Clojure, Rust",English,11-50,Consulting / Agency,No,90000.0,90000.0
+04/12/2020 18:56:48,28.0,Female,Berlin,Designer (UI/UX),5,Senior,0,0,English,1000+,Consulting / Agency,No,0.0,60000.0
+04/12/2020 19:00:59,45.0,Male,Munich,Data architect,19,Senior,0,0,English,1000+,Multinational ,No,90500.0,92500.0
+04/12/2020 20:33:47,37.0,0,Munich,Software Engineer,15,Senior,C,"Python, C/C++, Docker",English,1000+,Product,No,200000.0,200000.0
+05/12/2020 00:19:36,35.0,Male,Munich,Software Engineer,14,Senior,C++,"Python, C/C++",English,1000+,Product,No,112500.0,126000.0
+05/12/2020 03:34:07,25.0,Male,Cologne,ML Engineer,2,Middle,"NLP, Python","Python, C/C++, Google Cloud, Docker",English,up to 10,Startup,No,0.0,54000.0
+05/12/2020 10:09:33,31.0,Male,Berlin,Software Engineer,4,Senior,Java,"Python, Javascript / Typescript, SQL, AWS, Kubernetes",English,1000+,Product,No,65000.0,69000.0
+05/12/2020 12:18:41,31.0,Male,Hamburg,Data Scientist,"6 (not as a data scientist, but as a lab scientist)",Middle,Python,"Python, R, SQL",German,1000+,Product,No,0.0,57000.0
+05/12/2020 12:43:21,25.0,Female,Amsterdam,Data Scientist,1.5,Middle,Python,"AWS, Docker",English,11-50,Startup,No,36000.0,50350.0
+05/12/2020 13:42:21,27.0,Male,Dusseldurf,Backend Developer,2,Middle,PHP,Kotlin,English,101-1000,Product,No,0.0,50000.0
+05/12/2020 13:52:19,37.0,Male,Berlin,Software Engineer,12,Middle,php,"PHP, SQL, Docker",English,1000+,Product,No,96500.0,96500.0
+05/12/2020 14:54:17,27.0,Male,Frankfurt,IT Manager,5,Middle,0,0,English,1000+,Industry,No,68000.0,77000.0
+05/12/2020 15:16:24,32.0,Male,Hamburg,ML Engineer,4,Middle,"Python, Whole Apache Data Science Stack, AWS","Javascript / Typescript, SQL, AWS, Docker",German,101-1000,Consulting / Agency,No,68000.0,37500.0
+05/12/2020 17:29:17,28.0,Female,Berlin,Backend Developer,3,Middle,Python,"AWS, Docker",English,1000+,Product,No,65000.0,65000.0
+05/12/2020 18:10:14,35.0,Male,Fr,Backend Developer,4,Middle,Java,"Javascript / Typescript, Java / Scala, SQL",English,51-100,Consulting / Agency,No,42000.0,42000.0
+05/12/2020 22:37:41,36.0,Male,Berlin,Staff Engineer,15,Lead,Go,"PHP, AWS, Kubernetes, Docker",English,1000+,Product,No,80000.0,88000.0
+06/12/2020 14:46:17,32.0,Male,Berlin,Designer (UI/UX),5,Senior,Java,"Python, PHP, Javascript / Typescript, SQL",German,up to 10,Startup,No,70000.0,75000.0
+06/12/2020 16:31:09,22.0,Male,Frankfurt,Software Engineer,2,Junior,Java,0,German,1000+,Bank,Yes,40000.0,52000.0
+06/12/2020 19:01:46,33.0,Male,Berlin,Head of IT,3,Lead,Python,"Python, Javascript / Typescript, Docker",German,51-100,Product,yes but found a new one with better pay / perks,65000.0,120000.0
+06/12/2020 21:08:57,35.0,Male,Berlin,Backend Developer,13,Senior,Php,"PHP, SQL, Go, AWS, Docker",English,1000+,Product,No,68000.0,68000.0
+06/12/2020 21:17:41,32.0,Female,Berlin,Computational linguist,5,Middle,Java,"Python, Docker",English,11-50,Product,No,50400.0,50400.0
+06/12/2020 21:51:21,69.0,Male,Stuttgart,Rentner,383,Lead,0,0,German,11-50,Consulting / Agency,No,0.0,70000.0
+07/12/2020 03:52:51,28.0,Male,Berlin,Product Analyst,4,Junior,SQL,"Python, Clojure, SQL",English,1000+,Product,No,0.0,55000.0
+07/12/2020 06:56:43,30.0,Male,Hamburg,Data Scientist,5,Middle,Python,"Python, C/C++, SQL, AWS",English,101-1000,Product,No,110000.0,115000.0
+07/12/2020 07:09:07,40.0,Male,Munich,Data Engineer,15,Lead,SQL,"Python, Javascript / Typescript, .NET, Java / Scala, SQL, Go, AWS, Azure, Docker",English,101-1000,Product,No,94000.0,100000.0
+07/12/2020 08:28:00,27.0,Female,Berlin,Data Scientist,5,Senior,Python ,"SQL, AWS, Google Cloud, Docker",English,101-1000,Product,No,120000.0,75000.0
+07/12/2020 09:25:26,32.0,Male,Berlin,Backend Developer,10,Senior,Node.js,"Javascript / Typescript, SQL, Google Cloud, Kubernetes, Docker",English,11-50,Startup,No,72000.0,80000.0
+07/12/2020 13:10:18,33.0,Male,Munich,Software Engineer,5,Senior,Embedded C++,"Python, C/C++",English,1000+,Consulting / Agency,No,118000.0,124000.0
+07/12/2020 16:36:43,31.0,Male,Berlin,Data Engineer,4,Middle,Python,"Python, SQL, AWS, Docker",English,101-1000,Product,No,45000.0,50000.0
+07/12/2020 19:49:33,30.0,Male,Cologne,technical business analyst,5,Middle,0,Python,German,up to 10,Product,No,63000.0,74000.0
+07/12/2020 21:22:11,32.0,Male,Munich,Software Engineer,10,Lead,Swift,Java / Scala,English,101-1000,Product,No,80000.0,80000.0
+07/12/2020 22:47:21,32.0,Male,Munich,QA Engineer,12,Senior,0,0,Russian,1000+,Product,No,0.0,103000.0
+07/12/2020 22:48:05,25.0,Male,Munich,Frontend Developer,7,Senior,JS,"C/C++, Javascript / Typescript, AWS, Google Cloud, Kubernetes",English,101-1000,Consulting / Agency,No,0.0,76000.0
+07/12/2020 22:54:31,34.0,Male,Munich,Software Engineer,10,Senior,C++,"Python, C/C++",English,1000+,Product,No,72000.0,74000.0
+07/12/2020 22:56:55,29.0,Male,Darmstadt,Data Scientist,5,Middle,Python,"SQL, Kubernetes, Docker",English,101-1000,Product,No,55000.0,65000.0
+07/12/2020 22:56:59,29.0,Male,Darmstadt,Data Scientist,5,Middle,Python,"SQL, Kubernetes, Docker",English,101-1000,Product,No,55000.0,65000.0
+07/12/2020 23:01:55,30.0,Male,Munich,DevOps,10,Lead,0,"Python, Go, AWS, Kubernetes, Docker",English,1000+,Product,No,75000.0,85025.0
+08/12/2020 00:04:34,31.0,Male,Frankfurt,Product Manager,8,Lead,0,0,0,1000+,Product,No,0.0,128000.0
+08/12/2020 01:00:52,24.0,Male,Munich,DevOps,3,Junior,Go,"Python, SQL, Go",English,1000+,FAANG,No,0.0,97000.0
+08/12/2020 01:09:28,35.0,Male,Frankfurt,Software Engineer,10,Senior,Java,"Python, .NET, Java / Scala, SQL, Kubernetes, Docker",English,101-1000,Consulting / Agency,No,65000.0,65000.0
+08/12/2020 01:45:43,31.0,Male,Munich,DevOps,6,Middle,NodsJs,"Javascript / Typescript, AWS, Kubernetes, Docker",English,51-100,Consulting / Agency,No,0.0,62000.0
+08/12/2020 08:17:39,27.0,Male,Munich,Software Engineer,2,Junior,Java,Javascript / Typescript,English,101-1000,Product,No,60500.0,70000.0
+08/12/2020 09:39:06,38.0,Male,Berlin,Full-Stack Developer,1,Junior,Javascript/Typescript,AWS,English,51-100,Startup,No,40000.0,91000.0
+08/12/2020 09:39:49,34.0,Male,Munich,DevOps,12,Middle,Java,"Python, SQL, Perl",English,101-1000,Product,No,80000.0,80000.0
+08/12/2020 10:53:52,35.0,Male,Darmstadt,Data Scientist,4,Senior,python,"Javascript / Typescript, Java / Scala, Docker",English,51-100,Product,No,70000.0,72000.0
+08/12/2020 11:49:02,35.0,Male,Duesseldorf,DevOps,17,Senior,Linux,"SQL, AWS, Google Cloud, Azure, Kubernetes, Docker",English,1000+,Consulting / Agency,No,68000.0,87000.0
+08/12/2020 13:30:50,36.0,Male,Berlin,Backend Developer,10,Senior,Java,"Javascript / Typescript, Java / Scala, SQL, AWS, Docker, nomad, QlikSense",English,101-1000,Product,No,0.0,75000.0
+08/12/2020 13:55:01,33.0,Male,Munich,Backend Developer,13,Senior,Java,"Python, Javascript / Typescript, AWS",English,51-100,Product,No,0.0,77000.0
+08/12/2020 20:04:49,29.0,Male,Berlin,DevOps,7,Senior,"Kuberenetes, Openstack","Python, Go, Kubernetes, Docker, Openstack",English,101-1000,Consulting / Agency,No,78000.0,82000.0
+08/12/2020 20:38:39,35.0,Male,Berlin,Software Engineer,15,Senior,Java,Kotlin,English,101-1000,Product,No,80000.0,95000.0
+08/12/2020 20:57:45,30.0,Male,Berlin,Software Engineer,11,Senior,c/c++,Python,English,51-100,Startup,No,0.0,70000.0
+08/12/2020 21:41:06,31.0,Female,Berlin,Product Manager,4,Middle,0,SQL,English,101-1000,Startup,Yes,70000.0,60000.0
+08/12/2020 21:57:59,25.0,Female,Cambridge,Frontend Developer,4,Middle,JavaScript/Typescript,Javascript / Typescript,English,101-1000,Product,No,0.0,90000.0
+08/12/2020 22:10:37,24.0,Male,Berlin,ML Engineer,0.8,Junior,Python,Python,English,11-50,Consulting / Agency,No,0.0,11500.0
+08/12/2020 23:46:09,34.0,Male,Cologne,CTO,14,Lead,C#,"Javascript / Typescript, .NET, SQL, Azure, Kubernetes, Docker",English,11-50,Product,No,144000.0,176000.0
+09/12/2020 04:46:05,42.0,Male,Hamburg,Data Scientist,2,Senior,Python ,"Python, SQL, Google Cloud",German,1000+,Old industry,No,70000.0,87000.0
+09/12/2020 10:09:49,37.0,Female,Hamburg,QA Manager,7,Middle,java,0,German,101-1000,Product,No,46800.0,48000.0
+09/12/2020 10:32:21,32.0,Male,Berlin,Mobile Developer,8,Senior,Swift,"Kotlin, Swift, Ruby",English,1000+,Product,No,70000.0,75000.0
+09/12/2020 13:37:29,26.0,Female,Berlin,Mobile Developer,8,Middle,c++,"C/C++, SAP / ABAP",German,101-1000,Product,No,15000.0,42000.0
+09/12/2020 21:12:22,35.0,Male,Munich,Software Engineer,15,Lead,SQL,"Python, AWS, Kubernetes, Docker",English,11-50,Consulting / Agency,No,80000.0,100000.0
+10/12/2020 08:37:41,43.0,Male,Munich,Product Manager,18,Lead,.NET,Kotlin,English,1000+,Product,No,121000.0,121000.0
+10/12/2020 14:44:21,41.0,Male,Munich,Software Engineer,15,Senior,Kotlin,"Python, Java / Scala, SQL, AWS",German,1000+,Product,No,102300.0,100200.0
+11/12/2020 08:39:23,33.0,Male,Berlin,Backend Developer,8,Lead,NodeJS,"Python, Javascript / Typescript, SQL, AWS, Azure, Kubernetes, Docker",English,101-1000,Product,No,105000.0,110000.0
+11/12/2020 09:20:06,44.0,Male,Berlin,QA Engineer,15,Lead,"JS, Java",Docker,English,11-50,Product,No,72000.0,72000.0
+11/12/2020 16:25:59,28.0,Male,Berlin,ML Engineer,5,Middle,"Python, Pytorch","Python, AWS, Google Cloud, Docker",English,up to 10,Startup,No,62000.0,64000.0
+11/12/2020 22:00:36,34.0,Female,Berlin,Designer (UI/UX),10,Senior,"PS, Sketch, React, CSS3",Javascript / Typescript,German,up to 10,Product,No,45000.0,45000.0
+11/12/2020 22:36:22,0.0,0,Frankfurt,Software Engineer,10,Senior,Python,"Python, C/C++, Docker",German,101-1000,Product,No,67000.0,70000.0
+12/12/2020 11:45:25,40.0,Male,Berlin,Backend Developer,20,Lead,Java,"Kotlin, C/C++, Javascript / Typescript, Java / Scala, AWS, Docker",English,1000+,Startup,No,0.0,80000.0
+12/12/2020 14:51:11,28.0,Male,Brussels,Robotics Engineer,3,Middle,C++,"Python, C/C++, Javascript / Typescript, Docker",English,up to 10,Startup,No,45000.0,45000.0
+12/12/2020 20:52:06,26.0,Male,Stockholm,ML Engineer,2.5,Middle,Python/NLP,"Python, AWS, Google Cloud, Kubernetes, Docker",English,1000+,Product,Yes,75000.0,120000.0
+12/12/2020 20:55:50,39.0,Male,Berlin,Software Engineer,15,Lead,Java,"Java / Scala, Google Cloud, Kubernetes",English,51-100,Startup,No,130000.0,150000.0
+13/12/2020 08:25:33,32.0,Male,Copenhagen,Data Scientist,6,Senior,Python,"Python, Azure",English,up to 10,Startup,No,95000.0,97000.0
+13/12/2020 11:59:29,36.0,Male,Berlin,DevOps,15,Lead,0,"Google Cloud, Kubernetes, Docker, Terraform, Bash",English,101-1000,Startup,No,0.0,90000.0
+13/12/2020 15:03:32,27.0,Female,Lisbon,Backend Developer,3,Middle,Java,"Java / Scala, SQL",English,1000+,Consulting / Agency,No,17100.0,18750.0
+13/12/2020 15:20:17,32.0,Female,Berlin,Software Engineer,2,Middle,Javascript,"Python, Javascript / Typescript, Go",English,101-1000,Product,No,50000.0,66000.0
+13/12/2020 18:25:45,25.0,Female,Berlin,Software Engineer,4,Middle,"Scala, Apache Spark","Java / Scala, SQL, AWS, Google Cloud, Kubernetes, Docker",English,101-1000,Product,No,0.0,64999.0
+13/12/2020 21:23:15,37.0,Female,Berlin,Data Scientist,7,Lead,Python,"SQL, AWS, Docker, Matlab",English,11-50,Startup,No,0.0,91000.0
+14/12/2020 08:55:24,56.0,Male,Munich,Software Engineer,30,Lead,c++,"Python, C/C++, Javascript / Typescript, Java / Scala, AWS, Kubernetes, Docker",English,51-100,Product,No,190000.0,220000.0
+14/12/2020 09:03:54,30.0,Male,Berlin,Data Scientist,4.5,Middle,Python,"Python, SQL, AWS, Docker",English,51-100,Startup,No,67500.0,70000.0
+14/12/2020 14:33:10,30.0,Female,Hamburg,Software Engineer,5,Senior,Java,0,English,1000+,Product,No,0.0,90000.0
+14/12/2020 14:33:19,30.0,Female,Hamburg,Software Engineer,5,Senior,Java,0,English,1000+,Product,No,0.0,90000.0
+14/12/2020 15:25:10,27.0,Male,Munich,QA Engineer,6,Middle,Python,"Python, C/C++, Docker",English,1000+,Product,No,137000.0,145000.0
+14/12/2020 16:39:33,29.0,Male,Berlin,Software Engineer,6,Senior,Python,"Javascript / Typescript, Google Cloud, Docker",English,1000+,Product,No,0.0,80000.0
+16/12/2020 11:50:12,24.0,Male,Berlin,Mobile Developer,3.5,Middle,"Swift, Objective-C",Ruby,English,1000+,Product,No,0.0,70000.0
+16/12/2020 12:02:55,27.0,Male,Berlin,Data Engineer,0,Junior,Python,"Python, SQL, Azure, Docker",German,1000+,Consulting / Agency,No,71500.0,40000.0
+16/12/2020 17:04:36,28.0,Male,Berlin,Frontend Developer,7,Middle,React.js / TypeScript,0,English,101-1000,Product,No,63000.0,62700.0
+17/12/2020 10:28:18,40.0,Male,Berlin,Data Engineer,14,Middle,"BI, DWH, ETL/ELT","Python, SQL, MS SQL Stack, Oracle, Informatica PowerCenter",English,101-1000,Product,No,0.0,60000.0
+17/12/2020 19:16:46,32.0,Male,Berlin,Backend Developer,9,Senior,Scala,"Go, Google Cloud",English,101-1000,Product,No,87000.0,90000.0
+18/12/2020 07:55:08,35.0,Female,Berlin,Product Manager,5,Senior,0,SQL,English,101-1000,Startup,No,50000.0,60000.0
+18/12/2020 10:17:16,32.0,Male,Berlin,Software Engineer,11,Senior,Scala,"Ruby, Java / Scala, AWS, Kubernetes, Docker",English,1000+,Product,No,80000.0,82500.0
+18/12/2020 10:32:56,30.0,Male,Berlin,Backend Developer,9,Senior,Scala,"Python, Java / Scala",English,1000+,Startup,No,0.0,85000.0
+18/12/2020 11:29:23,30.0,Male,Berlin,Backend Developer,9,Senior,Scala,"Java / Scala, AWS, Kubernetes",English,1000+,Product,No,169000.0,175000.0
+18/12/2020 12:23:22,36.0,Male,Stuttgart,Mobile Developer,16,Lead,Java,"Kotlin, Java / Scala, SQL, AWS, Docker",English,51-100,Product,No,59500.0,62500.0
+18/12/2020 13:14:39,33.0,Male,Berlin,Software Engineer,7,Senior,C++,Javascript / Typescript,English,1000+,Product,No,0.0,81800.0
+18/12/2020 15:38:13,33.0,Male,Berlin,Engineering Manager,15,Lead,Java,"Kotlin, Java / Scala, AWS, Kubernetes, Docker",English,1000+,Product,No,80000.0,100000.0
+18/12/2020 18:43:35,32.0,Male,Munich,Software Engineer,13,Middle,Java,"Javascript / Typescript, SQL, AWS, Docker",English,1000+,Product,No,110000.0,130000.0
+19/12/2020 09:31:16,31.0,0,Berlin,ML Engineer,5,Middle,Python,"Java / Scala, AWS, Google Cloud, Kubernetes, Docker",English,1000+,Product,No,108000.0,155500.0
+19/12/2020 09:54:24,34.0,Male,Berlin,Backend Developer,12,Senior,Kotlin,"Go, Rust, Kubernetes",English,1000+,Product,No,79200.0,82500.0
+20/12/2020 00:30:53,0.0,0,Berlin,0,0,0,0,0,0,0,0,other,0.0,30000.0
+20/12/2020 00:31:23,0.0,0,Berlin,0,0,0,0,0,0,0,0,other,0.0,111111.0
+20/12/2020 01:48:34,54.0,Male,Munich,Software Engineer,25,Middle,Python,"Python, C/C++, Javascript / Typescript, Java / Scala, SQL, Kubernetes, Docker",English,1000+,Consulting / Agency,No,80500.0,80000.0
+20/12/2020 10:31:17,28.0,Male,Sevilla,DatabEngineer,4,Middle,GCP,"Python, Java / Scala, R, SQL, Google Cloud",Spanish,51-100,Consulting / Agency,No,30000.0,30000.0
+21/12/2020 13:45:43,28.0,Female,Berlin,Frontend Developer,5,Senior,javascript,"Google Cloud, Docker",English,1000+,Product,No,60000.0,66000.0
+21/12/2020 14:52:24,29.0,Female,Berlin,Project Manager,6,Middle,Web,0,English,101-1000,Startup,No,0.0,51000.0
+21/12/2020 23:41:56,38.0,Male,Berlin,Data Scientist,6,Lead,Python,"R, AWS",English,1000+,Product,No,290000.0,180000.0
+22/12/2020 11:55:00,33.0,Male,Berlin,Software Engineer,11,Senior,Scala,"Java / Scala, SQL",English,1000+,Product,No,0.0,197000.0
+22/12/2020 13:39:31,36.0,Male,Berlin,Backend Developer,12,Senior,Python,"SQL, Docker",English,1000+,Startup,No,0.0,115000.0
+22/12/2020 16:31:16,36.0,Male,Berlin,Software Engineer,15,Senior,PHP,"Kotlin, AWS, Kubernetes, Docker",English,101-1000,Product,No,69000.0,72000.0
+22/12/2020 17:11:31,37.0,Male,Aachen,QA Engineer,15,Senior,Python,0,English,101-1000,Product,No,0.0,77000.0
+22/12/2020 18:16:48,36.0,Male,Munich,Software Engineer,15,Senior,PL/SQL,SQL,English,1000+,Consulting / Agency,No,68000.0,71000.0
+22/12/2020 18:36:24,35.0,Female,Munich,Application Consultant,"1,5",Junior,SAP,SAP / ABAP,English,1000+,Consulting / Agency,No,0.0,48000.0
+22/12/2020 19:44:13,33.0,Male,Munich,Frontend Developer,10,Senior,Javascript,"Python, Javascript / Typescript",English,101-1000,Startup,No,95000.0,105000.0
+22/12/2020 23:41:41,33.0,Male,Stuttgart,Team Lead,12,Lead,PHP,"Javascript / Typescript, SQL, AWS, Docker",German,101-1000,Consulting / Agency,No,70200.0,70200.0
+23/12/2020 17:33:56,31.0,Male,Berlin,Backend Developer,7,Senior,Go,Go,English,101-1000,Product,No,70000.0,75000.0
+24/12/2020 10:37:30,36.0,Male,Amsterdam,Mobile Developer,14,Senior,Swift,"Kotlin, Javascript / Typescript, AWS",English,11-50,Consulting / Agency,No,110000.0,75000.0
+24/12/2020 14:31:58,31.0,Male,Berlin,Software Engineer,9,Senior,scala,Java / Scala,English,11-50,Startup,No,82000.0,85000.0
+24/12/2020 15:12:35,36.0,Male,Regensburg,Software Engineer,10,Middle,C#,"Javascript / Typescript, .NET, SQL",German,51-100,Consulting / Agency,No,64000.0,72000.0
+24/12/2020 20:39:53,37.0,Male,Munich,DevOps,17,Senior,AWS,"AWS, Azure",English,1000+,Consulting / Agency,No,170000.0,90000.0
+24/12/2020 23:11:24,30.0,Male,Berlin,Consultant,3,Middle,Java,"Python, R, SQL, Kubernetes, Docker",English,101-1000,Startup,No,92000.0,58000.0
+25/12/2020 14:37:26,30.0,Male,Berlin,Software Engineer,11,Senior,Java / Scala,"Kotlin, Java / Scala, Clojure, Rust, AWS, Kubernetes, Docker",English,1000+,Product,No,160000.0,180000.0
+25/12/2020 17:03:05,27.0,Male,Krakow,QA Engineer,5,Senior,java,Python,English,101-1000,Product,No,35000.0,35000.0
+25/12/2020 21:58:38,33.0,Female,Munich,Software Engineer,10,Senior,Java,SQL,English,11-50,Outsourse,No,47500.0,47500.0
+26/12/2020 20:00:12,35.0,Male,Ingolstadt,Backend Developer,10,Lead,Magento,PHP,English,11-50,Startup,No,60000.0,65000.0
+27/12/2020 11:52:56,26.0,Male,Berlin,Backend Developer,5,Middle,Java,AWS,English,1000+,Product,No,65000.0,72000.0
+27/12/2020 18:49:07,29.0,Male,Berlin,Software Engineer,9,Senior,C++,"Python, C/C++, Rust, AWS, Kubernetes, Docker",English,1000+,Product,No,89000.0,89000.0
+28/12/2020 11:20:05,31.0,Male,Berlin,Backend Developer,4,Middle,Ruby on Rails,Javascript / Typescript,English,11-50,Product,No,50000.0,50000.0
+28/12/2020 12:00:15,36.0,Male,Stuttgart,Lead Developer,8,Lead,.net,"Javascript / Typescript, .NET, SQL, Azure, Kubernetes, Docker",German,101-1000,0,No,0.0,78000.0
+28/12/2020 22:24:47,24.0,Female,Munich,Software Engineer,less than year,Junior,"Python, database technologies","Python, Java / Scala, SQL, AWS",English,11-50,Startup,No,0.0,32640.0
+29/12/2020 18:33:08,36.0,Male,Berlin,Mobile Developer,10,Middle,Android,Kotlin,English,1000+,Product,No,70000.0,70000.0
+29/12/2020 23:57:42,29.0,Male,Munich,Data Scientist,6,Middle,SQL,Python,English,1000+,Product,No,75000.0,100000.0
+30/12/2020 02:23:59,30.0,Female,Berlin,Frontend Developer,3,Lead,JavaScript ,"AWS, Docker",English,101-1000,Product,No,51200.0,57600.0
+30/12/2020 13:18:32,30.0,Male,Munich,Software Engineer,8,Senior,PHP,"Javascript / Typescript, SQL, Docker",English,51-100,Product,No,65000.0,69500.0
+30/12/2020 16:32:25,29.0,Male,Berlin,Backend Developer,5,Senior,Go,"Go, Google Cloud, Kubernetes, Docker",English,101-1000,Product,No,70000.0,75000.0
+31/12/2020 17:56:25,34.0,Male,Berlin,Software Engineer,14,Lead,Java,"Kotlin, Javascript / Typescript, AWS, Kubernetes, Docker",English,1000+,Product,No,184000.0,100000.0
+01/01/2021 10:51:57,30.0,Male,Berlin,Backend Developer,10,Lead,Java,"Python, AWS, Kubernetes, Docker",English,101-1000,Startup,No,73000.0,82000.0
+01/01/2021 13:40:08,34.0,Male,Prague,Backend Developer,14,Lead,C#,"Javascript / Typescript, .NET, Azure, Kubernetes, Docker",English,1000+,Product,No,110000.0,130000.0
+02/01/2021 23:17:31,27.0,Male,Munich,Software Engineer,8,Senior,"C++, C#","C/C++, .NET",English,11-50,Product,No,52000.0,52000.0
+03/01/2021 02:44:04,26.0,Male,Munich,Mobile Developer,5,Middle,Kotlin,"Kotlin, Java / Scala",Russian,51-100,Startup,No,0.0,65000.0
+04/01/2021 16:41:12,35.0,Male,Munich,Software Engineer,12,Lead,python,"Javascript / Typescript, SQL, AWS, Docker",English,51-100,Product,No,95000.0,110000.0
+05/01/2021 22:12:30,44.0,Male,Munich,Software Architekt,20,Lead,Java Backend,"Java / Scala, SQL, Docker",German,101-1000,Product,Yes,110000.0,110000.0
+05/01/2021 22:56:24,34.0,Male,Ingolstadt ,Software Engineer,3.5,Junior,C++,"Python, C/C++, Docker",German,1000+,Consulting / Agency,No,106000.0,110000.0
+05/01/2021 23:03:40,45.0,Male,Munich,Software Engineer,20,No level,".net, c++, spss, embeddded","C/C++, .NET, Go",German,up to 10,freelance,No,215000.0,215000.0
+05/01/2021 23:51:56,31.0,Male,Munich,Backend Developer,10,Senior,Ruby on Rails,"Python, Kotlin, Ruby, AWS, Docker",English,101-1000,Startup,No,160000.0,170000.0
+06/01/2021 21:20:44,24.0,Male,Berlin,Frontend Developer,5,Senior,TypeScript,Javascript / Typescript,English,101-1000,Product,No,65000.0,68250.0
+06/01/2021 21:36:17,27.0,Male,Munich,Software Engineer,7,Middle,.NET,"Javascript / Typescript, .NET, Azure, Kubernetes, Docker",English,51-100,Consulting / Agency,No,62000.0,63000.0
+06/01/2021 21:42:52,34.0,Male,Berlin,Frontend Developer,6,Middle,Javascript,Javascript / Typescript,English,101-1000,Startup,No,58000.0,63000.0
+07/01/2021 10:47:40,28.0,Male,Munich,Software Engineer,7,Middle,Java,"Kotlin, Java / Scala, Go, AWS, Kubernetes, Docker",English,101-1000,Product,No,67000.0,67000.0
+07/01/2021 14:37:29,25.0,Male,Berlin,ML Engineer,5,Middle,Scala,"Python, Javascript / Typescript, Java / Scala, AWS",English,1000+,Product,No,0.0,67000.0
+08/01/2021 00:38:57,35.0,Male,Karlsruhe,Software Engineer,12,Senior,".Net, Angular","Javascript / Typescript, .NET, SQL, Azure, Docker",English,1000+,Product,No,75000.0,75000.0
+08/01/2021 12:52:08,0.0,0,Munich,0,0,0,0,0,0,0,0,other,0.0,70000.0
+08/01/2021 16:12:36,52.0,Male,Stuttgart,Software Engineer,0,Lead,Atlassian JIRA,"SQL, Perl",English,up to 10,Consulting / Agency,No,0.0,100000.0
+08/01/2021 17:23:19,33.0,Female,Munich,QA Engineer,10,Junior,Java,SQL,German,1000+,Product,No,115000.0,120000.0
+10/01/2021 22:31:57,26.0,Male,Saint-Petersburg,Project Manager,5,Middle,Python,"Python, .NET, Azure",Russian,1000+,Product,Yes,0.0,22000.0
+10/01/2021 22:32:12,26.0,Male,Saint-Petersburg,Project Manager,5,Middle,Python,"Python, .NET, Azure",Russian,1000+,Product,Yes,0.0,22000.0
+11/01/2021 12:12:34,39.0,Male,Berlin,QA Engineer,7,Senior,Java,"Kotlin, Google Cloud",English,1000+,Product,Yes,75000.0,79000.0
+12/01/2021 12:48:23,37.0,Male,Berlin,Mobile Developer,15,Senior,Android,Kotlin,English,101-1000,Product,No,86500.0,85700.0
+12/01/2021 22:22:21,27.0,Male,Frankfurt,Software Engineer,3,Middle,Qlik,SQL,German,11-50,Product,No,0.0,52000.0
+13/01/2021 23:42:49,38.0,Male,Munich,Data Analyst,16,Senior,0,Bi,English,1000+,Product,No,200000.0,200000.0
+14/01/2021 01:14:58,31.0,Female,Berlin,Data Scientist,4,Middle,spark,"Python, SQL, AWS",English,1000+,Product,No,49000.0,50500.0
+15/01/2021 18:28:54,30.0,Male,Berlin,SRE,10,0,Kubernetes,"Go, Kubernetes",English,101-1000,Product,No,68000.0,68000.0
+16/01/2021 14:39:02,32.0,Male,Munich,ERP Consultant,10,Lead,SAP,0,English,1000+,Product,No,125000.0,130000.0
+16/01/2021 19:35:40,32.0,Female,Munich,QA Engineer,8,Senior,Java,Java / Scala,German,11-50,Product,No,0.0,55000.0
+16/01/2021 22:23:04,32.0,Male,Munich,Software Engineer,10,Lead,Scala,"Javascript / Typescript, Java / Scala, SQL, Go, AWS, Docker",English,11-50,Startup,No,80000.0,95000.0
+17/01/2021 13:22:23,28.0,Male,Berlin,Frontend Developer,5,Middle,JavaScript,Javascript / Typescript,English,101-1000,Product,No,55000.0,55000.0
+18/01/2021 09:51:30,38.0,Male,Berlin,Head of Engineering,18,Lead,0,"Javascript / Typescript, SQL, Go, AWS, Google Cloud, Azure, Kubernetes",German,51-100,Product,No,110000.0,110000.0
+18/01/2021 11:50:02,34.0,Male,Zurich,Software Engineer,7,Senior,PHP,PHP,English,11-50,Startup,No,90000.0,108500.0
+18/01/2021 15:05:50,31.0,Male,Berlin,Backend Developer,9,Senior,Java,"Python, Javascript / Typescript, Java / Scala, SQL, AWS, Docker",English,51-100,Product,Yes,142000.0,142000.0
+18/01/2021 17:46:02,33.0,Male,Berlin,Researcher/ Consumer Insights Analyst ,10,Senior,consumer analysis,0,English,1000+,Product,No,50500.0,63000.0
+18/01/2021 23:20:35,39.0,Male,Munich,Project Manager,15,Lead,PHP,"Python, C/C++, Javascript / Typescript, Java / Scala, Perl, AWS, Docker, Networking, Data Center",English,101-1000,eCommerce,No,90000.0,110000.0
+19/01/2021 10:17:58,26.0,Male,Saarbrücken,Frontend Developer,7,Middle,JavaScript,"Javascript / Typescript, Docker, HTML, CSS; Adobe XD",German,101-1000,Product,No,70200.0,79300.0
+19/01/2021 12:01:11,26.0,Male,Berlin,DevOps,2,Middle,yaml,"Python, AWS, Kubernetes, Docker, terraform, ansible",English,51-100,Startup,No,40000.0,71500.0

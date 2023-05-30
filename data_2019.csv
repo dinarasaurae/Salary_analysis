@@ -1,0 +1,992 @@
+timestamp,age,gender,city,seniority_level,position,experience,main_technology,main_language,company_size,company_type,company_business_sector,salary_last_year,net_salary
+02.12.2019 11:18:26,33.0,Male,Berlin,Senior,Fullstack Developer,13,PHP,English,50-100,Startup,Tourism,60000.0,65000.0
+02.12.2019 11:18:35,29.0,Male,Berlin,Middle,Backend Developer,3,Python,English,10-50,Product,Scientific Activities,55000.0,55000.0
+02.12.2019 11:18:56,0.0,Male,Berlin,Middle,Mobile Developer,4,Kotlin,English,1000+,Startup,0,55000.0,70000.0
+02.12.2019 11:19:08,30.0,Male,Berlin,Senior,Backend Developer,6,PHP,English,100-1000,Product,Transport,0.0,63000.0
+02.12.2019 11:19:37,32.0,Male,Berlin,Senior,Embedded Developer,10,C/C++,English,50-100,Product,Automotive,56000.0,66000.0
+02.12.2019 11:20:30,33.0,Male,Berlin,Middle,Machine Learning Engineer,11,Python,English,1000+,Product,Сommerce,75000.0,80000.0
+02.12.2019 11:21:26,34.0,Male,Berlin,Senior,Backend Developer,12,Java,English,50-100,Startup,0,76000.0,85000.0
+02.12.2019 11:21:31,38.0,Male,Berlin,Lead,Manager,15,Not Relevant,Deutsch,100-1000,Product,Automotive,75000.0,85000.0
+02.12.2019 11:21:38,0.0,Male,Berlin,Lead,Mobile Developer,8,Swift,English,100-1000,Product,Coaching ,63000.0,66000.0
+02.12.2019 11:21:52,29.0,Male,Berlin,Senior,Mobile Developer,7,Kotlin,English,100-1000,Product,Сommerce,54000.0,65000.0
+02.12.2019 11:21:55,27.0,Male,Berlin,Middle,Fullstack Developer,7,Javascript / Typescript,English,10-50,Startup,Finance / Insurance,60000.0,63000.0
+02.12.2019 11:22:36,31.0,Male,Berlin,Senior,Backend Developer,8,Go,English,100-1000,Product,Gaming,0.0,65000.0
+02.12.2019 11:22:43,23.0,Male,Berlin,Senior,DevOps,6,AWS,English,10-50,Startup,Manufacture,63000.0,83000.0
+02.12.2019 11:23:23,27.0,Male,Berlin,Senior,"Designer (UI, UX)",9,Not Relevant,English,100-1000,Product,Manufacture,72800.0,71500.0
+02.12.2019 11:23:31,33.0,Male,Berlin,Senior,Frontend Developer,10,Javascript / Typescript,English,10-50,Startup,Customer Support,68000.0,70000.0
+02.12.2019 11:24:20,0.0,Male,Berlin,Senior,Backend Developer,7,Java,English,100-1000,Startup,Transport,72000.0,80000.0
+02.12.2019 11:24:53,31.0,Male,Berlin,Middle,Mobile Developer,6,Swift,English,100-1000,Product,Сommerce,70000.0,72000.0
+02.12.2019 11:24:54,34.0,Male,Berlin,Senior,Backend Developer,10,Java,English,50-100,Product,Advertising,0.0,87000.0
+02.12.2019 11:25:24,33.0,Male,Berlin,Senior,DevOps,12,Kubernetes,English,1000+,Product,Сommerce,84000.0,90000.0
+02.12.2019 11:25:36,31.0,Male,Berlin,Senior,Data Scientist,6,Python,English,1000+,Product,Сommerce,76000.0,78000.0
+02.12.2019 11:25:49,24.0,Male,Berlin,Middle,Machine Learning Engineer,2,C/C++,English,10-50,Startup,Health,70000.0,70000.0
+02.12.2019 11:26:09,28.0,Male,Hamburg,Senior,Backend Developer,7,PHP,English,100-1000,Product,Сommerce,0.0,55000.0
+02.12.2019 11:27:04,32.0,Male,Frankfurt,Senior,DevOps,12,Not Relevant,Deutsch,1000+,0,0,0.0,160000.0
+02.12.2019 11:27:41,27.0,Male,Berlin,Senior,Data Engineer,5,Python,English,1000+,Product,Fashion,0.0,75000.0
+02.12.2019 11:30:24,32.0,Male,Berlin,Senior,DevOps,13,Not Relevant,English,50-100,Product,IoT,72000.0,66000.0
+02.12.2019 11:30:34,32.0,Male,Berlin,Senior,DevOps,7,AWS,English,1000+,Product,Catering,72000.0,72000.0
+02.12.2019 11:31:32,38.0,Male,Berlin,Senior,Backend Developer,16,Ruby,English,up to 10,Product,Finance / Insurance,75000.0,80000.0
+02.12.2019 11:31:55,0.0,Male,Munich,0,Data Scientist,7,Python,English,10-50,Consulting / Agency,Сommerce,99000.0,92000.0
+02.12.2019 11:32:46,31.0,Male,Berlin,Senior,QA,9,Java,English,100-1000,Product,Automotive,0.0,71000.0
+02.12.2019 11:32:52,31.0,Male,Berlin,Senior,Backend Developer,8,PHP,English,100-1000,Product,Сommerce,60000.0,60000.0
+02.12.2019 11:32:59,32.0,Male,Berlin,Senior,Software Architect,13,Java,English,100-1000,Product,Marketing,78600.0,78600.0
+02.12.2019 11:36:20,44.0,Male,Berlin,Senior,Backend Developer,20,.NET,Deutsch,50-100,Consulting / Agency,0,60000.0,65000.0
+02.12.2019 11:37:44,26.0,Male,Berlin,0,Backend Developer,6,PHP,English,0,Startup,Finance / Insurance,0.0,65000.0
+02.12.2019 11:37:53,31.0,Male,Berlin,Senior,Backend Developer,7,PHP,English,10-50,Product,Сommerce,50000.0,60000.0
+02.12.2019 11:39:53,36.0,Male,Berlin,Senior,Backend Developer,11,PHP,English,1000+,Product,Сommerce,60000.0,81500.0
+02.12.2019 11:41:59,33.0,Male,Berlin,Middle,Backend Developer,4,Java,Deutsch,1000+,Product,0,48000.0,58000.0
+02.12.2019 11:44:10,37.0,Male,Berlin,Senior,Data Engineer,16,Scala,English,1000+,Product,Transport,0.0,65000.0
+02.12.2019 11:45:24,29.0,Male,Berlin,Senior,Backend Developer,11,Javascript / Typescript,English,up to 10,Startup,0,97000.0,190000.0
+02.12.2019 11:45:54,33.0,Male,Berlin,Senior,Backend Developer,9,Java,English,100-1000,Product,0,69000.0,69000.0
+02.12.2019 11:46:17,35.0,Male,Frankfurt,Middle,Business Analyst,15,Not Relevant,English,1000+,Product,Finance / Insurance,90000.0,91500.0
+02.12.2019 11:46:58,35.0,Male,Cologne,Senior,Backend Developer,4,Java,English,50-100,Startup,0,0.0,67000.0
+02.12.2019 11:48:35,31.0,Male,Berlin,Senior,Backend Developer,10,Clojure,English,10-50,Product,0,70000.0,75000.0
+02.12.2019 11:49:02,35.0,Male,Berlin,Middle,Data Engineer,10,Java,English,100-1000,Product,Finance / Insurance,65000.0,80000.0
+02.12.2019 11:49:03,27.0,Male,Berlin,Senior,Backend Developer,10,PHP,English,50-100,Startup,Сommerce,45000.0,62000.0
+02.12.2019 11:50:47,38.0,Female,Berlin,Senior,Manager,10,Javascript / Typescript,English,10-50,Startup,Finance / Insurance,85000.0,85000.0
+02.12.2019 11:51:31,31.0,Male,Berlin,Middle,Backend Developer,2,Java,English,1000+,Product,Сommerce,0.0,62000.0
+02.12.2019 11:51:56,29.0,Male,Düsseldorf,Senior,Backend Developer,9,Java,English,1000+,Product,Tourism,0.0,75000.0
+02.12.2019 11:52:36,30.0,Male,Wolfsburg,Senior,Backend Developer,4,Java,English,50-100,Consulting / Agency,Automotive,0.0,75000.0
+02.12.2019 11:53:51,30.0,Male,Berlin,Middle,Backend Developer,3,Ruby,English,100-1000,Startup,Tourism,48000.0,61000.0
+02.12.2019 11:54:30,31.0,Male,Berlin,Senior,Fullstack Developer,12,Javascript / Typescript,English,1000+,Product,Finance / Insurance,75000.0,80000.0
+02.12.2019 11:57:08,33.0,Male,Cologne,Senior,Backend Developer,10,.NET,Deutsch,10-50,Startup,0,0.0,62000.0
+02.12.2019 12:01:48,31.0,Male,Munich,Senior,Frontend Developer,7,Javascript / Typescript,Deutsch,1000+,Consulting / Agency,Finance / Insurance,65200.0,61250.0
+02.12.2019 12:02:15,30.0,Male,Munich,Lead,Data Scientist,8,Python,English,10-50,Startup,Сommerce,93600.0,90000.0
+02.12.2019 12:02:42,28.0,Male,Berlin,Senior,Data Scientist,4,Python,English,100-1000,Startup,Сommerce,67000.0,75000.0
+02.12.2019 12:03:44,0.0,Male,Berlin,Senior,Data Scientist,6,Python,English,1000+,Product,Сommerce,0.0,113000.0
+02.12.2019 12:05:28,27.0,Male,Munich,Senior,Mobile Developer,5,Kotlin,English,100-1000,Consulting / Agency,Transport,66000.0,72000.0
+02.12.2019 12:07:58,31.0,Female,MA,Senior,"Designer (UI, UX)",10,0,Deutsch,10-50,Product,Health,56000.0,61000.0
+02.12.2019 12:08:04,28.0,Male,Berlin,Middle,Machine Learning Engineer,6,Python,English,100-1000,Startup,Manufacture,55000.0,61000.0
+02.12.2019 12:08:31,36.0,Female,Munich,Senior,Backend Developer,13,Python,English,50-100,Startup,0,92000.0,84000.0
+02.12.2019 12:11:31,28.0,Male,Munich,Senior,Mobile Developer,8,Swift,English,10-50,Startup,Сommerce,0.0,75001.0
+02.12.2019 12:11:37,37.0,Male,Berlin,Senior,other,15,Not Relevant,English,1000+,Product,Gaming,55000.0,60000.0
+02.12.2019 12:13:02,40.0,Male,Berlin,Senior,Manager,15,Not Relevant,English,100-1000,Product,Finance / Insurance,65000.0,70000.0
+02.12.2019 12:14:19,34.0,Male,Berlin,Senior,Support,9,PHP,English,100-1000,Product,Сommerce,53500.0,60000.0
+02.12.2019 12:16:09,0.0,Male,Berlin,Senior,Backend Developer,12,Java,English,1000+,Product,0,0.0,218500.0
+02.12.2019 12:18:34,27.0,Female,Berlin,Middle,Data Scientist,3,Python,English,100-1000,Startup,Gaming,52000.0,66000.0
+02.12.2019 12:23:45,30.0,Male,Munich,Senior,Mobile Developer,8,Swift,English,1000+,Product,Сommerce,0.0,61500.0
+02.12.2019 12:24:08,32.0,Male,Berlin,Senior,Backend Developer,11,PHP,English,50-100,Product,Сommerce,60000.0,65000.0
+02.12.2019 12:24:55,23.0,Male,Berlin,Middle,Data Scientist,3,Python,English,50-100,Startup,Finance / Insurance,0.0,50000.0
+02.12.2019 12:27:11,35.0,Male,Munich,Senior,Embedded Developer,12,C/C++,English,100-1000,Consulting / Agency,Transport,60002.0,91001.0
+02.12.2019 12:28:29,30.0,Male,Munich,Middle,DevOps,10,AWS,English,50-100,Product,IT,75400.0,82200.0
+02.12.2019 12:28:59,40.0,Male,Munich,Senior,Mobile Developer,12,Swift,English,10-50,Product,Manufacture,0.0,117700.0
+02.12.2019 12:31:11,27.0,Male,Munich,Senior,Backend Developer,5,Java,English,100-1000,Consulting / Agency,Сommerce,61000.0,74000.0
+02.12.2019 12:39:00,36.0,Male,Berlin,Senior,Backend Developer,14,Java,English,100-1000,Product,Advertising,68000.0,73000.0
+02.12.2019 12:39:31,36.0,Male,Berlin,Lead,Manager,15,PHP,English,1000+,Product,Сommerce,0.0,138000.0
+02.12.2019 12:40:08,31.0,Male,Berlin,Senior,Fullstack Developer,9,Python,English,10-50,Startup,Сommerce,0.0,64000.0
+02.12.2019 12:42:34,26.0,Male,Munich,Middle,QA,3,Ruby,English,50-100,Product,Finance / Insurance,0.0,58000.0
+02.12.2019 12:43:59,26.0,Male,Munich,Junior,Fullstack Developer,2,Java,English,100-1000,Product,Scientific Activities,1000.0,60000.0
+02.12.2019 12:45:44,32.0,Female,Berlin,Senior,Backend Developer,12,.NET,English,1000+,Product,Finance / Insurance,85000.0,96000.0
+02.12.2019 12:53:59,38.0,Male,Berlin,Senior,Backend Developer,18,Not Relevant,English,100-1000,Product,0,80000.0,75000.0
+02.12.2019 12:54:44,29.0,Male,Munich,Senior,Backend Developer,10,Ruby,English,100-1000,Product,0,52000.0,55000.0
+02.12.2019 12:56:07,30.0,Male,Berlin,Lead,Data Scientist,6,Python,English,1000+,Startup,0,107532.0,115073.0
+02.12.2019 12:59:36,26.0,Male,Munich,Middle,QA,6,Python,English,1000+,Product,IT,65000.0,75000.0
+02.12.2019 13:02:11,30.0,Male,Munich,Middle,DevOps,10,AWS,English,1000+,Product,Transport,72000.0,80000.0
+02.12.2019 13:03:05,32.0,Male,Berlin,Middle,Mobile Developer,7,Swift,English,1000+,0,0,0.0,66000.0
+02.12.2019 13:03:53,35.0,Male,Munich,Senior,DevOps,16,Yaml,Deutsch,1000+,Consulting / Agency,Сommerce,90000.0,82001.0
+02.12.2019 13:05:07,35.0,Male,Berlin,Senior,Frontend Developer,11,Javascript / Typescript,English,50-100,Product,Сommerce,0.0,72000.0
+02.12.2019 13:12:06,38.0,Male,Berlin,Middle,DevOps,7,AWS,English,1000+,Startup,Automotive,66000.0,67000.0
+02.12.2019 13:13:53,36.0,Male,Munich,Senior,Backend Developer,14,PHP,Deutsch,100-1000,Product,Finance / Insurance,65000.0,70000.0
+02.12.2019 13:14:01,0.0,Female,Munich,Middle,QA,5,Java,English,1000+,Product,Finance / Insurance,52000.0,62000.0
+02.12.2019 13:16:12,30.0,Male,Berlin,Senior,QA,9,Java,English,100-1000,Product,Marketing,67500.0,67500.0
+02.12.2019 13:21:36,33.0,Male,Berlin,Senior,QA,8,Java,English,100-1000,Startup,Finance / Insurance,65000.0,75000.0
+02.12.2019 13:23:36,31.0,Male,Frankfurt,Middle,System Administrator,10,"Linux-Stack, Networking",English+Deutsch,10-50,Consulting / Agency,Finance / Insurance,66000.0,66800.0
+02.12.2019 13:27:02,37.0,Male,Berlin,Lead,Backend Developer,12,Java,English,1000+,Product,Fashion,82160.0,109810.0
+02.12.2019 13:30:29,0.0,Female,Berlin,Middle,Product Manager,3,0,English,50-100,Startup,0,0.0,60000.0
+02.12.2019 13:33:23,27.0,Male,Berlin,Middle,Manager,2,0,English,100-1000,Product,Education,36000.0,52000.0
+02.12.2019 13:33:33,36.0,Male,Berlin,Middle,Support,19,Azure,English,100-1000,Startup,SEO,0.0,36000.0
+02.12.2019 13:34:49,39.0,Female,Hamburg,Middle,Backend Developer,2,Ruby,Deutsch,100-1000,Product,Finance / Insurance,43000.0,55000.0
+02.12.2019 13:37:05,36.0,Male,Berlin,Senior,Manager,14,Python,English,10-50,0,Сommerce,92000.0,95000.0
+02.12.2019 13:37:07,33.0,Male,Berlin,Senior,Backend Developer,10,.NET,English,10-50,Product,Сommerce,55000.0,60000.0
+02.12.2019 13:41:41,30.0,Male,Berlin,Middle,Frontend Developer,7,Javascript / Typescript,English,100-1000,Product,0,55000.0,56500.0
+02.12.2019 13:46:31,32.0,Male,Berlin,Senior,Backend Developer,12,PHP,English,50-100,Product,Сommerce,60000.0,68000.0
+02.12.2019 13:50:08,0.0,Male,Berlin,Middle,Backend Developer,3,Elixir,English,10-50,Consulting / Agency,Сonstruction,146000.0,74000.0
+02.12.2019 13:50:39,43.0,Male,Berlin,Senior,QA,8,Not Relevant,English,10-50,Startup,Education,0.0,80000.0
+02.12.2019 13:51:12,29.0,Male,Berlin,Senior,Backend Developer,7,PHP,English,1000+,Product,Transport,63000.0,69000.0
+02.12.2019 13:51:36,0.0,Male,Hamburg,Senior,SAP Consultant,20,Not Relevant,Deutsch,1000+,Consulting / Agency,0,0.0,80000.0
+02.12.2019 13:52:27,29.0,Male,Berlin,0,QA,9,Python,English,50-100,Startup,0,55000.0,66000.0
+02.12.2019 13:53:04,0.0,Male,Munich,Middle,Backend Developer,6,Java,English,100-1000,Product,Finance / Insurance,0.0,61000.0
+02.12.2019 13:56:29,40.0,Male,Berlin,Senior,SRE,20,Multiple,English,100-1000,Product,Advertising,0.0,70000.0
+02.12.2019 13:59:02,33.0,Male,Leipzig,Senior,Mobile Developer,13,Kotlin,English,100-1000,Consulting / Agency,IT,52000.0,58000.0
+02.12.2019 14:04:57,0.0,Male,Berlin,Senior,Mobile Developer,7,Kotlin,English,1000+,Product,Сommerce,60000.0,68000.0
+02.12.2019 14:11:51,37.0,Male,Berlin,Senior,Manager,14,Objective-C,Russian,100-1000,Product,Сommerce,82000.0,83800.0
+02.12.2019 14:16:47,36.0,Male,Berlin,Senior,Software Engineer,11,Python,Deutsch,100-1000,Consulting / Agency,IT,64000.0,67000.0
+02.12.2019 14:21:39,39.0,Male,Berlin,Senior,Backend Developer,16,Java,English,100-1000,Startup,Transport,63600.0,82000.0
+02.12.2019 14:23:35,27.0,Female,Berlin,Middle,Data Scientist,2,Python,English,50-100,Startup,Сommerce,61000.0,61500.0
+02.12.2019 14:25:37,46.0,Male,Berlin,Middle,System Administrator,7,"Microsoft, Vmware",Deutsch,50-100,Consulting / Agency,Design,87000.0,45000.0
+02.12.2019 14:27:33,46.0,Male,Berlin,Junior,DevOps,0,Kubernetes,Deutsch,50-100,Product,Finance / Insurance,0.0,55000.0
+02.12.2019 14:29:11,31.0,Male,Berlin,Lead,"CTO (CEO, CFO)",12,Java,English,1000+,Product,Сommerce,0.0,211000.0
+02.12.2019 14:34:27,47.0,Male,Berlin,Senior,Embedded Developer,20,C/C++,English,1000+,Bodyshop / Outsource,Manufacture,65000.0,65000.0
+02.12.2019 14:35:46,40.0,Male,Berlin,Senior,Software Architect,18,Not Relevant,English,1000+,Product,Сommerce,86900.0,101500.0
+02.12.2019 14:35:55,37.0,Male,Berlin,Senior,Frontend Developer,10,Javascript / Typescript,English,100-1000,Product,Сommerce,68000.0,68500.0
+02.12.2019 14:40:45,36.0,Male,Berlin,Middle,DevOps,10,AWS,English,50-100,Product,Сommerce,0.0,65000.0
+02.12.2019 14:41:29,44.0,Male,Berlin,Senior,Data Engineer,25,Python,English,100-1000,Product,Transport,94000.0,82000.0
+02.12.2019 14:41:59,37.0,Female,Berlin,Middle,Backend Developer,10,C/C++,English,100-1000,Product,Сommerce,0.0,57000.0
+02.12.2019 14:43:33,30.0,Female,Berlin,Middle,Backend Developer,4,Python,English,50-100,Product,0,47250.0,54000.0
+02.12.2019 14:44:36,33.0,Male,Berlin,Senior,QA,8,Javascript / Typescript,English,1000+,Product,Manufacture,57000.0,63000.0
+02.12.2019 14:46:50,35.0,Male,Munich,Lead,Software Architect,15,Google Cloud,Deutsch,100-1000,Consulting / Agency,Finance / Insurance,110000.0,200000.0
+02.12.2019 14:47:18,25.0,Male,Berlin,Middle,Business Analyst,4,Python,English,100-1000,Product,Finance / Insurance,120000.0,60000.0
+02.12.2019 14:55:58,25.0,Male,Munich,Senior,Frontend Developer,4,Javascript / Typescript,English,1000+,Product,0,57000.0,85000.0
+02.12.2019 15:08:55,32.0,Male,Berlin,Senior,Backend Developer,11,Python,English,1000+,Product,0,60000.0,70000.0
+02.12.2019 15:10:43,32.0,Male,Munich,Senior,DevOps,14,Google Cloud,English,1000+,Product,Finance / Insurance,90000.0,108000.0
+02.12.2019 15:11:20,42.0,Male,Munich,Senior,Software Architect,20,Not Relevant,Deutsch,100-1000,Product,Transport,119000.0,115000.0
+02.12.2019 15:12:44,42.0,Female,Munich,Senior,Business Analyst,15,Not Relevant,Deutsch,1000+,Bodyshop / Outsource,Software Development,72000.0,76000.0
+02.12.2019 15:12:51,34.0,Female,Berlin,Senior,"Designer (UI, UX)",8,Not Relevant,English,0,Startup,Сommerce,0.0,57230.0
+02.12.2019 15:14:20,30.0,Male,Berlin,Middle,Backend Developer,10,Kotlin,English,100-1000,Product,Сommerce,59000.0,73000.0
+02.12.2019 15:15:03,45.0,Female,Munich,Junior,Frontend Developer,2,Java,Deutsch,10-50,Consulting / Agency,Justice,32002.0,36001.0
+02.12.2019 15:17:44,35.0,Male,Frankfurt,Middle,QA,9,Not Relevant,English,100-1000,Bodyshop / Outsource,Manufacture,0.0,60500.0
+02.12.2019 15:18:34,42.0,Male,Munich,Middle,Fullstack Developer,16,Java,Deutsch,50-100,Consulting / Agency,Logistics,0.0,64000.0
+02.12.2019 15:18:41,40.0,Male,Berlin,Senior,Backend Developer,18,Python,English,1000+,Product,Сommerce,85000.0,101000.0
+02.12.2019 15:19:47,34.0,Male,Munich,Senior,QA,12,0,Deutsch,1000+,Product,Entertainment,72000.0,69000.0
+02.12.2019 15:20:58,30.0,Female,Munich,Senior,QA,6,Java,Deutsch,50-100,Consulting / Agency,Automotive,53000.0,56000.0
+02.12.2019 15:22:56,0.0,Male,Berlin,Middle,Backend Developer,13,Javascript / Typescript,English,1000+,Product,IT,73500.0,73500.0
+02.12.2019 15:24:45,32.0,Female,Berlin,Middle,Frontend Developer,12,Javascript / Typescript,English,1000+,Product,Software Development,56000.0,63500.0
+02.12.2019 15:24:46,31.0,Male,Berlin,Senior,Fullstack Developer,10,Java,English,up to 10,Startup,0,60000.0,65000.0
+02.12.2019 15:25:09,30.0,Male,Berlin,Senior,Data Engineer,8,Python,English,100-1000,Product,Logistics,72000.0,81000.0
+02.12.2019 15:26:28,45.0,Male,Munich,Senior,QA,12,Java,Deutsch,100-1000,Product,Сommerce,87000.0,79000.0
+02.12.2019 15:28:04,33.0,Male,Munich,Senior,Backend Developer,7,PHP,English,50-100,Product,Finance / Insurance,57200.0,65000.0
+02.12.2019 15:29:03,38.0,Male,Berlin,Senior,Backend Developer,6,Java,English,1000+,Product,Сommerce,0.0,66000.0
+02.12.2019 15:33:10,29.0,Male,Munich,Senior,QA,6,Javascript / Typescript,English,100-1000,Product,Сommerce,0.0,60000.0
+02.12.2019 15:33:43,33.0,Male,Berlin,Senior,Embedded Developer,9,C/C++,English,100-1000,Product,Automotive,73200.0,85400.0
+02.12.2019 15:34:33,34.0,Male,Munich,Senior,Backend Developer,10,PHP,English,up to 10,Consulting / Agency,0,90000.0,120000.01
+02.12.2019 15:40:21,33.0,Male,Berlin,Senior,Software Architect,12,Go,English,100-1000,Product,Transport,115000.0,157000.0
+02.12.2019 15:44:50,36.0,Male,Berlin,Senior,Fullstack Developer,15,Javascript / Typescript,English,100-1000,Product,Finance / Insurance,58000.0,70000.0
+02.12.2019 15:43:54,31.0,Female,Munich,Junior,Fullstack Developer,4,Java,Deutsch,100-1000,Product,Finance / Insurance,57000.0,60060.0
+02.12.2019 15:44:10,38.0,Male,Berlin,Senior,Manager,9,Not Relevant,English,1000+,Product,Сommerce,110000.0,170000.0
+02.12.2019 15:44:44,24.0,Female,Munich,Junior,Backend Developer,1,C/C++,English,1000+,Product,Software Development,0.0,99000.0
+02.12.2019 15:45:22,40.0,Male,Frankfurt,Senior,SAP Consultant,14,Not Relevant,English,1000+,Product,Health,160000.0,175000.0
+02.12.2019 15:49:42,37.0,Male,Munich,Senior,Fullstack Developer,11,PHP,Deutsch,100-1000,Product,Telecom,66000.0,68500.0
+02.12.2019 15:49:47,25.0,Male,Frankfurt,Senior,Backend Developer,6,Java,English,100-1000,Product,Finance / Insurance,0.0,65001.0
+02.12.2019 15:50:29,33.0,Male,Berlin,Senior,Mobile Developer,10,Kotlin,English,1000+,Product,Media,72000.0,80000.0
+02.12.2019 15:50:47,32.0,Female,Nuremberg,Senior,QA,8,Java,English,100-1000,Product,Сommerce,44000.0,50000.0
+02.12.2019 15:54:07,43.0,Male,Frankfurt,Senior,Backend Developer,10,SAP / ABAP,Deutsch,1000+,Product,Manufacture,0.0,85000.0
+02.12.2019 15:56:45,34.0,Male,Cologne,Middle,QA,10,Java,Deutsch,up to 10,Consulting / Agency,IT,70000.0,61800.0
+02.12.2019 15:57:09,28.0,Male,Berlin,Senior,Backend Developer,7,Java,English,50-100,Startup,Catering,65000.0,75000.0
+02.12.2019 15:58:52,32.0,Male,Munich,Senior,DevOps,9,AWS,English,1000+,Product,Software Development,0.0,99000.0
+02.12.2019 15:59:24,29.0,Male,Krakow,Senior,QA,7,Java,English,100-1000,Product,Gambling,33000.0,45000.0
+02.12.2019 16:03:59,25.0,Female,Munich,Junior,Frontend Developer,2,Javascript / Typescript,Deutsch,50-100,Consulting / Agency,Media,0.0,42000.0
+02.12.2019 16:04:46,26.0,Male,Munich,Middle,Backend Developer,5,Java,English,0,Product,Finance / Insurance,61000.0,62000.0
+02.12.2019 16:05:00,44.0,Male,Munich,Middle,Frontend Developer,5,Javascript / Typescript,Deutsch,100-1000,Product,Finance / Insurance,56000.0,62000.0
+02.12.2019 16:05:20,29.0,Male,Berlin,0,DevOps,10,0,English,100-1000,Startup,0,0.0,70000.0
+02.12.2019 16:06:43,28.0,Male,Berlin,Senior,Backend Developer,7,Java,English,50-100,Startup,Catering,60000.0,70000.0
+02.12.2019 16:08:28,45.0,Female,Frankfurt,Middle,Database Developer (DBA),2,SQL,Deutsch,50-100,Product,Finance / Insurance,59000.0,64000.0
+02.12.2019 16:11:06,39.0,Male,Munich,Senior,other,15,.NET,Deutsch,10-50,Product,Сonstruction,61050.0,57275.0
+02.12.2019 16:18:06,36.0,Male,Berlin,Senior,Manager,13,Java,English,1000+,Product,Сommerce,70000.0,80000.0
+02.12.2019 16:20:54,32.0,Male,Berlin,Middle,Mobile Developer,5,Swift,English,100-1000,Product,Сommerce,56400.0,66000.0
+02.12.2019 16:22:39,38.0,Male,Munich,Senior,Software Architect,17,C/C++,English,1000+,Product,Software Development,157000.0,175000.0
+02.12.2019 16:23:24,42.0,Female,Munich,Middle,Product Manager,10,Not Relevant,English,50-100,Product,Finance / Insurance,0.0,72700.0
+02.12.2019 16:23:37,0.0,Male,Prague,Senior,DevOps,11,Python,English,1000+,Product,0,0.0,33200.0
+02.12.2019 16:25:53,32.0,Male,Munich,Middle,Backend Developer,8,Java,English,1000+,Product,Media,66000.0,68000.0
+02.12.2019 16:35:02,33.0,Male,Munich,Senior,Fullstack Developer,8,.NET,English,100-1000,Product,Transport,62000.0,63000.0
+02.12.2019 16:37:57,34.0,Male,Cologne,Senior,Manager,15,Not Relevant,English,1000+,Consulting / Agency,IT,49000.0,70000.0
+02.12.2019 16:38:25,35.0,Male,Munich,Senior,Software Architect,15,AWS,Russian,1000+,Product,0,0.0,175000.0
+02.12.2019 16:38:56,35.0,Male,Frankfurt,Senior,Backend Developer,16,PHP,English,50-100,Product,Finance / Insurance,55000.0,55000.0
+02.12.2019 16:39:11,24.0,Male,Frankfurt,Junior,DevOps,1,AWS,Deutsch,50-100,Consulting / Agency,Сommerce,40000.0,45000.0
+02.12.2019 16:40:52,48.0,Female,Munich,Senior,Manager,11,Not Relevant,English,100-1000,Product,Tourism,0.0,75000.0
+02.12.2019 16:41:25,31.0,Male,Wroclaw,Senior,Backend Developer,10,Ruby,English,50-100,Consulting / Agency,0,0.0,47500.0
+02.12.2019 16:43:19,40.0,Female,Munich,Senior,SAP Consultant,9,Not Relevant,English,1000+,Product,Manufacture,87000.0,89000.0
+02.12.2019 16:45:22,29.0,Male,Cologne,Senior,Fullstack Developer,4,.NET,Deutsch,1000+,Product,Manufacture,45000.0,65000.0
+02.12.2019 16:47:18,38.0,Male,Munich,Lead,Fullstack Developer,17,Javascript / Typescript,English,100-1000,Product,0,0.0,114000.0
+02.12.2019 16:47:47,36.0,Male,Stuttgart,Senior,Mobile Developer,16,Javascript / Typescript,English,100-1000,Product,Сommerce,60000.0,64800.0
+02.12.2019 16:52:20,0.0,Male,Munich,0,Manager,10,Not Relevant,Deutsch,1000+,Product,0,132500.0,110000.0
+02.12.2019 16:53:56,34.0,Male,Munich,Junior,Backend Developer,3,Java,Deutsch,100-1000,Product,0,0.0,48000.0
+02.12.2019 17:27:05,32.0,Male,Berlin,Senior,Backend Developer,12,Ruby,Russian,100-1000,Product,Finance / Insurance,55000.0,65000.0
+02.12.2019 17:30:59,29.0,Male,Munich,Lead,DevOps,10,AWS,English,1000+,Product,0,75000.0,100010.0
+02.12.2019 17:32:16,47.0,Male,London,Middle,Data Engineer,22,Google Cloud,English,100-1000,Product,Publishing,100002.0,100001.0
+02.12.2019 17:32:27,36.0,Male,Munich,Middle,Backend Developer,10,PHP,English,50-100,Product,0,0.0,75000.0
+02.12.2019 17:35:43,32.0,Female,Frankfurt,Senior,other,10,Not Relevant,English,100-1000,Consulting / Agency,Software Development,136000.0,136000.0
+02.12.2019 17:36:37,34.0,Male,Karlsruhe,Senior,Fullstack Developer,12,Javascript / Typescript,English,100-1000,Product,Finance / Insurance,74000.0,75000.0
+02.12.2019 17:40:40,29.0,Female,Munich,Middle,Data Scientist,4,R,Deutsch,100-1000,Product,Сommerce,70000.0,67000.0
+02.12.2019 17:41:24,31.0,Male,Munich,Senior,Backend Developer,9,Java,English,10-50,Startup,0,75000.0,75000.0
+02.12.2019 17:41:30,41.0,Female,Munich,Middle,QA,9,Java,Deutsch,50-100,Product,Manufacture,39002.0,46001.0
+02.12.2019 17:44:10,35.0,Male,Munich,Senior,Software Architect,6,.NET,Deutsch,100-1000,Consulting / Agency,Manufacture,0.0,85000.0
+02.12.2019 17:47:50,37.0,Male,Munich,Senior,Backend Developer,14,C/C++,English,100-1000,Product,Finance / Insurance,0.0,75000.0
+02.12.2019 17:50:19,39.0,Female,Munich,Middle,Backend Developer,17,Java,Deutsch,1000+,Product,Finance / Insurance,59000.0,60000.0
+02.12.2019 17:50:36,0.0,Male,Munich,Senior,Frontend Developer,7,Javascript / Typescript,Deutsch,50-100,Product,0,0.0,65000.0
+02.12.2019 17:52:59,25.0,Female,Munich,Middle,Fullstack Developer,5,.NET,Deutsch,10-50,Consulting / Agency,0,118000.0,66000.0
+02.12.2019 18:03:30,29.0,Male,Munich,Middle,Fullstack Developer,8,Java,English,1000+,Product,Сommerce,70002.0,95000.0
+02.12.2019 18:09:50,0.0,Male,Munich,Middle,Frontend Developer,3,Javascript / Typescript,English,1000+,Product,Finance / Insurance,0.0,55000.0
+02.12.2019 18:14:18,28.0,Male,Munich,Senior,Data Scientist,4,Not Relevant,English,1000+,Product,Tourism,62000.0,64000.0
+02.12.2019 18:27:45,47.0,Male,Munich,Senior,Backend Developer,25,.NET,Deutsch,up to 10,Product,0,0.0,87600.0
+02.12.2019 18:28:37,31.0,Male,Berlin,Senior,Frontend Developer,10,Javascript / Typescript,English,1000+,Product,Сommerce,53000.0,67000.0
+02.12.2019 18:36:23,40.0,Male,Munich,Middle,Product Manager,15,Not Relevant,English,1000+,Product,Tourism,70000.0,75000.0
+02.12.2019 18:48:21,32.0,Male,Munich,Lead,Backend Developer,14,PHP,Deutsch,1000+,Product,0,70000.0,88000.0
+02.12.2019 18:51:02,34.0,Male,Berlin,Senior,Backend Developer,10,C/C++,English,100-1000,Product,0,75000.0,90000.0
+02.12.2019 18:55:15,34.0,Male,Berlin,Senior,Frontend Developer,10,Javascript / Typescript,English,100-1000,Product,Сommerce,65000.0,74800.0
+02.12.2019 19:00:08,33.0,Male,Munich,Senior,Fullstack Developer,15,PHP,English,100-1000,Product,Finance / Insurance,114000.0,120000.0
+02.12.2019 19:03:22,31.0,Male,Frankfurt,Middle,System Administrator,10,Python,English,100-1000,Product,Finance / Insurance,75000.0,70000.0
+02.12.2019 19:10:14,37.0,Male,Munich,Middle,Business Analyst,15,Not Relevant,English,1000+,0,Manufacture,94000.0,92800.0
+02.12.2019 19:10:32,33.0,Male,Munich,Senior,QA,5,Kotlin,English,1000+,Product,Media,60000.0,75360.0
+02.12.2019 19:21:45,34.0,Female,Berlin,Senior,QA,12,.NET,Deutsch,1000+,Product,Health,62000.0,74001.0
+02.12.2019 19:34:30,32.0,Male,Munich,Senior,Mobile Developer,14,Swift,English,0,Product,Сommerce,90000.0,90000.0
+02.12.2019 19:36:49,38.0,Male,Berlin,Senior,Backend Developer,13,Java,Deutsch,100-1000,Product,Finance / Insurance,93062.0,85200.0
+02.12.2019 19:47:13,32.0,Male,Berlin,Senior,QA,13,Java,English,100-1000,Product,Catering,0.0,65000.0
+02.12.2019 19:48:29,27.0,Male,Berlin,Senior,QA,7,Java,English,50-100,Startup,Сommerce,0.0,69300.0
+02.12.2019 19:49:12,54.0,Male,Ingolstadt,Senior,Data Scientist,8,R,Deutsch,1000+,Product,Transport,0.0,78000.0
+02.12.2019 19:49:52,35.0,Male,Düsseldorf,Middle,Backend Developer,6,.NET,English,10-50,Bodyshop / Outsource,Software Development,0.0,55000.0
+02.12.2019 19:51:08,31.0,Male,Stuttgart,Middle,Mobile Developer,6,Javascript / Typescript,Deutsch,1000+,Product,Scientific Activities,0.0,51000.0
+02.12.2019 19:59:09,42.0,Male,Berlin,Senior,"CTO (CEO, CFO)",20,Not Relevant,English,100-1000,Startup,0,76002.0,130000.0
+02.12.2019 19:59:25,25.0,Female,Munich,Junior,Manager,1,0,Deutsch,1000+,Consulting / Agency,Logistics,0.0,53300.0
+02.12.2019 20:02:05,0.0,Male,Hamburg,Senior,DevOps,15,Not Relevant,English,50-100,0,0,0.0,78001.0
+02.12.2019 20:04:31,38.0,Male,Munich,Senior,Manager,12,Not Relevant,English,1000+,Consulting / Agency,Finance / Insurance,96000.0,96000.0
+02.12.2019 20:09:51,34.0,Male,Munich,Senior,Manager,16,PHP,English,1000+,Product,Сommerce,0.0,85000.0
+02.12.2019 20:23:58,40.0,Male,Frankfurt,Senior,Software Architect,20,Java,English,1000+,Bodyshop / Outsource,Finance / Insurance,89000.0,110000.0
+02.12.2019 20:28:45,30.0,Male,Munich,Senior,Frontend Developer,9,Javascript / Typescript,Russian,10-50,Product,0,0.0,75000.0
+02.12.2019 20:29:23,30.0,Male,Munich,Middle,Machine Learning Engineer,2,Python,English,up to 10,Startup,Transport,52000.0,62000.0
+02.12.2019 20:32:32,25.0,Male,Munich,Junior,Frontend Developer,1,Javascript / Typescript,English,100-1000,Startup,Сommerce,0.0,75000.0
+02.12.2019 20:32:40,25.0,Male,Munich,Junior,Frontend Developer,1,Javascript / Typescript,English,100-1000,Startup,Сommerce,0.0,75000.0
+02.12.2019 20:34:52,25.0,Female,Munich,Middle,Researcher,5,C/C++,English,1000+,Consulting / Agency,Transport,0.0,57000.0
+02.12.2019 20:43:20,31.0,Male,Munich,Senior,Mobile Developer,8,Swift,English,50-100,Startup,Health,0.0,65005.0
+02.12.2019 20:53:04,32.0,Male,Frankfurt,Middle,Mobile Developer,4,Kotlin,English,10-50,Product,0,0.0,50000.0
+02.12.2019 20:56:53,25.0,Male,Munich,Senior,Frontend Developer,5,Javascript / Typescript,English,100-1000,Product,Media,62000.0,88000.0
+02.12.2019 20:58:49,32.0,Female,Munich,Middle,Fullstack Developer,10,Java,English,10-50,Bodyshop / Outsource,Finance / Insurance,47500.0,47500.0
+02.12.2019 21:02:20,31.0,Male,Munich,Lead,Fullstack Developer,10,Javascript / Typescript,English,1000+,Product,Finance / Insurance,78000.0,79000.0
+02.12.2019 21:04:05,32.0,Male,Munich,Middle,Backend Developer,12,Java,English,100-1000,Startup,Finance / Insurance,61000.0,64000.0
+02.12.2019 21:06:41,44.0,Male,Munich,Senior,Manager,22,Not Relevant,Deutsch,1000+,Product,Сommerce,146070.0,144000.0
+02.12.2019 21:06:55,36.0,Male,Munich,Senior,Backend Developer,13,PHP,English,50-100,Product,Tourism,67000.0,65000.0
+02.12.2019 21:08:12,38.0,Female,Frankfurt,Junior,Frontend Developer,1,Javascript / Typescript,Deutsch,100-1000,Consulting / Agency,0,0.0,36000.0
+02.12.2019 21:11:52,0.0,Male,Munich,Senior,other,7,0,English,1000+,Product,0,0.0,70501.0
+02.12.2019 21:18:00,32.0,Male,Munich,Senior,Backend Developer,5,PHP,English,1000+,Product,Transport,65000.0,65000.0
+02.12.2019 21:18:55,32.0,Male,Munich,Lead,Fullstack Developer,14,Scala,English,100-1000,Product,Transport,90000.0,98000.0
+02.12.2019 21:22:39,27.0,Male,Munich,Middle,Backend Developer,7,PHP,Deutsch,100-1000,Product,Manufacture,66000.0,66000.0
+02.12.2019 21:45:06,27.0,Female,Nuremberg,Middle,Business Analyst,5,0,English,1000+,Product,Software Development,0.0,42000.0
+02.12.2019 21:45:10,0.0,Male,Munich,Senior,QA,11,Not Relevant,Deutsch,100-1000,Product,0,67000.0,73000.0
+02.12.2019 21:50:35,29.0,Male,Berlin,Senior,Backend Developer,7,Python,English,100-1000,Product,Сommerce,73000.0,78000.0
+02.12.2019 21:52:49,26.0,Female,Frankfurt,Middle,Manager,2,Not Relevant,Deutsch,50-100,Product,Finance / Insurance,43000.0,45000.0
+02.12.2019 21:56:34,0.0,Female,Munich,Junior,Data Scientist,0,Python,Deutsch,50-100,Product,IT,0.0,59000.0
+02.12.2019 22:00:44,35.0,Male,Munich,Senior,Mobile Developer,7,Kotlin,English,100-1000,Product,Health,70000.0,77500.0
+02.12.2019 22:29:47,26.0,Male,Berlin,Senior,Data Scientist,5,Python,English,10-50,Startup,HR,0.0,80000.0
+02.12.2019 22:34:04,25.0,Male,Munich,Middle,Mobile Developer,4,Swift,English,100-1000,Product,IoT,60000.0,60000.0
+02.12.2019 22:38:20,0.0,Male,Cologne,Senior,Software Engineer,13,C/C++,English,50-100,Product,Manufacture,0.0,70000.0
+02.12.2019 22:51:27,28.0,Female,Berlin,Junior,Data Scientist,1,Python,English,100-1000,Product,Finance / Insurance,0.0,60000.0
+02.12.2019 22:58:19,36.0,Male,Berlin,Senior,Frontend Developer,11,Clojure,English,10-50,Startup,Design,0.0,85000.0
+02.12.2019 23:11:17,24.0,Male,Berlin,Middle,Machine Learning Engineer,3,Python,English,10-50,Startup,Customer Support,0.0,75000.0
+02.12.2019 23:39:58,34.0,Male,Frankfurt,Senior,Software Architect,10,Python,English,1000+,Product,Software Development,96000.0,125000.0
+02.12.2019 23:52:18,34.0,Male,Munich,Senior,Backend Developer,11,Javascript / Typescript,English,50-100,Product,Health,0.0,92000.0
+02.12.2019 23:52:23,34.0,Male,Munich,Senior,Backend Developer,11,Javascript / Typescript,English,50-100,Product,Health,0.0,92000.0
+02.12.2019 23:59:24,36.0,Male,Berlin,Senior,Backend Developer,10,Java,English,1000+,Product,Сommerce,78000.0,78000.0
+03.12.2019 00:11:38,33.0,Male,Hamburg,Middle,Software Engineer,13,C/C++,English,0,Product,Software Development,0.0,55000.0
+03.12.2019 00:45:57,29.0,Female,Berlin,Middle,Machine Learning Engineer,3,Python,English,10-50,Startup,Health,0.0,46000.0
+03.12.2019 00:49:41,31.0,Male,Munich,Senior,Fullstack Developer,8,Java,English,10-50,Product,Finance / Insurance,0.0,71000.0
+03.12.2019 06:24:28,30.0,Male,Berlin,Senior,Backend Developer,12,Python,English,10-50,Startup,IT,0.0,70000.0
+03.12.2019 08:08:18,33.0,Male,Munich,Senior,Embedded Developer,11,C/C++,Russian,up to 10,Bodyshop / Outsource,Automotive,72000.0,78000.0
+03.12.2019 08:27:19,29.0,Female,Munich,Middle,Mobile Developer,8,Swift,English,1000+,Product,Media,50000.0,70000.0
+03.12.2019 08:33:42,32.0,Female,Riga,Junior,Backend Developer,1,AWS,English,50-100,Consulting / Agency,Сonstruction,0.0,13200.0
+03.12.2019 08:41:13,29.0,Male,Munich,Senior,Backend Developer,9,.NET,English,up to 10,Product,0,0.0,60000.0
+03.12.2019 08:41:32,33.0,Male,Munich,Senior,Cloud Platform Engineer,10,Google Cloud,English,1000+,Product,Software Development,0.0,108000.0
+03.12.2019 08:53:40,0.0,Male,Munich,Senior,Mobile Developer,5,Kotlin,English,up to 10,Consulting / Agency,Finance / Insurance,0.0,71000.0
+03.12.2019 08:53:50,29.0,Male,Berlin,Senior,Fullstack Developer,10,PHP,English,1000+,Product,Сommerce,60000.0,70000.0
+03.12.2019 08:58:34,43.0,Male,Berlin,Senior,Data Engineer,10,SQL,Russian,up to 10,Startup,Сommerce,60000.0,60000.0
+03.12.2019 09:03:46,0.0,Female,Bern,Middle,QA,5,Not Relevant,Deutsch,1000+,Product,Transport,105000.0,120000.0
+03.12.2019 09:06:49,36.0,Male,Berlin,Senior,Software Architect,14,PHP,English,100-1000,Product,Сommerce,69000.0,75000.0
+03.12.2019 09:26:56,30.0,Male,Munich,Senior,Backend Developer,6,Ruby,English,0,Product,Finance / Insurance,0.0,70000.0
+03.12.2019 09:31:57,27.0,Male,Berlin,Senior,Frontend Developer,5,Javascript / Typescript,English,100-1000,Product,Transport,0.0,66000.0
+03.12.2019 09:39:08,36.0,Female,Berlin,0,Backend Developer,3,Java,English,10-50,Product,Health,38000.0,45000.0
+03.12.2019 09:49:46,28.0,Male,Frankfurt,Middle,Data Scientist,2,Python,Deutsch,100-1000,Product,Finance / Insurance,0.0,55000.0
+03.12.2019 09:51:08,34.0,Male,Berlin,Senior,Machine Learning Engineer,10,Scala,English,50-100,Product,Сommerce,0.0,80000.0
+03.12.2019 09:53:16,29.0,Male,Berlin,Senior,DevOps,10,Ruby,English,100-1000,Product,Education,65000.0,72000.0
+03.12.2019 09:54:29,27.0,Male,Moscow,Senior,Backend Developer,7,Go,Russian,100-1000,Startup,0,0.0,66000.0
+03.12.2019 09:56:43,29.0,Male,Berlin,Senior,Backend Developer,8,Java,English,1000+,Product,Catering,0.0,80000.0
+03.12.2019 10:03:04,29.0,Male,Munich,Senior,Fullstack Developer,9,Javascript / Typescript,English,100-1000,Product,Fashion,0.0,75000.0
+03.12.2019 10:06:05,28.0,Female,Munich,Senior,"Designer (UI, UX)",9,Not Relevant,English,10-50,Product,Сommerce,56000.0,70000.0
+03.12.2019 10:06:39,26.0,Male,Munich,0,Mobile Developer,1,Javascript / Typescript,English,50-100,Startup,Сommerce,0.0,59000.0
+03.12.2019 10:13:01,0.0,Male,Berlin,Senior,Backend Developer,5,Ruby,English,100-1000,Product,Finance / Insurance,75000.0,85000.0
+03.12.2019 10:13:04,34.0,Male,Munich,Senior,Researcher,12,C/C++,English,100-1000,Product,Transport,0.0,112500.0
+03.12.2019 10:16:33,32.0,Male,Berlin,Senior,Backend Developer,11,Java,English,1000+,Product,Transport,84000.0,96100.0
+03.12.2019 10:21:33,35.0,Male,Düsseldorf,Senior,DevOps,15,AWS,Deutsch,up to 10,Consulting / Agency,Finance / Insurance,65000.0,65000.0
+03.12.2019 10:22:01,28.0,Male,Berlin,Middle,QA,7,Python,English,100-1000,Bodyshop / Outsource,Transport,0.0,62001.0
+03.12.2019 10:24:08,0.0,Male,Berlin,Lead,Machine Learning Engineer,9,Python,English,1000+,Product,Сommerce,180000.0,236000.0
+03.12.2019 10:26:11,38.0,Female,Berlin,Senior,SAP Consultant,10,SAP / ABAP,Deutsch,1000+,Product,Manufacture,78000.0,92000.0
+03.12.2019 10:26:19,24.0,Male,Berlin,Middle,Backend Developer,4,Java,English,100-1000,Product,0,44000.0,65000.0
+03.12.2019 10:32:07,32.0,Male,Berlin,Senior,Backend Developer,5,Java,Deutsch,1000+,Consulting / Agency,IT,58000.0,67000.0
+03.12.2019 10:34:43,0.0,Male,Berlin,Senior,Backend Developer,8,Java,English,100-1000,Product,Finance / Insurance,114000.0,110000.0
+03.12.2019 10:35:52,0.0,Male,Stuttgart,Senior,Machine Learning Engineer,5,Python,Deutsch,100-1000,Product,Manufacture,0.0,108000.0
+03.12.2019 10:37:06,36.0,Male,Berlin,Senior,Frontend Developer,10,Javascript / Typescript,English,100-1000,Product,Real Estate,70000.0,80000.0
+03.12.2019 10:37:13,0.0,Male,Berlin,Senior,Software Architect,11,Java,English,1000+,Product,0,0.0,170000.0
+03.12.2019 10:39:01,0.0,Male,Munich,Senior,Researcher,9,Python,English,1000+,Product,0,0.0,220000.0
+03.12.2019 10:39:59,0.0,Male,Berlin,Senior,Backend Developer,4,Ruby,English,50-100,Startup,0,0.0,62000.0
+03.12.2019 10:41:38,0.0,Male,Berlin,Lead,Software Architect,8,Python,English,100-1000,Product,Сommerce,0.0,128000.0
+03.12.2019 10:43:24,42.0,Female,Berlin,Senior,Backend Developer,12,PHP,English,50-100,Product,Сommerce,55000.0,55000.0
+03.12.2019 10:45:57,0.0,Male,Darmstadt,Senior,Backend Developer,10,Java,Deutsch,100-1000,0,Telecom,0.0,70000.0
+03.12.2019 10:49:45,30.0,Male,Hamburg,Senior,Data Scientist,6,Python,English,100-1000,Startup,Сommerce,80000.0,90000.0
+03.12.2019 11:09:14,0.0,Male,Frankfurt,Senior,other,7,0,English,100-1000,Consulting / Agency,Finance / Insurance,160000.0,190000.0
+03.12.2019 11:10:10,30.0,Male,Berlin,Senior,Backend Developer,6,Python,Russian,100-1000,Startup,Finance / Insurance,65000.0,70000.0
+03.12.2019 11:12:11,28.0,Male,Berlin,Middle,Backend Developer,8,Java,English,1000+,Product,Сommerce,67000.0,68000.0
+03.12.2019 11:15:48,37.0,Male,Berlin,Senior,Software Architect,15,Java,English,100-1000,Product,Advertising,85000.0,95000.0
+03.12.2019 11:18:30,29.0,Male,Munich,Middle,Mobile Developer,7,Swift,English,1000+,Product,Сommerce,45000.0,70000.0
+03.12.2019 11:24:24,0.0,Male,Munich,Middle,Data Scientist,3,Python,English,100-1000,Startup,Manufacture,60000.0,71000.0
+03.12.2019 11:29:02,35.0,Male,Berlin,Senior,Backend Developer,16,PHP,English,100-1000,Product,Сommerce,60000.0,65000.0
+03.12.2019 11:32:19,30.0,Male,Berlin,Senior,Backend Developer,8,Scala,English,100-1000,Product,0,0.0,86000.0
+03.12.2019 11:37:15,34.0,Male,Berlin,Senior,Embedded Developer,12,C/C++,English,100-1000,Startup,Сommerce,0.0,65000.0
+03.12.2019 11:39:33,29.0,Male,Dusseldorf,Senior,Backend Developer,8,Java,English,1000+,0,Tourism,0.0,70000.0
+03.12.2019 11:47:33,41.0,Male,Munich,Junior,Backend Developer,0,Java,English,1000+,Product,Telecom,48000.0,60000.0
+03.12.2019 11:53:44,33.0,Male,Karlsruhe,Senior,QA,7,Java,English,1000+,Product,Сommerce,77000.0,76700.0
+03.12.2019 12:02:42,31.0,Male,Frankfurt,Senior,Data Scientist,7,Python,English,1000+,0,Health,0.0,100000.0
+03.12.2019 12:03:11,25.0,Male,Kyiv,Senior,DevOps,4,Go,Russian,1000+,Product,Сommerce,42000.0,72500.0
+03.12.2019 12:24:16,27.0,Female,Berlin,Middle,Data Scientist,3,Python,English,1000+,Product,Сommerce,0.0,67000.0
+03.12.2019 12:33:17,29.0,Male,Kyiv,Senior,DevOps,8,AWS,Russian,50-100,Product,Health,0.0,65000.0
+03.12.2019 12:35:38,27.0,Male,Berlin,Senior,Researcher,5,Python,English,100-1000,Startup,Manufacture,0.0,100000.0
+03.12.2019 12:41:36,36.0,Male,Berlin,Middle,Data Scientist,18,Python,English,100-1000,Product,Gaming,58000.0,61000.0
+03.12.2019 12:43:36,28.0,Male,Munich,Middle,Business Analyst,7,Javascript / Typescript,English,1000+,Product,Software Development,0.0,62500.0
+03.12.2019 12:52:51,33.0,Male,Berlin,Middle,Backend Developer,10,Kotlin,English,1000+,Product,Сommerce,74000.0,94000.0
+03.12.2019 13:11:56,34.0,Male,Freiburg,Middle,Backend Developer,2,Java,English,100-1000,Consulting / Agency,0,42000.0,42000.0
+03.12.2019 13:16:20,36.0,Male,Berlin,Senior,Manager,15,Not Relevant,English,100-1000,Product,Finance / Insurance,83000.0,77000.0
+03.12.2019 13:44:56,23.0,Male,Berlin,Senior,Frontend Developer,5,Javascript / Typescript,English,100-1000,Product,Transport,0.0,65000.0
+03.12.2019 13:45:17,35.0,Male,Berlin,Senior,Backend Developer,17,PHP,Russian,100-1000,Product,Transport,0.0,60000.0
+03.12.2019 13:51:10,27.0,Male,Munich,Middle,Data Engineer,1,Python,English,10-50,Startup,0,48000.0,58000.0
+03.12.2019 14:00:58,30.0,Male,Munich,Senior,Mobile Developer,9,Kotlin,Russian,10-50,Startup,Media,71000.0,75000.0
+03.12.2019 14:03:42,37.0,Male,Amsterdam,Senior,QA,14,AWS,English,100-1000,Product,Media,78000.0,75000.0
+03.12.2019 15:50:04,0.0,Male,Berlin,Senior,Machine Learning Engineer,10,Python,English,100-1000,Product,0,0.0,151000.0
+03.12.2019 15:50:19,41.0,Male,Munich,Senior,Backend Developer,20,Java,English,100-1000,Product,Software Development,75000.0,78000.0
+03.12.2019 15:56:07,32.0,Male,Vienna,Lead,Software Architect,12,.NET,English,1000+,Product,Health,0.0,88800.0
+03.12.2019 15:56:31,34.0,Male,Berlin,Senior,Backend Developer,13,Python,English,100-1000,Product,Сommerce,65000.0,70000.0
+03.12.2019 15:59:33,0.0,Male,Munich,Senior,Software Architect,10,Java,0,1000+,Product,Manufacture,0.0,168000.0
+03.12.2019 16:08:49,45.0,Male,Berlin,Middle,Data Engineer,14,Java,English,50-100,Product,Сonstruction,0.0,34446.0
+03.12.2019 16:16:58,0.0,Male,Frankfurt,Senior,Backend Developer,8,Java,0,100-1000,0,Finance / Insurance,0.0,144000.0
+03.12.2019 16:21:59,0.0,Male,Munich,Lead,Data Scientist,8,Python,0,1000+,Product,Manufacture,0.0,166000.0
+03.12.2019 16:24:03,0.0,Male,Stuttgart,Senior,Fullstack Developer,6,Python,0,0,0,Manufacture,0.0,102000.0
+03.12.2019 16:25:30,0.0,Female,Berlin,Senior,Data Scientist,7,Python,English,50-100,Startup,0,0.0,68000.0
+03.12.2019 16:30:01,0.0,Male,Munich,Senior,Frontend Developer,4,Javascript / Typescript,English,10-50,Product,Сommerce,55000.0,70000.0
+03.12.2019 16:33:31,36.0,Male,Kyiv,Middle,DevOps,3,AWS,Russian,1000+,Bodyshop / Outsource,Сommerce,60000.0,38400.0
+03.12.2019 16:39:36,0.0,Male,Berlin,Senior,Data Scientist,6,Python,0,0,Product,0,0.0,114000.0
+03.12.2019 16:40:55,35.0,Male,Frankfurt,Senior,Product Manager,13,Not Relevant,Deutsch,10-50,Startup,Сommerce,0.0,60000.0
+03.12.2019 16:50:33,32.0,Female,Munich,Senior,Backend Developer,8,Java,English,1000+,Product,Finance / Insurance,0.0,68000.0
+03.12.2019 16:58:06,29.0,Male,Munich,Middle,Frontend Developer,8,Javascript / Typescript,English,100-1000,Product,0,61500.0,65000.0
+03.12.2019 16:59:00,0.0,Female,Munich,0,SAP Consultant,10,SAP / ABAP,Deutsch,100-1000,0,Finance / Insurance,0.0,84200.0
+03.12.2019 16:59:30,33.0,Male,Munich,Lead,Backend Developer,11,Java,English,100-1000,Product,Dating,85000.0,90000.0
+03.12.2019 17:10:00,33.0,Male,Kyiv,Middle,System Administrator,15,Not Relevant,Russian,10-50,Consulting / Agency,Government,24000.0,38000.0
+03.12.2019 17:23:56,39.0,Male,Munich,Senior,Fullstack Developer,15,PHP,English,100-1000,Product,Сommerce,60000.0,79700.0
+03.12.2019 17:33:27,25.0,Female,Cologne,Junior,other,2,Not Relevant,Deutsch,1000+,0,Telecom,0.0,49000.0
+03.12.2019 18:05:49,33.0,Female,Berlin,Middle,QA,5,Ruby,English,1000+,Product,Catering,51000.0,63400.0
+03.12.2019 18:31:52,35.0,Male,Munich,Senior,Backend Developer,16,Java,Russian,10-50,Product,Media,70000.0,70000.0
+03.12.2019 18:33:44,34.0,Male,Berlin,Senior,Backend Developer,9,.NET,English,1000+,Product,Сommerce,0.0,77000.0
+03.12.2019 18:37:06,31.0,Female,Frankfurt,Senior,Backend Developer,7,Java,English,10-50,Startup,Security,72000.0,68000.0
+03.12.2019 19:02:46,0.0,Male,Amsterdam,Senior,Machine Learning Engineer,11,Python,English,1000+,Startup,0,0.0,248000.0
+03.12.2019 19:12:30,34.0,Male,Pforzheim,Senior,Backend Developer,13,Java,Deutsch,50-100,Product,Сommerce,65000.0,75000.0
+03.12.2019 19:20:52,32.0,Male,Munich,Senior,Software Architect,8,Java,Deutsch,10-50,Product,Health,85000.0,100000.0
+03.12.2019 19:29:16,33.0,Male,Munich,Senior,Backend Developer,11,AWS,English,1000+,Product,Manufacture,94000.0,100000.0
+03.12.2019 19:32:43,44.0,Male,Berlin,Senior,Frontend Developer,5,Javascript / Typescript,English,10-50,Product,Сommerce,0.0,65000.0
+03.12.2019 19:48:01,26.0,Male,Nuremberg,Junior,DevOps,0,Not Relevant,Deutsch,0,0,0,0.0,55000.0
+03.12.2019 20:32:32,30.0,Male,Berlin,Senior,Data Scientist,8,Python,English,50-100,Startup,Scientific Activities,0.0,110000.0
+03.12.2019 20:49:10,37.0,Male,Stuttgart,Senior,Software Architect,11,Not Relevant,Deutsch,1000+,Product,Automotive,98000.0,105000.0
+03.12.2019 21:08:26,24.0,Female,Frankfurt,Junior,Fullstack Developer,1,Java,Deutsch,1000+,Product,Finance / Insurance,0.0,57000.0
+03.12.2019 21:30:05,27.0,Male,Berlin,Senior,Manager,6,Python,English,100-1000,Startup,Tourism,55000.0,58000.0
+03.12.2019 21:44:48,30.0,Male,Kassel ,Middle,Frontend Developer,4,Javascript / Typescript,Deutsch,1000+,Product,Software Development,62300.0,62000.0
+03.12.2019 21:46:29,36.0,Male,Munich,Senior,DevOps,15,AWS,English,100-1000,Consulting / Agency,IT,0.0,85001.0
+03.12.2019 21:48:43,31.0,Female,Munich,Senior,Mobile Developer,8,Swift,English,100-1000,Startup,Finance / Insurance,65000.0,75000.0
+03.12.2019 21:51:50,33.0,Male,Munich,Senior,Embedded Developer,4,C/C++,Deutsch,100-1000,Consulting / Agency,Manufacture,57200.0,61400.0
+03.12.2019 21:57:03,0.0,Female,Munich,Middle,Data Engineer,7,SQL,English,1000+,Product,Finance / Insurance,58500.0,58250.0
+03.12.2019 22:13:11,0.0,Male,Munich,Senior,Software Architect,12,Java,English,100-1000,Product,Finance / Insurance,82000.0,90000.0
+03.12.2019 22:32:24,43.0,Male,Berlin,Middle,Backend Developer,20,Ruby,English,1000+,Product,Сommerce,67000.0,92000.0
+03.12.2019 22:34:45,40.0,Male,Frankfurt,Senior,Manager,18,Not Relevant,English,1000+,Bodyshop / Outsource,IT,102000.0,88000.0
+03.12.2019 22:48:58,35.0,Male,Munich,Senior,DevOps,15,Java,Deutsch,1000+,Product,Manufacture,81400.0,79000.0
+03.12.2019 23:25:18,36.0,Male,Munich,Senior,Mobile Developer,20,Swift,Deutsch,up to 10,Bodyshop / Outsource,Transport,80000.0,150000.0
+03.12.2019 23:25:30,28.0,Male,Munich,Senior,Backend Developer,7,Java,English,1000+,Product,Сommerce,81000.0,80000.0
+03.12.2019 23:49:50,31.0,Male,Munich,Senior,Backend Developer,10,Java,English,100-1000,Startup,Tourism,70000.0,93000.0
+03.12.2019 23:51:17,30.0,Male,Munich,Lead,DevOps,10,AWS,English,50-100,Product,Finance / Insurance,70002.0,87000.0
+04.12.2019 00:02:01,0.0,Male,Munich,Senior,Data Scientist,12,Python,Deutsch,100-1000,Product,Transport,0.0,157000.0
+04.12.2019 00:04:40,0.0,Male,Berlin,Lead,"CTO (CEO, CFO)",14,C/C++,English,10-50,Startup,0,0.0,382000.0
+04.12.2019 00:07:30,35.0,Female,Madrid,Middle,other,12,Not Relevant,Spanish,1000+,Product,Manufacture,52000.0,49000.0
+04.12.2019 00:11:03,28.0,Male,Berlin,Senior,Backend Developer,6,Ruby,English,100-1000,Startup,0,52000.0,52000.0
+04.12.2019 00:13:56,0.0,Male,Berlin,Senior,Data Scientist,6,Python,English,50-100,Startup,Сommerce,98000.0,99000.0
+04.12.2019 00:57:53,26.0,Male,Frankfurt,Middle,Manager,5,Not Relevant,English,1000+,0,Manufacture,59000.0,66000.0
+04.12.2019 01:15:09,25.0,Male,Berlin,Middle,DevOps,3,Not Relevant,English,100-1000,Startup,Transport,0.0,60000.0
+04.12.2019 01:19:30,27.0,Female,Munich,Senior,QA,7,Java,English,1000+,Product,Finance / Insurance,75000.0,74500.0
+04.12.2019 04:01:31,32.0,Male,Vienna,Middle,Data Scientist,2,R,English,100-1000,Product,Telecom,70000.0,77000.0
+04.12.2019 06:31:15,24.0,Male,Stuttgart,Junior,DevOps,2,.NET,Deutsch,1000+,Product,Health,0.0,50000.0
+04.12.2019 06:55:16,0.0,Female,Marburg,Junior,Fullstack Developer,0,Java,Deutsch,10-50,Product,Сommerce,0.0,27000.0
+04.12.2019 06:58:37,37.0,Male,Munich,Senior,Backend Developer,17,Java,English,100-1000,Product,Scientific Activities,75000.0,79500.0
+04.12.2019 07:51:52,27.0,Male,Berlin,Middle,DevOps,6,AWS,English,1000+,Product,Finance / Insurance,0.0,66001.0
+04.12.2019 09:11:59,31.0,Female,Berlin,Junior,Machine Learning Engineer,1,Python,Deutsch,100-1000,Consulting / Agency,Сommerce,0.0,52500.0
+04.12.2019 09:47:32,29.0,Female,Munich,Middle,Machine Learning Engineer,2,Python,English,up to 10,Startup,Catering,0.0,60000.0
+04.12.2019 10:09:47,37.0,Male,Berlin,Senior,Backend Developer,12,Not Relevant,English,50-100,Product,Сommerce,75000.0,75000.0
+04.12.2019 10:53:13,34.0,Male,Berlin,Senior,QA,8,Java,English,100-1000,Product,Сommerce,62000.0,67000.0
+04.12.2019 10:55:05,0.0,Male,Munich,Senior,Frontend Developer,20,Javascript / Typescript,English,100-1000,Product,Сommerce,61000.0,63000.0
+04.12.2019 11:00:22,0.0,Male,Amsterdam,Senior,Data Scientist,8,Python,English,1000+,0,0,0.0,189000.0
+04.12.2019 11:25:41,0.0,Male,Berlin,Senior,Backend Developer,8,Java,English,100-1000,Product,Manufacture,0.0,78000.0
+04.12.2019 11:31:03,28.0,Female,Frankfurt,Junior,other,1,PHP,Deutsch,10-50,Startup,Telecom,0.0,36000.0
+04.12.2019 11:44:46,25.0,Male,Karlsruhe,Middle,Machine Learning Engineer,4,Kotlin,Deutsch,10-50,Consulting / Agency,IT,52200.0,52201.0
+04.12.2019 11:57:27,0.0,Male,Berlin,Lead,Backend Developer,7,Java,English,1000+,Product,Finance / Insurance,0.0,130000.0
+04.12.2019 11:58:34,0.0,Female,Hamburg,Middle,Frontend Developer,3,Javascript / Typescript,Deutsch,100-1000,Product,0,0.0,64000.0
+04.12.2019 12:06:12,0.0,Male,Berlin,Senior,Data Scientist,7,R,English,50-100,Startup,0,0.0,136000.0
+04.12.2019 12:19:20,31.0,Male,Munich,Senior,SAP Consultant,8,Not Relevant,English,1000+,Product,IT,110000.0,130000.0
+04.12.2019 12:22:59,27.0,Male,Munich,Junior,Software Architect,3,Not Relevant,English,1000+,Product,Manufacture,56000.0,55000.0
+04.12.2019 13:11:39,28.0,Male,Munich,Senior,Frontend Developer,5,Javascript / Typescript,English,100-1000,Product,Finance / Insurance,52000.0,57000.0
+04.12.2019 13:12:49,32.0,Male,Frankfurt,Middle,Data Scientist,3,Python,Deutsch,1000+,Product,Health,74000.0,80500.0
+04.12.2019 13:36:18,28.0,Female,London,Middle,Business Analyst,3,SQL,English,10-50,Product,Gaming,0.0,48000.0
+04.12.2019 13:47:38,29.0,Male,Berlin,Middle,Data Scientist,4,Python,English,1000+,Product,Finance / Insurance,95000.0,68000.0
+04.12.2019 13:47:57,37.0,Male,Berlin,Middle,QA,6,Java,English,50-100,Product,Finance / Insurance,55000.0,65000.0
+04.12.2019 13:52:07,34.0,Male,Munich,Senior,Manager,12,Not Relevant,English,1000+,Product,IT,132000.0,122500.0
+04.12.2019 13:53:20,29.0,Male,Munich,Junior,Data Scientist,2,Python,Deutsch,10-50,Startup,Finance / Insurance,0.0,55000.0
+04.12.2019 13:57:23,30.0,Male,Hamburg,Senior,Data Engineer,3,Python,English,100-1000,Product,Marketing,45000.0,60000.0
+04.12.2019 13:58:52,24.0,Male,Amsterdam,Senior,Machine Learning Engineer,3,Python,English,10-50,Startup,Scientific Activities,0.0,75125.0
+04.12.2019 14:08:28,26.0,Male,Moscow,Middle,Data Scientist,3,R,English,1000+,Consulting / Agency,Finance / Insurance,23002.0,58001.0
+04.12.2019 14:13:07,28.0,Male,Hamburg,Middle,Machine Learning Engineer,4,Python,English,100-1000,Consulting / Agency,IT,0.0,70001.0
+04.12.2019 14:17:52,25.0,Male,Munich,Junior,Data Scientist,1,Python,English,100-1000,Product,Finance / Insurance,0.0,53300.0
+04.12.2019 14:23:07,39.0,Male,Munich,Senior,Data Scientist,13,Python,English,100-1000,Product,Transport,0.0,195000.0
+04.12.2019 14:25:55,35.0,Male,Frankfurt,Senior,Software Architect,12,AWS,Deutsch,1000+,Consulting / Agency,IT,84000.0,77000.0
+04.12.2019 14:26:50,36.0,Male,Berlin,Middle,Data Scientist,4,Python,Deutsch,10-50,Consulting / Agency,Agriculture,53000.0,58000.0
+04.12.2019 14:30:56,35.0,Male,Munich,Senior,Network Engineer,12,Not Relevant,Deutsch,up to 10,Consulting / Agency,0,56600.0,75500.0
+04.12.2019 14:38:15,30.0,Female,London,Junior,Data Engineer,3,Azure,English,1000+,Product,Energy,67000.0,61000.0
+04.12.2019 14:44:01,39.0,Male,Warsaw,Senior,Researcher,15,SAS,English,100-1000,Product,Health,20002.0,22001.0
+04.12.2019 14:45:01,31.0,Male,Berlin,Senior,Manager,10,Java,English,1000+,Startup,Сommerce,0.0,128000.0
+04.12.2019 14:45:10,31.0,Male,Berlin,Senior,Manager,10,Java,English,1000+,Startup,Сommerce,0.0,128000.0
+04.12.2019 14:46:11,29.0,Female,Berlin,Middle,Product Manager,7,Not Relevant,English,100-1000,Product,Transport,0.0,72800.0
+04.12.2019 14:51:04,33.0,Male,Munich,Senior,Data Scientist,11,Python,English,50-100,Product,Сommerce,65000.0,67501.0
+04.12.2019 14:51:22,0.0,Male,Berlin,Senior,Data Scientist,6,Python,Deutsch,100-1000,Product,0,108000.0,106000.0
+04.12.2019 14:56:16,31.0,Male,Stuttgart,Senior,Data Engineer,3,Python,Russian,1000+,Bodyshop / Outsource,Real Estate,0.0,20000.0
+04.12.2019 14:58:30,26.0,Male,Berlin,Middle,Machine Learning Engineer,3,Python,English,10-50,Product,Health,46000.0,46000.0
+04.12.2019 15:01:17,33.0,Male,Berlin,Senior,Backend Developer,8,Python,English,100-1000,Product,Software Development,70000.0,85000.0
+04.12.2019 15:02:22,29.0,Male,Berlin,Junior,Frontend Developer,1,Javascript / Typescript,English,1000+,Consulting / Agency,0,0.0,74000.0
+04.12.2019 15:10:37,35.0,Female,Berlin,Senior,Data Scientist,10,Python,English,100-1000,Startup,0,110000.0,140000.0
+04.12.2019 15:11:24,34.0,Male,Munich,Middle,Manager,7,Not Relevant,English,100-1000,Product,Сommerce,84000.0,105600.0
+04.12.2019 15:14:32,29.0,Female,Berlin,Middle,Frontend Developer,4,Javascript / Typescript,English,1000+,Startup,Сommerce,0.0,52000.0
+04.12.2019 15:15:47,22.0,Male,London,Senior,"CTO (CEO, CFO)",3,Not Relevant,English,50-100,Startup,Advertising,30000.0,75000.0
+04.12.2019 15:15:52,32.0,Male,Berlin,Senior,Data Engineer,12,AWS,English,100-1000,Startup,Transport,60000.0,80000.0
+04.12.2019 15:17:38,32.0,Male,Nuremberg,Middle,Data Scientist,2,Python,English,1000+,Consulting / Agency,Marketing,0.0,54100.0
+04.12.2019 15:23:26,31.0,Male,Munich,Senior,SRE,10,Azure,Deutsch,100-1000,Consulting / Agency,Finance / Insurance,79800.0,78000.0
+04.12.2019 15:24:29,29.0,Male,Hannover,Middle,Data Scientist,4,Python,Deutsch,1000+,Product,Finance / Insurance,53000.0,60500.0
+04.12.2019 15:49:39,30.0,Male,Hamburg,Senior,Data Scientist,6,Python,English,100-1000,Product,Gaming,68000.0,68000.0
+04.12.2019 15:56:52,30.0,Male,Berlin,Middle,Data Engineer,9,Python,English,100-1000,Product,Finance / Insurance,0.0,68000.0
+04.12.2019 16:00:51,29.0,Male,Berlin,Middle,Data Engineer,5,AWS,English,100-1000,Startup,Сommerce,0.0,70000.0
+04.12.2019 16:02:43,30.0,Male,Berlin,Senior,Data Scientist,5,Python,Deutsch,1000+,0,0,65000.0,90000.0
+04.12.2019 16:08:48,43.0,Male,Hamburg,Senior,Software Architect,15,Java,English,up to 10,Startup,Transport,74000.0,54000.0
+04.12.2019 16:27:54,34.0,Male,Paris,Senior,Data Scientist,9,Python,French,10-50,Startup,0,62000.0,75000.0
+04.12.2019 16:33:24,38.0,Male,Berlin,Senior,Data Scientist,4,Python,English,100-1000,Startup,Transport,0.0,65000.0
+04.12.2019 16:33:28,26.0,Male,Stuttgart,Middle,Data Engineer,3,Python,English,1000+,Product,Scientific Activities,0.0,67200.0
+04.12.2019 16:34:18,38.0,Male,Hannover,Senior,Data Scientist,5,R,Deutsch,100-1000,Consulting / Agency,0,0.0,102000.0
+04.12.2019 16:50:30,28.0,Female,London,Senior,Data Scientist,7,Python,English,1000+,Consulting / Agency,Finance / Insurance,65000.0,120000.0
+04.12.2019 16:50:32,30.0,Male,Berlin,Senior,"CTO (CEO, CFO)",11,Kotlin,English,10-50,Startup,Telecom,80000.0,75000.0
+04.12.2019 17:13:51,34.0,Male,Cologne,Middle,Data Scientist,8,R,English,1000+,Product,Health,78000.0,88000.0
+04.12.2019 17:17:22,0.0,Male,Berlin,Senior,Data Scientist,8,Python,English,100-1000,Product,0,0.0,137000.0
+04.12.2019 17:17:26,29.0,Male,Berlin,Middle,Data Scientist,2,R,French,100-1000,Product,Automotive,53002.0,56001.0
+04.12.2019 17:57:35,26.0,Male,Berlin,Junior,Researcher,1,Python,English,1000+,University,Scientific Activities,30000.0,40002.0
+04.12.2019 18:01:15,30.0,Male,Kyiv,Senior,DevOps,8,Azure,English,1000+,Bodyshop / Outsource,0,0.0,140000.0
+04.12.2019 18:05:07,28.0,Male,Berlin,Lead,Software Architect,10,Not Relevant,English,1000+,Product,Software Development,105000.0,185000.0
+04.12.2019 18:09:55,49.0,Male,Milan,Senior,Manager,24,Not Relevant,Italian,100-1000,Product,IT,135000.0,140001.0
+04.12.2019 18:11:32,33.0,Male,Berlin,Senior,Machine Learning Engineer,11,Python,English,100-1000,Product,Real Estate,81000.0,78000.0
+04.12.2019 18:13:21,20.0,Male,Kyiv,Junior,Machine Learning Engineer,1,Python,Russian,10-50,Startup,Сommerce,0.0,15800.0
+04.12.2019 18:27:33,35.0,Male,Hamburg,Senior,Backend Developer,10,Java,English,1000+,Product,Transport,48000.0,62000.0
+04.12.2019 18:27:49,26.0,Male,Odesa,Senior,Data Scientist,3,Python,Russian,100-1000,Bodyshop / Outsource,Telecom,25000.0,45000.0
+04.12.2019 18:30:51,31.0,Male,Berlin,Senior,Data Engineer,6,Python,English,100-1000,Product,Automotive,60000.0,75000.0
+04.12.2019 18:35:04,33.0,Female,Berlin,Junior,Researcher,8,Python,English,1000+,Product,Сommerce,0.0,54000.0
+04.12.2019 18:59:18,31.0,Male,Munich,Senior,Software Engineer,11,C/C++,English,100-1000,Product,0,103000.0,120000.0
+04.12.2019 19:01:34,0.0,Male,Berlin,Lead,Data Scientist,10,Python,English,1000+,Product,0,0.0,150000.0
+04.12.2019 19:11:17,28.0,Male,Paris,Middle,Fullstack Developer,3,Java,French,1000+,Consulting / Agency,Software Development,0.0,40400.0
+04.12.2019 19:13:07,36.0,Male,Berlin,Senior,DevOps,15,AWS,English,50-100,Startup,Finance / Insurance,68000.0,85000.0
+04.12.2019 19:19:26,0.0,Male,Hamburg,Junior,Backend Developer,18,Python,English,1000+,Product,Agriculture,0.0,0.0
+04.12.2019 19:38:28,39.0,Male,Berlin,Senior,Data Engineer,10,Python,English,1000+,Product,Transport,81600.0,82500.0
+04.12.2019 19:56:40,27.0,Female,Düsseldorf,Junior,Data Scientist,1,R,English,1000+,Product,Tourism,0.0,45000.0
+04.12.2019 20:06:49,26.0,Male,Berlin,Middle,Backend Developer,6,Java,English,1000+,Product,Сommerce,0.0,90000.0
+04.12.2019 20:07:34,30.0,Male,Berlin,Middle,Data Scientist,2,Python,English,1000+,Consulting / Agency,0,60000.0,60000.0
+04.12.2019 20:11:12,0.0,Male,Berlin,0,Machine Learning Engineer,7,Python,English,100-1000,Startup,Сommerce,0.0,105000.0
+04.12.2019 20:12:18,29.0,Male,Amsterdam,Senior,Backend Developer,4,Java,Russian,100-1000,Product,Finance / Insurance,0.0,65000.0
+04.12.2019 20:14:44,38.0,Male,Berlin,Senior,Backend Developer,7,Java,English,100-1000,Startup,Transport,70000.0,80000.0
+04.12.2019 20:33:27,31.0,Male,Berlin,Senior,Machine Learning Engineer,5,Python,English,1000+,Product,0,0.0,150000.0
+04.12.2019 20:37:47,35.0,Male,Hamburg,Middle,Manager,9,Python,Deutsch,1000+,Product,Manufacture,112000.0,115001.0
+04.12.2019 20:40:28,29.0,Male,Berlin,Senior,DevOps,8,Kubernetes,English,100-1000,Product,Software Development,70002.0,85001.0
+04.12.2019 20:45:16,38.0,Male,Cork,Senior,Software Architect,15,SQL,English,1000+,Product,IT,108000.0,136000.0
+04.12.2019 20:54:58,40.0,Female,Berlin,Senior,Backend Developer,18,Java,English,1000+,Product,Сommerce,78000.0,90000.0
+04.12.2019 21:03:20,26.0,Female,Berlin,Junior,Data Scientist,2,Python,English,50-100,Startup,Finance / Insurance,45000.0,47000.0
+04.12.2019 21:12:46,27.0,Male,Munich,Middle,QA,3,Not Relevant,English,100-1000,Product,Сommerce,0.0,53600.0
+04.12.2019 21:21:37,25.0,Male,Hamburg,Middle,Frontend Developer,4,Javascript / Typescript,English,1000+,Product,0,60000.0,66000.0
+04.12.2019 21:29:09,38.0,Female,Berlin,Senior,Data Scientist,3,Python,English,50-100,Startup,Finance / Insurance,0.0,62000.0
+04.12.2019 21:37:14,32.0,Male,Berlin,Senior,Software Architect,4,Not Relevant,English,1000+,Consulting / Agency,Finance / Insurance,84000.0,102000.0
+04.12.2019 21:40:13,0.0,Male,Hamburg,Senior,Frontend Developer,20,Javascript / Typescript,Russian,1000+,Product,Сommerce,0.0,95001.0
+04.12.2019 21:53:33,34.0,Male,Hamburg,Middle,Backend Developer,10,Ruby,English,50-100,Product,Manufacture,60000.0,65000.0
+04.12.2019 22:07:24,28.0,Male,Berlin,Middle,Data Engineer,2,Not Relevant,Deutsch,1000+,Consulting / Agency,Software Development,126000.0,114000.01
+04.12.2019 22:07:34,0.0,Male,Berlin,Senior,Machine Learning Engineer,7,Python,English,1000+,Product,0,0.0,146000.0
+04.12.2019 22:07:52,33.0,Male,Berlin,Junior,Support,2,Not Relevant,Deutsch,100-1000,Product,Сonstruction,30000.0,39000.0
+04.12.2019 22:09:11,31.0,Male,Munich,Senior,QA,8,Java,English,100-1000,Product,Dating,0.0,73000.0
+04.12.2019 22:11:43,0.0,Male,Zug,Senior,Backend Developer,12,Java,Deutsch,100-1000,Product,Finance / Insurance,0.0,263000.0
+04.12.2019 22:17:52,30.0,Male,Berlin,Middle,Data Scientist,8,Python,English,100-1000,Product,Сommerce,0.0,114500.0
+04.12.2019 22:28:46,35.0,Male,Berlin,Middle,Business Analyst,7,SQL,English,100-1000,Startup,Finance / Insurance,46000.0,57000.0
+04.12.2019 22:29:40,0.0,Male,Amsterdam,Senior,Data Scientist,3,R,Dutch,1000+,Consulting / Agency,IT,48002.0,62501.0
+04.12.2019 22:31:12,30.0,Male,Berlin,Senior,Data Scientist,4,SQL,English,100-1000,Startup,Transport,50000.0,66000.0
+04.12.2019 22:48:15,26.0,Male,Frankfurt,Junior,Business Analyst,1,Not Relevant,Deutsch,1000+,Consulting / Agency,Finance / Insurance,0.0,44000.0
+04.12.2019 22:52:47,0.0,Male,Berlin,Senior,Backend Developer,15,PHP,English,100-1000,Product,Media,58.0,58000.1
+04.12.2019 22:56:12,0.0,Male,Berlin,Senior,Researcher,9,Python,English,1000+,Product,Сommerce,0.0,153000.0
+04.12.2019 23:10:59,23.0,Male,Cologne,Junior,Fullstack Developer,1,Java,Deutsch,up to 10,Startup,HR,0.0,30000.0
+04.12.2019 23:12:54,26.0,Male,Amsterdam,Middle,Data Scientist,5,Python,English,100-1000,Product,0,0.0,140000.0
+04.12.2019 23:22:22,44.0,Male,Hamburg,Senior,"CTO (CEO, CFO)",15,PHP,Deutsch,100-1000,Product,Scientific Activities,0.0,100000.0
+04.12.2019 23:52:25,30.0,Male,Frankfurt,Senior,Data Scientist,4,Python,English,50-100,Product,Сommerce,75000.0,88000.0
+05.12.2019 00:03:16,37.0,Male,Berlin,Senior,Manager,15,Python,English,100-1000,Startup,SAS,0.0,80000.0
+05.12.2019 00:04:58,46.0,Male,Hamburg,Senior,Fullstack Developer,11,Java,Deutsch,10-50,Product,Scientific Activities,53000.0,60000.0
+05.12.2019 00:07:27,28.0,Male,Munich,Middle,Data Engineer,4,Python,English,10-50,Consulting / Agency,Transport,66000.0,63000.0
+05.12.2019 00:27:04,41.0,Male,Heidelberg,Senior,Data Scientist,10,Python,English,50-100,Startup,Transport,127000.0,133000.0
+05.12.2019 00:46:31,24.0,Male,Brussels,Junior,Data Scientist,2,Python,French,1000+,Consulting / Agency,IT,0.0,33000.0
+05.12.2019 00:47:21,0.0,Male,Munich,Senior,Manager,16,R,English,1000+,Consulting / Agency,0,0.0,84000.0
+05.12.2019 00:47:52,0.0,Male,Munich,Senior,Manager,16,R,English,1000+,Consulting / Agency,0,0.0,84000.0
+05.12.2019 01:17:29,27.0,Male,Berlin,Senior,Business Analyst,5,Python,English,100-1000,Consulting / Agency,Finance / Insurance,55000.0,62000.0
+05.12.2019 02:54:24,39.0,Male,Berlin,Senior,Data Scientist,5,Not Relevant,Deutsch,0,0,Manufacture,0.0,85000.0
+05.12.2019 05:53:14,31.0,Male,Berlin,Middle,Product Manager,5,Not Relevant,Deutsch,50-100,Product,Education,45002.0,55002.0
+05.12.2019 07:02:04,40.0,Female,Berlin,Senior,Backend Developer,10,C/C++,English,10-50,Startup,Health,63000.0,68000.0
+05.12.2019 07:16:22,35.0,Male,Berlin,Senior,Software Architect,8,Java,English,1000+,Product,Сommerce,100000.0,115000.0
+05.12.2019 07:41:11,36.0,Male,Bielefeld,Senior,Fullstack Developer,16,PHP,English,10-50,Product,Software Development,72000.0,72000.0
+05.12.2019 07:41:29,30.0,Female,Berlin,Junior,QA,1,0,English,10-50,Startup,Finance / Insurance,0.0,36000.0
+05.12.2019 07:42:47,27.0,Male,Berlin,Senior,Backend Developer,8,Go,English,1000+,Product,Transport,80000.0,75000.0
+05.12.2019 07:44:47,30.0,Male,Berlin,Senior,DevOps,8,Java,English,1000+,Product,Transport,60000.0,70600.0
+05.12.2019 07:57:37,30.0,Male,Berlin,Senior,Backend Developer,9,Java,English,100-1000,Startup,Tourism,79000.0,79000.0
+05.12.2019 08:06:00,0.0,Female,Berlin,Senior,Fullstack Developer,10,Java,Deutsch,100-1000,Consulting / Agency,Finance / Insurance,0.0,69500.0
+05.12.2019 08:11:01,34.0,Male,Berlin,Senior,Backend Developer,6,Python,Deutsch,50-100,Product,0,52000.0,60000.0
+05.12.2019 08:20:02,40.0,Female,Munich,Middle,Backend Developer,15,C/C++,English,100-1000,Product,Сommerce,0.0,68000.0
+05.12.2019 08:27:01,40.0,Female,Munich,Middle,Backend Developer,15,C/C++,English,100-1000,Product,Сommerce,0.0,68000.0
+05.12.2019 08:32:27,33.0,Male,Berlin,Senior,Backend Developer,11,Ruby,English,100-1000,Product,Finance / Insurance,85000.0,109000.0
+05.12.2019 08:44:13,35.0,Male,Berlin,Senior,Backend Developer,12,PHP,English,up to 10,Startup,Сommerce,0.0,90000.0
+05.12.2019 08:46:19,0.0,Female,Berlin,Senior,QA,13,Java,English,10-50,Startup,Scientific Activities,53000.0,69000.0
+05.12.2019 08:55:01,34.0,Female,Berlin,Middle,Data Scientist,2,Python,English,1000+,Consulting / Agency,0,51000.0,65000.0
+05.12.2019 09:05:23,42.0,Male,Berlin,Senior,Software Architect,20,C/C++,English,1000+,Product,Transport,90000.0,95010.0
+05.12.2019 09:09:26,30.0,Female,Berlin,Middle,Data Scientist,5,Python,English,1000+,Product,Real Estate,54000.0,65000.0
+05.12.2019 09:13:33,30.0,Male,Berlin,Senior,Backend Developer,10,Python,English,100-1000,Startup,0,66000.0,75000.0
+05.12.2019 09:14:09,30.0,Male,Berlin,Senior,Fullstack Developer,6,Javascript / Typescript,English,10-50,Product,Real Estate,58000.0,98000.0
+05.12.2019 09:29:12,32.0,Female,Berlin,Middle,Mobile Developer,7,Kotlin,English,1000+,Product,Сommerce,52000.0,55000.0
+05.12.2019 09:29:58,29.0,Female,Berlin,Middle,Data Scientist,2,Python,English,100-1000,0,IT,40000.0,40000.0
+05.12.2019 09:32:27,0.0,Male,Berlin,Senior,Data Scientist,6,Python,English,100-1000,Startup,0,0.0,108000.0
+05.12.2019 09:38:10,29.0,Male,Berlin,Senior,Fullstack Developer,8,Javascript / Typescript,English,1000+,Startup,Agriculture,80000.0,78000.0
+05.12.2019 09:42:06,29.0,Male,Berlin,Middle,Backend Developer,7,Go,English,100-1000,Product,0,0.0,60000.0
+05.12.2019 09:42:21,24.0,Male,Berlin,Senior,Frontend Developer,5,Javascript / Typescript,English,100-1000,Product,Finance / Insurance,0.0,66000.0
+05.12.2019 09:47:36,37.0,Male,Berlin,Senior,Data Scientist,15,Not Relevant,English,10-50,Startup,Health,0.0,85000.0
+05.12.2019 09:48:37,26.0,Male,Frankfurt,Middle,Frontend Developer,6,Javascript / Typescript,Deutsch,100-1000,Product,Finance / Insurance,71000.0,81000.0
+05.12.2019 09:52:03,37.0,Male,Dublin,Senior,Manager,15,Not Relevant,English,1000+,Product,Finance / Insurance,430000.0,113000.0
+05.12.2019 09:52:25,36.0,Male,Berlin,Senior,Backend Developer,10,Java,Deutsch,1000+,Product,Finance / Insurance,55000.0,62000.0
+05.12.2019 10:04:30,33.0,Male,Berlin,Senior,Data Engineer,3,Python,English,0,Product,0,0.0,63000.0
+05.12.2019 10:25:42,30.0,Male,Berlin,Senior,Software Architect,10,AWS,English,1000+,Product,Cloud,66000.0,95000.0
+05.12.2019 10:31:36,35.0,Female,Berlin,Junior,Frontend Developer,2,Javascript / Typescript,English,100-1000,Startup,IoT,40000.0,50000.0
+05.12.2019 10:37:31,23.0,Male,Jyvaskyla,Middle,Backend Developer,2,Python,English,100-1000,Product,Сommerce,24000.0,36000.0
+05.12.2019 10:39:25,28.0,Male,Berlin,Senior,Backend Developer,7,Java,English,100-1000,Product,Real Estate,72000.0,85000.0
+05.12.2019 10:43:01,31.0,Male,Berlin,Senior,Business Analyst,8,SQL,English,1000+,Product,Сommerce,102000.0,111000.0
+05.12.2019 10:44:14,28.0,Male,Berlin,Senior,DevOps,6,AWS,English,50-100,Product,Finance / Insurance,0.0,80000.0
+05.12.2019 11:46:19,27.0,Male,Berlin,Senior,Data Engineer,5,Python,English,1000+,Product,Сommerce,82000.0,94000.0
+05.12.2019 11:59:21,0.0,Male,Toulouse,Middle,Data Scientist,3,Python,French,100-1000,Product,Manufacture,61000.0,59000.0
+05.12.2019 12:24:15,32.0,Male,Stuttgart,Senior,Frontend Developer,12,Javascript / Typescript,Deutsch,1000+,Product,Transport,55000.0,74000.0
+05.12.2019 12:33:27,35.0,Male,Berlin,Senior,Fullstack Developer,15,PHP,English,1000+,Product,Сommerce,0.0,35000.0
+05.12.2019 12:56:17,25.0,Male,Berlin,Senior,Frontend Developer,5,Javascript / Typescript,English,100-1000,Product,Finance / Insurance,0.0,60000.0
+05.12.2019 13:14:29,35.0,Male,Berlin,Senior,Data Engineer,15,Python,English,100-1000,Product,Сommerce,0.0,75000.0
+05.12.2019 13:14:46,34.0,Female,Munich,Senior,Business Analyst,9,Python,English,50-100,Startup,Real Estate,65000.0,75001.0
+05.12.2019 13:28:32,29.0,Female,Berlin,Middle,Data Scientist,3,Python,Deutsch,100-1000,Product,Finance / Insurance,55000.0,57000.0
+05.12.2019 13:37:42,34.0,Male,Frankfurt,Middle,Data Scientist,3,Python,English,1000+,Product,Telecom,50002.0,50001.0
+05.12.2019 13:42:19,35.0,Female,Berlin,Senior,Data Scientist,5,Python,English,10-50,Startup,Gaming,68000.0,71000.0
+05.12.2019 13:52:15,34.0,Male,Berlin,Senior,Manager,10,Not Relevant,English,1000+,Bodyshop / Outsource,0,0.0,66000.0
+05.12.2019 13:54:32,39.0,Male,Berlin,Senior,Data Engineer,3,SQL,English,100-1000,Startup,IT,56000.0,63000.0
+05.12.2019 14:01:04,0.0,Female,Berlin,Senior,QA,11,Not Relevant,English,100-1000,Consulting / Agency,0,0.0,72500.0
+05.12.2019 14:10:19,39.0,Male,Dubai,Senior,Researcher,18,Python,English,1000+,Startup,Сommerce,120000.0,120000.1
+05.12.2019 14:16:49,34.0,Male,Berlin,Senior,Data Scientist,4,R,English,100-1000,Product,Finance / Insurance,87000.0,77000.0
+05.12.2019 14:23:38,27.0,Male,Munich,Senior,Data Scientist,7,Python,English,100-1000,Product,Сommerce,75000.0,90000.0
+05.12.2019 14:29:09,30.0,Male,Munich,Senior,Backend Developer,10,PHP,English,1000+,Product,Transport,0.0,80000.0
+05.12.2019 14:51:46,32.0,Female,Munich,Middle,Fullstack Developer,5,Python,English,50-100,Startup,Tourism,66000.0,70000.0
+05.12.2019 14:59:20,35.0,Male,Berlin,Senior,Mobile Developer,8,Kotlin,Deutsch,50-100,Product,IT,56000.0,70000.0
+05.12.2019 15:01:08,29.0,Male,Frankfurt,Senior,Data Scientist,1,R,Deutsch,1000+,Consulting / Agency,Finance / Insurance,70400.0,69000.0
+05.12.2019 15:16:13,34.0,Male,Berlin,Middle,Frontend Developer,3,Javascript / Typescript,English,100-1000,Product,Сommerce,0.0,50000.0
+05.12.2019 15:49:39,27.0,Male,Berlin,Middle,QA,4,Not Relevant,English,100-1000,Product,Cloud,0.0,58000.0
+05.12.2019 15:52:31,27.0,Male,Berlin,Middle,Frontend Developer,5,Javascript / Typescript,Deutsch,100-1000,Product,Сonstruction,48000.0,65000.0
+05.12.2019 16:09:01,34.0,Male,Hamburg,Senior,Data Scientist,9,Kotlin,English,100-1000,Consulting / Agency,Сommerce,0.0,105000.0
+05.12.2019 17:46:15,33.0,Male,Berlin,Senior,Frontend Developer,11,Javascript / Typescript,English,10-50,Startup,Сommerce,70002.0,70001.0
+05.12.2019 17:46:24,0.0,Male,Berlin,Senior,Data Scientist,8,Python,English,1000+,Product,0,0.0,143000.0
+05.12.2019 18:14:53,45.0,Female,Berlin,Senior,QA,15,Java,English,100-1000,Startup,Finance / Insurance,47002.0,71500.0
+05.12.2019 18:33:01,35.0,Male,Munich,Senior,Database Developer (DBA),14,0,English,100-1000,Consulting / Agency,IT,0.0,68000.0
+05.12.2019 19:02:28,33.0,Female,Berlin,Middle,Data Scientist,1,Python,English,100-1000,Startup,Education,45000.0,50000.0
+05.12.2019 19:07:30,32.0,Female,Berlin,Senior,QA,8,Python,English,100-1000,Product,Сommerce,0.0,42000.0
+05.12.2019 19:09:28,25.0,Male,Moscow,Middle,Frontend Developer,3,Javascript / Typescript,Russian,1000+,Product,SEO,17002.0,29301.0
+05.12.2019 19:16:09,27.0,Female,Düsseldorf,Junior,Data Scientist,1,Python,English,1000+,Product,Сommerce,0.0,60000.0
+05.12.2019 19:31:49,36.0,Male,Hamburg,Lead,Machine Learning Engineer,5,Python,Deutsch,10-50,Consulting / Agency,IT,85000.0,95000.0
+05.12.2019 19:33:03,33.0,Male,Berlin,Senior,"CTO (CEO, CFO)",16,Not Relevant,English,100-1000,Product,Сommerce,95000.0,140000.0
+05.12.2019 20:07:56,42.0,Male,Munich,Middle,DevOps,7,AWS,English,100-1000,Product,Tourism,0.0,68000.0
+05.12.2019 20:20:22,32.0,Male,Berlin,Middle,Backend Developer,2,Java,English,1000+,Product,Сommerce,49000.0,53900.0
+05.12.2019 20:57:02,37.0,Male,Munich,Senior,Backend Developer,14,C/C++,English,100-1000,Product,Finance / Insurance,0.0,75000.0
+05.12.2019 21:14:36,32.0,Male,Berlin,Senior,Backend Developer,10,Java,Deutsch,100-1000,Consulting / Agency,Transport,0.0,110000.0
+05.12.2019 21:21:47,42.0,Male,Frankfurt,Senior,Manager,18,Not Relevant,Deutsch,1000+,Consulting / Agency,Finance / Insurance,85000.0,88500.0
+05.12.2019 21:34:35,37.0,Male,Hamburg,Senior,Backend Developer,12,Java,English,100-1000,Product,Сommerce,65000.0,72000.0
+05.12.2019 21:52:03,34.0,Male,Munich,Senior,Backend Developer,12,Java,English,1000+,Product,IT,0.0,73000.0
+05.12.2019 22:11:37,0.0,Male,Munich,Lead,Backend Developer,11,Java,English,1000+,Product,0,0.0,206000.0
+05.12.2019 22:13:22,0.0,Female,Stuttgart,Senior,SAP Consultant,7,Not Relevant,Deutsch,100-1000,Product,Manufacture,0.0,108000.0
+05.12.2019 22:22:55,32.0,Male,Berlin,Senior,Backend Developer,12,Ruby,English,100-1000,Product,Advertising,69000.0,80500.0
+05.12.2019 22:32:20,33.0,Male,Zurich,Senior,Backend Developer,6,Java,Deutsch,100-1000,Consulting / Agency,Сommerce,0.0,120000.0
+05.12.2019 22:37:31,27.0,Male,Berlin,Senior,Backend Developer,6,Java,English,100-1000,Product,Real Estate,0.0,70000.0
+05.12.2019 22:56:32,48.0,Male,Berlin,0,System Administrator,18,Powershell,English,100-1000,Product,0,55000.0,55000.0
+05.12.2019 23:00:36,28.0,Female,Berlin,Junior,Data Scientist,1,R,Deutsch,10-50,Consulting / Agency,Agriculture,0.0,50000.0
+05.12.2019 23:06:14,32.0,Male,Berlin,Lead,Software Engineer,10,Not Relevant,English,1000+,Product,Transport,75000.0,83000.0
+05.12.2019 23:22:42,26.0,Male,Munich,Middle,Backend Developer,3,Java,English,0,Product,0,53000.0,56000.0
+05.12.2019 23:30:41,33.0,Female,Hamburg,Senior,QA,12,Not Relevant,English,100-1000,Product,Transport,61000.0,70500.0
+05.12.2019 23:53:39,31.0,Female,Berlin,Middle,Data Scientist,2,Python,English,100-1000,Startup,Agriculture,55000.0,70000.0
+06.12.2019 00:12:12,30.0,Male,Berlin,Senior,Fullstack Developer,8,Java,English,100-1000,Product,Dating,55000.0,60000.0
+06.12.2019 00:16:16,35.0,Male,Berlin,Senior,"CTO (CEO, CFO)",16,AWS,English,100-1000,Product,IT,97000.0,107000.0
+06.12.2019 00:21:47,32.0,Male,Berlin,Senior,Mobile Developer,10,Kotlin,English,50-100,Consulting / Agency,Transport,70000.0,78000.0
+06.12.2019 01:53:55,38.0,Male,Berlin,Senior,Software Architect,16,Javascript / Typescript,English,1000+,Product,Сommerce,54000.0,75000.0
+06.12.2019 07:46:19,28.0,Male,Berlin,Senior,Backend Developer,4,Go,English,100-1000,Product,Entertainment,55002.0,75002.0
+06.12.2019 07:56:25,0.0,Male,Munich,Senior,Manager,19,Not Relevant,English,1000+,Product,Manufacture,116000.0,117000.0
+06.12.2019 08:03:53,34.0,Male,Lingen,Senior,Mobile Developer,8,Kotlin,Deutsch,100-1000,Product,Finance / Insurance,65000.0,65000.0
+06.12.2019 08:11:52,31.0,Male,Berlin,Senior,Fullstack Developer,9,Javascript / Typescript,English,50-100,Product,Tourism,60000.0,65000.0
+06.12.2019 08:13:15,30.0,Male,Munich,Senior,QA,9,Java,English,1000+,Product,IT,76000.0,79000.0
+06.12.2019 09:30:45,0.0,Male,Frankfurt,Senior,Data Scientist,8,R,Deutsch,100-1000,Product,Finance / Insurance,168000.0,149000.0
+06.12.2019 09:39:46,0.0,Male,Warsaw,Senior,Frontend Developer,8,Javascript / Typescript,Russian,100-1000,0,Finance / Insurance,0.0,75000.0
+06.12.2019 09:41:21,33.0,Male,Berlin,Senior,QA,14,Python,English,1000+,Product,Сommerce,0.0,52000.0
+06.12.2019 09:59:35,37.0,Male,Berlin,Senior,Data Engineer,13,Python,English,50-100,Product,Software Development,0.0,68000.0
+06.12.2019 10:19:22,0.0,Male,Berlin,Senior,Machine Learning Engineer,6,Python,Deutsch,1000+,Product,0,0.0,117000.0
+06.12.2019 10:22:12,0.0,Male,Hamburg,Senior,Mobile Developer,10,.NET,English,100-1000,Startup,Gaming,0.0,125000.0
+06.12.2019 10:23:25,0.0,Female,Berlin,Senior,Manager,7,Not Relevant,English,1000+,Product,Сommerce,0.0,127000.0
+06.12.2019 10:40:25,0.0,Male,Amsterdam,Lead,Data Scientist,11,Python,English,1000+,0,0,0.0,293000.0
+06.12.2019 11:05:29,28.0,Male,Munich,Senior,Fullstack Developer,3,Not Relevant,English,1000+,Product,Health,53000.0,63000.0
+06.12.2019 11:14:46,28.0,Male,Berlin,Lead,Frontend Developer,8,Javascript / Typescript,English,100-1000,Product,Transport,65000.0,82000.0
+06.12.2019 12:07:50,26.0,Male,Munich,Middle,Fullstack Developer,5,Javascript / Typescript,English,1000+,Product,Сommerce,0.0,54000.0
+06.12.2019 12:51:07,0.0,Male,Munich,Senior,Software Architect,9,Java,English,1000+,0,0,0.0,200000.0
+06.12.2019 13:58:31,39.0,Male,Berlin,Middle,Backend Developer,9,Java,English,100-1000,Consulting / Agency,Сommerce,0.0,69800.0
+06.12.2019 14:18:14,28.0,Female,Berlin,Senior,Backend Developer,6,Ruby,English,10-50,Product,Finance / Insurance,0.0,55000.0
+06.12.2019 14:19:12,48.0,Male,Berlin,Senior,Backend Developer,15,Java,Deutsch,100-1000,Bodyshop / Outsource,IT,64000.0,65000.0
+06.12.2019 14:27:04,35.0,Male,Berlin,Middle,Manager,7,R,English,100-1000,Product,0,0.0,105000.0
+06.12.2019 14:27:12,0.0,Male,Munich,0,Embedded Developer,8,C/C++,Deutsch,1000+,0,Manufacture,0.0,135000.0
+06.12.2019 14:43:54,0.0,Male,Munich,Lead,Machine Learning Engineer,9,Python,Deutsch,100-1000,Startup,Scientific Activities,0.0,170000.0
+06.12.2019 18:19:13,30.0,Female,Berlin,Middle,Software Engineer,7,AWS,English,1000+,Product,Real Estate,61000.0,66000.0
+06.12.2019 19:04:23,38.0,Male,Dresden,Senior,Embedded Developer,8,C/C++,Deutsch,100-1000,Product,Manufacture,54000.0,58000.0
+06.12.2019 19:42:08,27.0,Male,Berlin,Senior,Data Scientist,5,Python,Russian,100-1000,Consulting / Agency,Finance / Insurance,110002.0,125001.0
+06.12.2019 19:50:20,27.0,Female,Berlin,Middle,Cloud Platform Engineer,6,AWS,English,1000+,Product,Сommerce,54000.0,70000.0
+06.12.2019 20:14:09,37.0,Male,Lugano,Middle,Fullstack Developer,3,.NET,Italian,10-50,Product,Manufacture,86000.0,168000.0
+06.12.2019 20:53:53,30.0,Male,Berlin,Middle,Fullstack Developer,2,Java,Deutsch,100-1000,Consulting / Agency,0,0.0,53372.0
+06.12.2019 22:19:00,0.0,Male,Berlin,Senior,Backend Developer,8,Python,English,1000+,Product,Transport,0.0,102000.0
+06.12.2019 22:25:34,32.0,Male,Berlin,Lead,Data Scientist,10,Python,English,50-100,Startup,Сommerce,0.0,245000.0
+06.12.2019 22:32:00,35.0,Male,Frankfurt,Senior,Backend Developer,16,C/C++,English,100-1000,Product,Finance / Insurance,193000.0,165000.0
+06.12.2019 22:37:07,34.0,Male,Berlin,Senior,Backend Developer,14,Rust,English,50-100,Startup,Сommerce,96000.0,93500.0
+06.12.2019 22:43:34,27.0,Male,Berlin,Lead,"CTO (CEO, CFO)",6,Python,English,10-50,Startup,0,24000.0,774000.0
+06.12.2019 22:47:34,38.0,Female,Stuttgart,Senior,Embedded Developer,14,C/C++,Deutsch,100-1000,Product,Manufacture,89000.0,87000.0
+06.12.2019 22:50:38,41.0,Male,Berlin,Senior,other,20,Solidity,English,up to 10,Consulting / Agency,Finance / Insurance,115000.0,140000.0
+07.12.2019 00:40:44,32.0,Female,Berlin,Senior,Backend Developer,13,PHP,English,100-1000,Startup,0,63000.0,64000.0
+07.12.2019 09:33:27,29.0,Male,Munich,Senior,Embedded Developer,4,ASM,English,100-1000,Product,Software Development,63000.0,84000.0
+07.12.2019 09:39:37,31.0,Female,Berlin,Middle,Data Scientist,1,Python,English,100-1000,Consulting / Agency,Transport,72000.0,78000.0
+07.12.2019 12:47:38,37.0,Male,Cologne,Middle,QA,4,Not Relevant,Deutsch,10-50,Consulting / Agency,Software Development,53000.0,53000.0
+07.12.2019 13:43:00,32.0,Male,Berlin,Senior,Data Scientist,10,Python,English,1000+,Product,Сommerce,136000.0,142000.0
+07.12.2019 15:25:06,27.0,Male,Berlin,Senior,Frontend Developer,7,Javascript / Typescript,English,10-50,Product,Tourism,75000.0,75000.0
+07.12.2019 15:51:26,25.0,Male,Berlin,Senior,Backend Developer,8,Rust,English,1000+,Product,Tourism,90000.0,140000.0
+07.12.2019 17:30:53,34.0,Male,Berlin,Middle,Product Manager,6,Not Relevant,English,1000+,Product,Сommerce,0.0,65000.0
+07.12.2019 17:40:25,30.0,Male,Berlin,Senior,Manager,9,.NET,English,1000+,Product,Сommerce,74000.0,88200.0
+07.12.2019 20:08:08,0.0,Male,Frankfurt,Middle,Data Scientist,7,R,Deutsch,1000+,Product,Transport,79900.0,75000.0
+07.12.2019 20:13:45,32.0,Female,Berlin,Junior,Data Scientist,1,Python,Deutsch,10-50,Startup,Education,0.0,45600.0
+07.12.2019 20:53:43,30.0,Female,Berlin,Middle,Cloud Platform Engineer,7,AWS,English,1000+,Product,Сommerce,61100.0,66340.0
+07.12.2019 20:55:14,24.0,Male,Moscow,Middle,Machine Learning Engineer,2,Python,Russian,100-1000,Product,Entertainment,19600.0,30000.0
+07.12.2019 21:43:30,28.0,Male,Berlin,Senior,Data Scientist,5,Python,Deutsch,100-1000,Product,Сommerce,0.0,105000.0
+08.12.2019 08:18:03,32.0,Male,Frankfurt,Middle,Data Engineer,10,Not Relevant,English,50-100,Startup,Transport,78000.0,74800.0
+08.12.2019 08:23:08,38.0,Male,Frankfurt,Senior,Software Architect,15,Java,Deutsch,1000+,Product,Tourism,95000.0,88000.0
+08.12.2019 09:31:43,0.0,Female,Berlin,Middle,Manager,6,Python,English,1000+,Product,Software Development,102000.0,97900.0
+08.12.2019 11:10:57,29.0,Male,Berlin,Middle,Data Engineer,3,Python,English,100-1000,Startup,Finance / Insurance,0.0,48000.0
+08.12.2019 11:19:34,29.0,Female,Hamburg,Middle,Machine Learning Engineer,4,Python,English,100-1000,Product,Transport,55000.0,60000.0
+08.12.2019 14:22:03,33.0,Male,Cologne,Middle,Data Scientist,3,Python,English,10-50,Startup,0,0.0,50000.0
+08.12.2019 15:03:59,35.0,Male,Stuttgart,Senior,Backend Developer,6,PHP,English,100-1000,Product,Сommerce,54000.0,60600.0
+08.12.2019 15:15:27,32.0,Male,Berlin,Lead,Data Scientist,9,Python,English,1000+,Product,Сommerce,0.0,147000.0
+08.12.2019 15:50:38,33.0,Male,Munich,Senior,Backend Developer,12,Java,Deutsch,100-1000,Consulting / Agency,0,137000.0,172000.0
+08.12.2019 17:46:54,35.0,Male,Berlin,Senior,Backend Developer,10,Java,English,100-1000,Product,Сommerce,84002.0,84001.0
+08.12.2019 19:46:33,38.0,Male,Walldorf,Senior,Fullstack Developer,17,Javascript / Typescript,Deutsch,1000+,Product,Software Development,0.0,90000.0
+08.12.2019 20:32:15,30.0,Male,Berlin,Senior,Backend Developer,7,Python,English,50-100,Startup,0,96000.0,97000.0
+08.12.2019 21:15:24,34.0,Male,Munich,Lead,Fullstack Developer,8,Scala,English,100-1000,Product,Сommerce,80000.0,95000.0
+08.12.2019 21:42:56,0.0,Male,Berlin,Senior,Data Engineer,8,SQL,English,100-1000,0,Сommerce,0.0,80000.0
+08.12.2019 21:53:55,31.0,Male,Berlin,Junior,Frontend Developer,3,Javascript / Typescript,Deutsch,50-100,Consulting / Agency,Scientific Activities,42000.0,48000.0
+08.12.2019 23:06:40,36.0,Male,Berlin,Middle,QA,6,0,Deutsch,100-1000,Product,0,50000.0,50000.0
+08.12.2019 23:35:12,31.0,Male,Berlin,Senior,DevOps,10,PHP,English,1000+,Product,Сommerce,0.0,75000.0
+09.12.2019 05:45:54,30.0,Male,Cologne,Middle,Data Scientist,5,R,English,1000+,Product,Сonstruction,0.0,73000.0
+09.12.2019 09:38:54,29.0,Male,Cologne,Middle,Manager,4,Not Relevant,English,1000+,0,Transport,56000.0,56000.0
+09.12.2019 10:26:16,34.0,Female,Berlin,Junior,Software Architect,2,Java,Deutsch,50-100,Product,Scientific Activities,42600.0,45400.0
+09.12.2019 11:14:24,31.0,Female,Berlin,Junior,Data Scientist,1,Python,English,10-50,Startup,Finance / Insurance,36000.0,45000.0
+09.12.2019 11:27:36,33.0,Male,Berlin,Senior,Frontend Developer,8,Javascript / Typescript,English,10-50,Startup,0,56000.0,70000.0
+09.12.2019 11:58:49,38.0,Male,Berlin,Senior,Frontend Developer,10,Javascript / Typescript,English,1000+,Product,Manufacture,75000.0,75000.0
+09.12.2019 12:17:25,35.0,Male,Berlin,Senior,Fullstack Developer,16,Javascript / Typescript,English,100-1000,Product,Finance / Insurance,80000.0,100000.0
+09.12.2019 12:28:47,21.0,Male,Moscow,Middle,Data Scientist,4,Python,English,100-1000,Consulting / Agency,Scientific Activities,7200.0,28300.0
+09.12.2019 12:40:50,43.0,Male,Schleswig-Holstein,Senior,Backend Developer,25,.NET,Deutsch,100-1000,Product,Transport,114000.0,104000.0
+09.12.2019 13:18:27,33.0,Male,Berlin,Middle,Data Scientist,3,Scala,English,100-1000,Startup,Tourism,70000.0,80000.0
+09.12.2019 13:25:41,30.0,Male,Berlin,Middle,Backend Developer,4,SAP / ABAP,English,10-50,Consulting / Agency,Software Development,0.0,56780.0
+09.12.2019 16:07:23,35.0,Female,Braunschweig,Senior,Embedded Developer,5,C/C++,Deutsch,100-1000,Bodyshop / Outsource,Transport,56600.0,45300.0
+09.12.2019 16:23:11,33.0,Male,Berlin,Middle,Product Manager,4,Not Relevant,English,100-1000,Startup,Transport,0.0,65000.0
+09.12.2019 16:36:01,28.0,Female,Hamburg,Junior,Data Scientist,1,R,English,10-50,Startup,Advertising,0.0,50000.0
+09.12.2019 16:54:48,41.0,Male,Munich,Senior,Machine Learning Engineer,12,C/C++,English,1000+,Product,Telecom,116000.0,102001.0
+09.12.2019 17:54:43,29.0,Male,Munich,Middle,Data Scientist,2,Python,Deutsch,1000+,Product,Сommerce,55000.0,70000.0
+09.12.2019 18:25:32,24.0,Male,Berlin,Middle,Fullstack Developer,3,Javascript / Typescript,English,50-100,Product,Finance / Insurance,0.0,56000.0
+09.12.2019 19:15:11,31.0,Male,Berlin,Lead,Backend Developer,10,Java,English,100-1000,Startup,0,129000.0,175000.0
+09.12.2019 20:26:47,30.0,Male,Berlin,Senior,Backend Developer,8,Javascript / Typescript,Deutsch,10-50,Startup,Transport,0.0,65000.0
+09.12.2019 21:08:05,34.0,Female,Berlin,Middle,Manager,3,Javascript / Typescript,English,100-1000,Product,Education,0.0,57000.0
+10.12.2019 07:44:42,29.0,Male,Berlin,Middle,Data Scientist,3,Python,English,50-100,Startup,Transport,51000.0,51000.0
+10.12.2019 08:18:21,35.0,Male,Berlin,Senior,Backend Developer,13,Java,English,100-1000,Product,Сommerce,75000.0,75000.0
+10.12.2019 08:52:07,22.0,Male,Amsterdam,Middle,Frontend Developer,5,Javascript / Typescript,English,1000+,Product,Transport,65000.0,115500.0
+10.12.2019 08:52:46,35.0,Male,Amsterdam,Senior,Backend Developer,16,Java,English,1000+,Bank,Finance / Insurance,75000.0,77500.0
+10.12.2019 09:02:46,35.0,Male,Amsterdam,Senior,Data Engineer,10,Go,English,10-50,Product,Tourism,68000.0,74400.0
+10.12.2019 09:21:48,32.0,Male,Amsterdam,Middle,DevOps,2,AWS,English,1000+,Bodyshop / Outsource,0,0.0,70000.0
+10.12.2019 09:34:34,27.0,Male,Amsterdam,Middle,Backend Developer,5,.NET,English,100-1000,Product,Transport,0.0,58000.0
+10.12.2019 09:36:37,32.0,Male,Amsterdam,Senior,Mobile Developer,11,Swift,English,10-50,Startup,Finance / Insurance,0.0,65000.0
+10.12.2019 09:38:51,43.0,Male,Kaiserslautern,Middle,Data Scientist,3,Python,English,1000+,University,Education,70100.0,67501.0
+10.12.2019 09:41:50,33.0,Male,Amsterdam,Middle,Fullstack Developer,10,PHP,English,100-1000,Product,Сommerce,65000.0,69000.0
+10.12.2019 09:48:35,33.0,Male,Amsterdam,Middle,Backend Developer,9,Java,English,1000+,Product,Сommerce,0.0,93150.0
+10.12.2019 09:55:11,35.0,Male,Amsterdam,Senior,QA,10,Not Relevant,English,1000+,Product,Scientific Activities,75000.0,70000.0
+10.12.2019 10:04:06,31.0,Male,Berlin,Middle,Backend Developer,3,Java,English,100-1000,Product,Transport,0.0,48000.0
+10.12.2019 10:11:44,29.0,Male,Berlin,Middle,Backend Developer,7,Java,English,1000+,0,Сommerce,0.0,60000.0
+10.12.2019 10:18:56,23.0,Female,Amsterdam,Middle,Backend Developer,3,Python,English,1000+,Product,Telecom,0.0,67000.0
+10.12.2019 10:21:52,33.0,Male,Munich,Senior,Fullstack Developer,12,PHP,English,up to 10,Startup,Health,51000.0,58500.0
+10.12.2019 10:30:22,30.0,Male,Amsterdam,Middle,Frontend Developer,10,Javascript / Typescript,English,1000+,Product,Transport,0.0,191000.0
+10.12.2019 10:41:18,33.0,Male,Eindhoven,Senior,Manager,8,Not Relevant,English,1000+,Product,Health,0.0,98000.0
+10.12.2019 10:47:10,38.0,Male,Düsseldorf,Middle,Data Scientist,3,Python,English,1000+,Product,Manufacture,48000.0,85800.0
+10.12.2019 10:48:01,24.0,Male,Saint Petersburg,Middle,Fullstack Developer,4,.NET,Russian,100-1000,Bodyshop / Outsource,Health,30000.0,30300.0
+10.12.2019 10:50:47,28.0,Male,Amsterdam,Middle,DevOps,6,Python,English,50-100,Startup,0,0.0,66000.0
+10.12.2019 11:18:57,30.0,Male,Amsterdam,Senior,Fullstack Developer,8,.NET,English,50-100,Product,Health,78000.0,80000.0
+10.12.2019 11:23:47,32.0,Male,Berlin,Junior,Data Scientist,2,R,English,50-100,Product,Nature Conservation,0.0,48001.0
+10.12.2019 11:32:10,0.0,Male,Eindhoven,Senior,Backend Developer,6,Python,English,100-1000,Product,Сommerce,0.0,57000.0
+10.12.2019 11:38:41,30.0,Male,Amsterdam,Senior,Backend Developer,9,Java,English,100-1000,Product,Сommerce,0.0,63000.0
+10.12.2019 11:44:40,35.0,Female,Amsterdam,Senior,Backend Developer,13,.NET,English,1000+,Product,Сommerce,61500.0,64000.0
+10.12.2019 11:54:23,30.0,Female,Amsterdam,Middle,Backend Developer,7,Python,English,10-50,Startup,Catering,62000.0,62000.0
+10.12.2019 11:55:02,29.0,Male,Amsterdam,Senior,Frontend Developer,8,Javascript / Typescript,English,1000+,Product,Transport,62000.0,70000.0
+10.12.2019 11:58:45,35.0,Male,Amsterdam,Senior,Backend Developer,7,Python,English,50-100,Product,IT,0.0,72000.0
+10.12.2019 12:03:22,30.0,Male,Berlin,Senior,Data Scientist,9,Python,English,1000+,Product,Real Estate,130000.0,125000.0
+10.12.2019 12:09:40,33.0,Male,Munich,Middle,Product Manager,5,Not Relevant,English,100-1000,Startup,0,0.0,72000.0
+10.12.2019 12:19:11,35.0,Male,Eindhoven ,Senior,Frontend Developer,10,Javascript / Typescript,English,1000+,Bodyshop / Outsource,0,62000.0,62000.0
+10.12.2019 12:21:18,0.0,Male,Leeuwarden,Senior,Backend Developer,6,Java,English,100-1000,Product,Finance / Insurance,50000.0,58000.0
+10.12.2019 12:28:01,29.0,Male,Amsterdam,Senior,Backend Developer,11,Java,English,10-50,Product,Finance / Insurance,100000.0,90010.0
+10.12.2019 12:43:27,33.0,Male,Moscow,Senior,Mobile Developer,12,Kotlin,Russian,10-50,Startup,Сonstruction,0.0,30000.0
+10.12.2019 12:43:38,27.0,Male,Amsterdam,Middle,Backend Developer,4,Scala,English,100-1000,Product,Gambling,60000.0,78000.0
+10.12.2019 13:00:26,34.0,Male,Amsterdam,Senior,Fullstack Developer,12,.NET,English,100-1000,Product,Finance / Insurance,73000.0,75000.0
+10.12.2019 13:13:32,37.0,Male,Eindhoven,Senior,Backend Developer,16,.NET,English,1000+,Product,Health,62000.0,87570.0
+10.12.2019 13:50:29,29.0,Male,Amsterdam,Senior,Backend Developer,9,.NET,English,1000+,Product,Manufacture,63000.0,67000.0
+10.12.2019 13:52:31,27.0,Male,Amsterdam,Middle,Backend Developer,5,.NET,English,100-1000,Product,Сommerce,0.0,65000.0
+10.12.2019 14:34:52,27.0,Male,Amsterdam,Middle,Backend Developer,4,Java,English,100-1000,Product,Finance / Insurance,0.0,64500.0
+10.12.2019 15:13:02,22.0,Female,Amsterdam,Junior,DevOps,2,Azure,English,1000+,0,0,0.0,43000.0
+10.12.2019 15:13:41,33.0,Male,Berlin,Senior,Backend Developer,10,.NET,English,10-50,Bodyshop / Outsource,Сommerce,0.0,87000.0
+10.12.2019 15:51:04,0.0,Male,Munich,Senior,Mobile Developer,5,Kotlin,English,up to 10,Consulting / Agency,Finance / Insurance,0.0,72000.0
+10.12.2019 16:03:10,31.0,Male,Berlin,Senior,SRE,10,Go,English,1000+,Product,Сommerce,0.0,100000.0
+10.12.2019 16:07:08,27.0,Male,Stuttgart,Senior,Fullstack Developer,6,Javascript / Typescript,English,up to 10,Product,Сommerce,42000.0,48000.0
+10.12.2019 16:11:01,32.0,Male,Hilversum,Senior,Fullstack Developer,10,Java,English,50-100,Product,Software Development,65000.0,83500.0
+10.12.2019 16:15:58,28.0,Male,Hamburg,Senior,Backend Developer,5,Cobol,Deutsch,1000+,Product,Finance / Insurance,58600.0,75000.0
+10.12.2019 16:16:30,32.0,Male,Amsterdam,Middle,Backend Developer,12,Perl,English,1000+,Product,Tourism,98000.0,114000.0
+10.12.2019 17:21:14,32.0,Male,Munich,Lead,Machine Learning Engineer,12,C/C++,English,1000+,Product,Scientific Activities,0.0,188000.0
+10.12.2019 17:41:32,49.0,Male,Munich,Senior,DevOps,25,Not Relevant,Deutsch,1000+,Product,0,0.0,125000.0
+10.12.2019 17:42:56,30.0,Male,Berlin,Senior,Data Scientist,6,R,English,100-1000,Startup,Tourism,66000.0,80000.0
+10.12.2019 18:26:17,35.0,Male,Berlin,0,Manager,11,Not Relevant,English,10-50,Product,HR,75000.0,80000.0
+10.12.2019 19:33:26,27.0,Female,Amsterdam,Senior,Manager,8,Not Relevant,English,1000+,Product,Tourism,91000.0,100000.0
+10.12.2019 19:52:47,33.0,Female,Hamburg,Middle,Data Scientist,5,SQL,Deutsch,100-1000,Consulting / Agency,Finance / Insurance,59000.0,58000.0
+10.12.2019 19:58:07,27.0,Female,Berlin,Middle,Backend Developer,5,Java,Deutsch,100-1000,Consulting / Agency,Transport,48000.0,50000.0
+10.12.2019 20:06:47,33.0,Male,Hamburg,Middle,Data Scientist,2,Python,Deutsch,1000+,Product,Сommerce,0.0,75000.0
+10.12.2019 20:59:37,32.0,Male,Munich,Senior,SRE,11,Java,Deutsch,100-1000,Product,Сommerce,82000.0,77800.0
+10.12.2019 21:16:31,31.0,Male,Munich,Senior,"CTO (CEO, CFO)",11,Swift,English,50-100,Startup,Health,70000.0,75000.0
+10.12.2019 21:52:08,28.0,Female,Warsaw,Senior,Fullstack Developer,5,R,Polish+English,100-1000,Consulting / Agency,Health,144002.0,155001.0
+10.12.2019 22:02:10,36.0,Male,Berlin,Senior,Fullstack Developer,7,.NET,English,50-100,Startup,Transport,0.0,70000.0
+10.12.2019 22:19:05,32.0,Male,Frankfurt,Junior,Data Scientist,0,Python,English,50-100,Consulting / Agency,Transport,0.0,60500.0
+10.12.2019 22:41:06,30.0,Male,Amsterdam,Middle,System Administrator,6,Not Relevant,English,1000+,Product,Tourism,0.0,80000.0
+10.12.2019 22:55:17,28.0,Male,Gdańsk,Middle,Data Scientist,5,R,English,100-1000,Bodyshop / Outsource,Сommerce,9000.0,14000.0
+10.12.2019 23:19:38,26.0,Male,Amsterdam,Senior,DevOps,6,Not Relevant,English,1000+,Product,Transport,60000.0,68000.0
+10.12.2019 23:40:20,37.0,Male,Amsterdam,Middle,Fullstack Developer,18,Perl,English,1000+,Product,Tourism,95000.0,127000.0
+10.12.2019 23:55:18,48.0,Male,Berlin,Senior,Network Engineer,16,Cisco,English,1000+,0,0,0.0,67000.0
+11.12.2019 00:00:08,0.0,Male,Munich,Senior,Manager,20,Java,English,1000+,Product,Telecom,119000.0,110000.0
+11.12.2019 01:36:39,30.0,Male,Wroclaw,Middle,Manager,8,Not Relevant,English,1000+,Bodyshop / Outsource,Finance / Insurance,48500.0,56000.0
+11.12.2019 02:55:43,24.0,Male,Amsterdam,Middle,Frontend Developer,4,Javascript / Typescript,English,1000+,Product,Tourism,0.0,72000.0
+11.12.2019 06:44:08,35.0,Male,Stuttgart,Senior,Manager,5,Python,English,1000+,Bodyshop / Outsource,IT,96000.0,86000.0
+11.12.2019 06:50:45,35.0,Male,Amsterdam,Lead,DevOps,7,AWS,English,1000+,Bodyshop / Outsource,0,0.0,65000.0
+11.12.2019 08:54:21,29.0,Male,Amsterdam,Senior,QA,8,Java,English,1000+,Product,Finance / Insurance,60000.0,80000.0
+11.12.2019 09:21:53,34.0,Male,Amsterdam,Senior,Frontend Developer,10,Javascript / Typescript,English,100-1000,Product,HR,61600.0,64500.0
+11.12.2019 09:54:31,34.0,Male,Berlin,Senior,Manager,2,Not Relevant,Deutsch,50-100,Product,Сommerce,66000.0,63600.0
+11.12.2019 09:57:24,24.0,Female,Warsaw,Junior,other,1,R,Polish,1000+,Bank,Finance / Insurance,56000.0,72000.0
+11.12.2019 10:03:04,28.0,Male,Amsterdam,Senior,SAP Consultant,6,Not Relevant,English,1000+,Consulting / Agency,IT,0.0,84500.0
+11.12.2019 10:11:04,31.0,Male,Munich,Lead,Machine Learning Engineer,9,Python,Deutsch,100-1000,Startup,Transport,129000.0,153000.0
+11.12.2019 10:21:26,34.0,Male,Zug,Senior,Backend Developer,12,C/C++,English,10-50,Product,Finance / Insurance,0.0,160001.0
+11.12.2019 10:25:33,23.0,Female,Moscow,Middle,Data Engineer,4,Hadoop,Russian,1000+,Product,0,60000.0,37000.0
+11.12.2019 10:54:37,32.0,Male,Düsseldorf,Senior,Data Engineer,7,Python,English,1000+,Product,Manufacture,72000.0,67000.0
+11.12.2019 11:26:54,25.0,Female,Moscow,Senior,Frontend Developer,5,Javascript / Typescript,Russian,50-100,Product,Finance / Insurance,0.0,35300.0
+11.12.2019 11:27:30,40.0,Male,Amsterdam,Middle,System Administrator,20,Not Relevant,English,1000+,Product,0,118000.0,105000.0
+11.12.2019 11:30:23,30.0,Male,Gothenburg,Senior,Backend Developer,8,Elixir,English,10-50,Product,Entertainment,0.0,40146.0
+11.12.2019 11:35:29,33.0,Male,Zurich,Senior,Backend Developer,6,PHP,English,50-100,Product,0,0.0,90000.0
+11.12.2019 11:53:22,31.0,Female,Amsterdam,Senior,QA,5,Javascript / Typescript,English,100-1000,Product,Media,55800.0,67000.0
+11.12.2019 11:56:43,30.0,Male,Amsterdam,Middle,Backend Developer,10,Java,English,50-100,Product,Transport,72000.0,80000.0
+11.12.2019 12:15:48,31.0,Male,Munich,Lead,Machine Learning Engineer,9,Python,Deutsch,100-1000,Startup,Transport,129000.0,153000.0
+11.12.2019 12:15:52,30.0,Female,Berlin,Senior,Business Analyst,6,Python,English,1000+,Product,Сommerce,57000.0,63000.0
+11.12.2019 12:16:57,29.0,Male,Berlin,Senior,Data Scientist,7,Python,English,1000+,Product,Сommerce,0.0,117000.0
+11.12.2019 12:18:56,31.0,Male,Frankfurt,Middle,Backend Developer,7,Java,English,1000+,Product,Scientific Activities,70200.0,74200.0
+11.12.2019 12:29:58,29.0,Male,Amsterdam,Senior,Backend Developer,8,Java,English,1000+,Product,IT,98000.0,86000.0
+11.12.2019 12:33:32,30.0,Male,Munich,Senior,Cloud Platform Engineer,15,Google Cloud,English,1000+,0,0,135000.0,177000.0
+11.12.2019 12:54:34,24.0,Female,Warsaw,Junior,other,1,Python,Polish,1000+,Bank,Finance / Insurance,0.0,48000.0
+11.12.2019 13:07:34,37.0,Male,Almere,Senior,"CTO (CEO, CFO)",10,C/C++,English,10-50,Product,0,0.0,62016.0
+11.12.2019 13:21:41,26.0,Male,Limassol,Senior,QA,7,Not Relevant,Russian,50-100,Product,Finance / Insurance,50000.0,63600.0
+11.12.2019 13:31:46,23.0,Male,Moscow,Middle,Backend Developer,3,Erlang,Russian,100-1000,Product,Finance / Insurance,0.0,36819.0
+11.12.2019 14:20:02,30.0,Male,Vienna,Junior,Frontend Developer,2,Javascript / Typescript,English,up to 10,Startup,HR,25200.0,21600.0
+11.12.2019 14:36:31,34.0,Male,Berlin,Senior,Manager,2,Not Relevant,Deutsch,50-100,Product,Сommerce,66000.0,63600.0
+11.12.2019 14:47:42,35.0,Female,Hamburg,Middle,Data Scientist,3,Python,Deutsch,100-1000,Consulting / Agency,0,0.0,49000.0
+11.12.2019 14:52:35,33.0,Male,Munich,Senior,Frontend Developer,5,Javascript / Typescript,English,50-100,Startup,Сommerce,72000.0,78000.0
+11.12.2019 16:04:31,0.0,Female,Zurich,Middle,Machine Learning Engineer,8,Java,English,1000+,Product,Сommerce,0.0,120000.0
+11.12.2019 16:12:21,29.0,Male,Stockholm,Senior,Backend Developer,6,C/C++,English,1000+,Product,Finance / Insurance,0.0,69000.0
+11.12.2019 16:46:23,23.0,Male,Tampere,Junior,Frontend Developer,1,Swift,English,0,0,0,0.0,36001.0
+11.12.2019 17:05:12,39.0,Male,Amsterdam,Senior,Mobile Developer,16,Swift,English,50-100,Product,Finance / Insurance,64800.0,65000.0
+11.12.2019 17:18:28,24.0,Female,Cologne,Junior,Data Scientist,1,Python,English,up to 10,Consulting / Agency,0,0.0,49000.0
+11.12.2019 18:26:10,30.0,Male,Munich,Senior,Backend Developer,9,Java,Deutsch,100-1000,Consulting / Agency,Manufacture,119000.0,126000.0
+11.12.2019 18:31:22,28.0,Male,Frankfurt,Senior,Data Scientist,6,R,Deutsch,100-1000,Startup,Finance / Insurance,85000.0,98000.0
+11.12.2019 19:46:49,35.0,Male,Berlin,Senior,Backend Developer,10,Javascript / Typescript,English,100-1000,Product,Transport,84000.0,78000.0
+11.12.2019 19:50:15,32.0,Male,Munich,Middle,Frontend Developer,3,Javascript / Typescript,English,1000+,Product,Сommerce,0.0,55000.0
+11.12.2019 20:15:15,40.0,Male,Munich,Senior,Fullstack Developer,15,Java,Deutsch,up to 10,Consulting / Agency,Manufacture,130000.0,160000.0
+11.12.2019 21:48:20,38.0,Male,Berlin,Middle,DevOps,15,Python,English,100-1000,Product,Telecom,100000.0,52000.0
+11.12.2019 22:43:50,33.0,Male,Amsterdam,Senior,Manager,15,Not Relevant,English,1000+,Consulting / Agency,Software Development,85000.0,85000.0
+11.12.2019 22:58:51,0.0,Female,Bayern,Senior,DevOps,19,.NET,Deutsch,100-1000,Product,Manufacture,92000.0,100000.0
+12.12.2019 00:07:19,25.0,Male,Amsterdam,Junior,Backend Developer,2,Kotlin,English,1000+,Bank,Finance / Insurance,50000.0,52500.0
+12.12.2019 00:19:49,33.0,Male,Munich,Senior,Backend Developer,11,Java,English,100-1000,Product,Сommerce,68000.0,73000.0
+12.12.2019 06:58:50,0.0,Male,Munich,Senior,Software Architect,13,Java,Deutsch,50-100,Startup,Finance / Insurance,112000.0,117000.0
+12.12.2019 09:05:21,40.0,Male,Munich,Junior,QA,3,Java,Deutsch,100-1000,Consulting / Agency,IT,3.0,52001.0
+12.12.2019 09:25:03,35.0,Male,Munich,Senior,Software Architect,11,AWS,English,1000+,Product,IT,87000.0,135000.0
+12.12.2019 09:26:15,41.0,Male,Munich,Senior,Backend Developer,20,Java,English,1000+,Product,Finance / Insurance,81000.0,78300.0
+12.12.2019 12:05:57,31.0,Male,Düsseldorf,Senior,Backend Developer,11,Python,English,1000+,Product,IT,98000.0,93900.0
+12.12.2019 12:34:51,34.0,Female,Kyiv,Senior,Researcher,13,C/C++,English,100-1000,University,Education,0.0,38400.0
+12.12.2019 15:08:00,0.0,Male,Amsterdam,Junior,Fullstack Developer,1,C/C++,English,up to 10,Startup,Finance / Insurance,0.0,39600.0
+12.12.2019 15:11:22,45.0,Female,Munich,Senior,Backend Developer,20,C/C++,Deutsch,100-1000,Product,Telecom,240000.0,220000.1
+12.12.2019 15:51:07,37.0,Male,Berlin,Middle,Backend Developer,3,Ruby,English,50-100,Startup,Сommerce,54002.0,54001.0
+12.12.2019 17:59:24,31.0,Male,Berlin,Senior,Data Scientist,8,Python,English,1000+,Product,Сommerce,112000.0,115000.0
+12.12.2019 18:23:53,33.0,Male,Munich,Senior,Backend Developer,8,Java,English,100-1000,Product,Сommerce,0.0,75000.0
+12.12.2019 19:44:49,34.0,Male,Munich,Senior,Manager,13,Java,Deutsch,100-1000,Product,Manufacture,236000.0,180000.0
+12.12.2019 20:42:46,42.0,Male,Munich,Senior,Fullstack Developer,20,.NET,Deutsch,up to 10,Product,Сommerce,66000.0,64000.0
+13.12.2019 07:38:58,25.0,Male,Berlin,Middle,Fullstack Developer,3,PHP,Deutsch,10-50,Startup,Education,27500.0,30000.0
+13.12.2019 11:08:41,0.0,Male,Berlin,Senior,Fullstack Developer,9,AWS,English,1000+,Product,0,0.0,120000.0
+13.12.2019 13:06:00,35.0,Male,Munich,Middle,other,5,Not Relevant,English,100-1000,Product,Tourism,0.0,63000.0
+13.12.2019 13:18:15,30.0,Male,Frankfurt,Senior,Fullstack Developer,9,Python,Deutsch,100-1000,Product,Finance / Insurance,114000.0,107000.0
+13.12.2019 14:15:46,33.0,Male,Amsterdam,Senior,other,13,Python,English,50-100,Startup,Security,85000.0,90000.0
+13.12.2019 14:20:55,33.0,Female,Munich,Middle,Manager,5,Not Relevant,English,50-100,Startup,Сommerce,50000.0,55000.0
+13.12.2019 14:30:35,26.0,Male,Berlin,Junior,Researcher,2,0,English,1000+,Product,Transport,44002.0,48002.0
+13.12.2019 14:45:27,32.0,Male,Berlin,Senior,Manager,10,Go,English,100-1000,Product,0,88000.0,88000.0
+13.12.2019 16:05:06,30.0,Male,Munich,Middle,Data Scientist,2,Python,Deutsch,1000+,Product,Telecom,73000.0,68500.0
+13.12.2019 18:50:38,33.0,Male,Munich,Lead,Machine Learning Engineer,12,Python,Deutsch,100-1000,Startup,Transport,160000.0,163000.0
+13.12.2019 19:03:38,34.0,Male,Berlin,Senior,Cloud Platform Engineer,13,Azure,Deutsch,1000+,Consulting / Agency,IT,0.0,72000.0
+13.12.2019 22:08:36,52.0,Male,Cologne,Senior,Network Engineer,30,Cisco,Deutsch,1000+,Consulting / Agency,IT,84000.0,92000.0
+14.12.2019 10:37:19,31.0,Male,Berlin,Senior,Data Engineer,10,Python,English,1000+,Product,Сommerce,0.0,155000.0
+14.12.2019 11:06:16,28.0,Male,Berlin,Senior,Backend Developer,7,C/C++,English,1000+,Product,Transport,0.0,84000.0
+14.12.2019 11:24:26,35.0,Male,Munich,Senior,other,11,Unity,English,10-50,Startup,Health,60000.0,65000.0
+14.12.2019 12:00:48,29.0,Male,Berlin,Senior,Fullstack Developer,4,Java,English,100-1000,Product,Сommerce,0.0,61000.0
+14.12.2019 14:26:02,37.0,Male,Amsterdam,0,SAP Consultant,13,Not Relevant,English,100-1000,0,0,0.0,121300.0
+14.12.2019 15:28:40,34.0,Male,Frankfurt,Middle,Data Engineer,4,.NET,Deutsch,10-50,Product,Finance / Insurance,0.0,120000.0
+14.12.2019 15:53:27,45.0,Male,Munich,Senior,Backend Developer,19,PHP,Deutsch,100-1000,Product,Health,69000.0,73000.0
+14.12.2019 20:36:15,31.0,Female,Berlin,Senior,Backend Developer,5,Java,English,100-1000,Product,Сommerce,60000.0,75000.0
+14.12.2019 21:24:25,32.0,Male,Frankfurt,Middle,Machine Learning Engineer,2,Python,Deutsch,1000+,Consulting / Agency,Finance / Insurance,66000.0,75001.0
+15.12.2019 01:38:32,32.0,Male,Berlin,Senior,Fullstack Developer,10,Javascript / Typescript,English,10-50,Startup,Finance / Insurance,75000.0,75000.0
+15.12.2019 10:21:19,0.0,Male,Munich,Senior,Fullstack Developer,9,Java,Deutsch,100-1000,Consulting / Agency,IT,63000.0,65000.0
+15.12.2019 12:42:42,29.0,Male,Rotterdam,Middle,Data Scientist,1,Python,English,10-50,Consulting / Agency,0,0.0,44500.0
+15.12.2019 13:10:22,41.0,Male,Berlin,Senior,Data Engineer,25,Python,English,50-100,Startup,Finance / Insurance,72000.0,72000.0
+15.12.2019 16:30:41,36.0,Male,Antwerpen,Middle,Manager,15,Not Relevant,English,100-1000,Bodyshop / Outsource,0,36000.0,36000.0
+15.12.2019 17:03:57,42.0,Male,Tallinn,Senior,Backend Developer,19,Java,English,100-1000,Product,Сommerce,0.0,93000.0
+15.12.2019 17:05:27,41.0,Male,Amsterdam,Senior,Backend Developer,17,Java,English,100-1000,Startup,Finance / Insurance,0.0,75000.0
+15.12.2019 20:07:49,33.0,Male,Berlin,Senior,Backend Developer,11,Go,English,100-1000,Product,Catering,65000.0,82500.0
+15.12.2019 21:17:42,38.0,Male,Berlin,Senior,Mobile Developer,11,Kotlin,English,50-100,Startup,Finance / Insurance,75000.0,87000.0
+15.12.2019 21:25:51,33.0,Female,Munich,Junior,Data Scientist,3,Python,Deutsch,1000+,Product,Telecom,60000.0,60000.0
+15.12.2019 21:27:56,35.0,Male,Munich,Senior,Embedded Developer,13,C/C++,English,50-100,Consulting / Agency,Transport,60002.0,91001.0
+15.12.2019 22:26:11,30.0,Male,Berlin,Middle,Support,2,Python,English,100-1000,Product,Advertising,42000.0,60000.0
+15.12.2019 22:27:55,41.0,Female,Munich,Senior,Manager,18,Not Relevant,Deutsch,1000+,Product,Finance / Insurance,90002.0,110550.0
+15.12.2019 23:00:50,30.0,Male,Berlin,Senior,Backend Developer,10,PHP,English,100-1000,Product,Сommerce,75000.0,78000.0
+15.12.2019 23:39:56,33.0,Male,Munich,Senior,Software Engineer,15,Python,English,100-1000,Product,Сommerce,0.0,76000.0
+16.12.2019 00:46:07,0.0,Male,Düsseldorf,Senior,SRE,7,Go,English,1000+,Product,Tourism,56000.0,56000.0
+16.12.2019 11:45:25,27.0,Male,Berlin,Senior,Fullstack Developer,11,Not Relevant,English,1000+,Startup,Software Development,76000.0,84000.0
+16.12.2019 13:54:21,28.0,Male,Munich,Junior,Data Scientist,2,Python,Deutsch,10-50,Consulting / Agency,IT,53000.0,58000.0
+16.12.2019 15:16:40,28.0,Male,Berlin,Junior,Data Scientist,2,Python,English,10-50,Startup,Finance / Insurance,0.0,76000.0
+16.12.2019 15:52:58,28.0,Male,Amsterdam,Senior,QA,6,Javascript / Typescript,English,100-1000,Product,0,0.0,70000.0
+16.12.2019 17:15:07,29.0,Male,Amsterdam,Middle,Backend Developer,9,AWS,English,100-1000,Product,0,0.0,70000.0
+16.12.2019 23:23:11,22.0,Male,Kyiv,Junior,Data Scientist,1,Python,Ukrainian,50-100,Product,Сommerce,0.0,21600.0
+17.12.2019 00:06:19,26.0,Male,Munich,Middle,Backend Developer,6,Javascript / Typescript,Deutsch,50-100,Consulting / Agency,Finance / Insurance,45000.0,62000.0
+17.12.2019 10:35:09,40.0,Male,Munich,Senior,Software Architect,22,Java,Deutsch,100-1000,Product,Telecom,89000.0,95000.0
+17.12.2019 14:26:21,34.0,Male,Munich,Senior,Backend Developer,15,PHP,English,1000+,Product,Transport,88000.0,86000.0
+17.12.2019 16:01:15,25.0,Female,Berlin,Senior,Fullstack Developer,6,.NET,English,100-1000,Product,Advertising,54000.0,54000.0
+17.12.2019 17:04:40,29.0,Female,Berlin,Middle,Backend Developer,3,Java,English,100-1000,Product,Software Development,40000.0,51400.0
+17.12.2019 17:06:05,40.0,Male,Nuremberg,Junior,Backend Developer,1,PHP,English,50-100,Startup,IoT,0.0,48000.0
+17.12.2019 19:49:57,33.0,Male,Munich,Senior,Backend Developer,12,.NET,English,50-100,Product,Manufacture,0.0,67000.0
+17.12.2019 22:38:18,32.0,Male,Amsterdam,Middle,Backend Developer,5,C/C++,English,50-100,Product,Scientific Activities,0.0,61500.0
+18.12.2019 00:12:31,33.0,Female,Berlin,Senior,Backend Developer,6,PHP,English,100-1000,Product,Сommerce,48000.0,62000.0
+18.12.2019 12:35:23,0.0,Male,Berlin,Middle,Backend Developer,5,Java,English,1000+,Product,Сommerce,0.0,60000.0
+18.12.2019 20:46:38,40.0,Male,Munich,Senior,Manager,16,Not Relevant,English,100-1000,Product,Automotive,92000.0,120000.0
+19.12.2019 09:06:10,23.0,Male,Berlin,Middle,Backend Developer,4,Javascript / Typescript,English,100-1000,Startup,Finance / Insurance,0.0,58000.0
+19.12.2019 10:53:57,28.0,Male,Koblenz,Junior,Frontend Developer,2,Javascript / Typescript,Deutsch,1000+,Product,Health,0.0,48000.0
+19.12.2019 11:38:19,28.0,Male,Würzburg ,Middle,Fullstack Developer,6,Javascript / Typescript,Deutsch,10-50,Startup,Сommerce,60000.0,72000.0
+19.12.2019 16:57:32,29.0,Male,Berlin,Middle,QA,5,Javascript / Typescript,English,1000+,Startup,0,0.0,59000.0
+19.12.2019 19:25:55,28.0,Male,Berlin,Senior,Backend Developer,7,Kotlin,English,1000+,Product,Сommerce,70000.0,73000.0
+19.12.2019 20:59:23,30.0,Female,Amsterdam,Senior,Manager,8,HR,English,1000+,Bodyshop / Outsource,0,0.0,75000.0
+20.12.2019 08:49:04,25.0,Male,Amsterdam,Middle,other,7,Java,English,1000+,Product,Tourism,0.0,89000.0
+20.12.2019 10:44:50,39.0,Male,Amsterdam,Senior,Mobile Developer,15,Swift,English,50-100,Product,Finance / Insurance,64800.0,65000.0
+20.12.2019 10:44:56,33.0,Male,Munich,Senior,DevOps,10,AWS,English,1000+,Product,Manufacture,80000.0,96000.0
+20.12.2019 10:46:15,43.0,Male,Hamburg,Middle,other,20,Not Relevant,English,100-1000,Startup,Software development,0.0,66000.0
+20.12.2019 10:47:04,28.0,Male,Amsterdam,Middle,QA,2,Kotlin,English,50-100,Product,Transport,0.0,45000.0
+20.12.2019 10:48:31,30.0,Male,Amsterdam,Senior,Frontend Developer,12,Javascript / Typescript,English,100-1000,Startup,Tourism,60400.0,77700.0
+20.12.2019 10:49:14,37.0,Male,Amsterdam,Senior,DevOps,15,Not Relevant,English,1000+,Product,Tourism,80000.0,80000.0
+20.12.2019 10:50:51,35.0,Male,Berlin,Senior,SRE,13,Kubernetes,English,50-100,Product,0,69000.0,85000.0
+20.12.2019 10:53:07,30.0,Male,Zurich,Middle,SRE,6,Python,English,1000+,Product,0,0.0,270000.0
+20.12.2019 10:55:41,35.0,Male,Amsterdam,Senior,Backend Developer,15,C/C++,English,up to 10,Product,Manufacture,80000.0,82500.0
+20.12.2019 10:57:14,30.0,Male,Bremen,Junior,Backend Developer,2,Python,Deutsch,10-50,Product,Manufacture,60600.0,56300.0
+20.12.2019 11:01:59,31.0,Male,Munich,Senior,Mobile Developer,5,Kotlin,English,50-100,Product,Tourism,80000.0,60000.0
+20.12.2019 11:03:46,33.0,Male,Munich,Junior,Backend Developer,2,Java,English,1000+,Product,Internet portal,0.0,52000.0
+20.12.2019 11:10:20,24.0,Male,Amsterdam,Senior,Data Engineer,5,Scala,English,100-1000,Bodyshop / Outsource,Сommerce,0.0,65000.0
+20.12.2019 11:17:22,36.0,Male,Berlin,Senior,Backend Developer,15,.NET,English,100-1000,Product,Transport,58000.0,62000.0
+20.12.2019 11:23:58,29.0,Male,Berlin,Middle,Frontend Developer,3,Javascript / Typescript,English,100-1000,Product,0,55000.0,70000.0
+20.12.2019 11:25:53,30.0,Male,Amsterdam,Senior,Mobile Developer,6,Kotlin,English,1000+,Product,Finance / Insurance,78000.0,81000.0
+20.12.2019 11:29:48,26.0,Male,Amsterdam,Junior,Data Engineer,1,Python,English,10-50,Consulting / Agency,Manufacture,0.0,52000.0
+20.12.2019 11:32:37,31.0,Male,Berlin,Senior,other,8,K8S,English,50-100,Startup,Finance / Insurance,0.0,85000.0
+20.12.2019 11:39:48,27.0,Male,Hamburg,Middle,Backend Developer,3,Scala,English,100-1000,Product,Tourism,0.0,57000.0
+20.12.2019 12:08:31,28.0,Male,Lausanne,Junior,Researcher,7,C/C++,English,100-1000,University,Scientific Activities,50000.0,50800.0
+20.12.2019 12:19:15,26.0,Male,Hamburg,Middle,Frontend Developer,5,Javascript / Typescript,English,100-1000,Product,Сommerce,41000.0,41160.0
+20.12.2019 12:27:20,24.0,Male,Saint Petersburg,Middle,Fullstack Developer,5,.NET,Russian,100-1000,Bodyshop / Outsource,Health,0.0,34300.0
+20.12.2019 12:31:00,0.0,Male,Berlin,Middle,Backend Developer,8,Javascript / Typescript,Deutsch,50-100,Product,Сommerce,55000.0,55000.0
+20.12.2019 12:31:07,40.0,Male,Berlin,Middle,Backend Developer,6,Java,English,1000+,Product,0,0.0,60000.0
+20.12.2019 12:36:58,30.0,Male,Berlin,Senior,Mobile Developer,8,Swift,English,100-1000,Product,Transport,0.0,55000.0
+20.12.2019 12:40:50,30.0,Male,Amsterdam,Senior,SRE,8,Kotlin,English,1000+,Product,Сommerce,112000.0,157685.0
+20.12.2019 12:49:49,25.0,Male,Berlin,Lead,Backend Developer,6,Go,English,100-1000,Product,Real Estate,0.0,75000.0
+20.12.2019 13:24:32,0.0,Male,Berlin,Senior,Mobile Developer,7,Objective-C,English,50-100,Product,Сommerce,60000.0,60000.0
+20.12.2019 14:23:44,42.0,Male,Berlin,Senior,DevOps,18,AWS,English,50-100,Product,Сommerce,0.0,72000.0
+20.12.2019 16:58:52,45.0,Male,Berlin,Senior,Fullstack Developer,25,.NET,Deutsch,50-100,Product,Сommerce,70000.0,70000.0
+20.12.2019 17:16:52,39.0,Male,Berlin,Senior,other,10,Not Relevant,English,1000+,Product,Scientific Activities,97000.0,92000.0
+20.12.2019 17:19:31,26.0,Male,Berlin,Middle,Fullstack Developer,4,Python,English,100-1000,Startup,Finance / Insurance,58000.0,77500.0
+20.12.2019 17:56:21,30.0,Male,Berlin,Senior,SRE,11,Kubernetes,English,1000+,Product,Сommerce,96000.0,146800.0
+20.12.2019 18:00:16,35.0,Male,Munich,Middle,Frontend Developer,2,Javascript / Typescript,English,10-50,Consulting / Agency,Сommerce,0.0,60000.0
+20.12.2019 18:01:49,27.0,Male,Heidelberg,Junior,Fullstack Developer,1,Java,English,1000+,University,Health,0.0,46200.0
+20.12.2019 18:05:21,31.0,Male,Berlin,Middle,Fullstack Developer,10,Javascript / Typescript,English,100-1000,Product,Dating,65000.0,65000.0
+20.12.2019 18:13:59,36.0,Male,Munich,Senior,"CTO (CEO, CFO)",10,Java,English,100-1000,Startup,Data Processing,79000.0,93000.0
+20.12.2019 19:05:13,45.0,Male,Munich,Senior,other,4,Not Relevant,English,100-1000,Product,Transport,0.0,80000.0
+20.12.2019 19:39:55,32.0,Male,Berlin,Senior,Backend Developer,10,Java,English,100-1000,Startup,Tourism,75000.0,81000.0
+20.12.2019 20:43:43,37.0,Male,Stockholm,Senior,Database Developer (DBA),15,SQL,English,50-100,Product,IT,57000.0,60000.0
+20.12.2019 21:01:51,0.0,Male,Berlin,Senior,Manager,12,Not Relevant,English,100-1000,Startup,Tourism,70000.0,70000.0
+20.12.2019 21:04:36,0.0,Female,Berlin,Middle,Backend Developer,7,Java,English,1000+,Product,Сommerce,80000.0,81000.0
+20.12.2019 22:00:12,28.0,Male,Berlin,Middle,Data Engineer,3,SQL,English,100-1000,Product,Tourism,0.0,62000.0
+20.12.2019 22:56:06,31.0,Male,Düsseldorf,Middle,Business Analyst,5,Not Relevant,English,1000+,Consulting / Agency,Consulting,65000.0,58000.0
+21.12.2019 08:11:37,34.0,Female,Berlin,Middle,Backend Developer,5,Kotlin,English,100-1000,Product,Real Estate,55000.0,60000.0
+21.12.2019 08:53:13,24.0,Male,Berlin,Middle,Backend Developer,3,PHP,English,100-1000,Startup,Transport,0.0,50000.0
+21.12.2019 11:30:07,45.0,Male,Munich,Senior,Data Engineer,18,Not Relevant,English,1000+,Product,Finance / Insurance,91100.0,90700.0
+21.12.2019 11:42:15,37.0,Male,Berlin,Lead,Backend Developer,17,Python,English,1000+,Product,"Mapping, Navigation",93000.0,85000.0
+21.12.2019 12:17:26,35.0,Female,Berlin,Middle,QA,3,Java,English,100-1000,Product,Сommerce,37000.0,40000.0
+21.12.2019 15:01:03,28.0,Female,Berlin,Senior,Mobile Developer,7,Kotlin,English,100-1000,Product,Сommerce,60000.0,65000.0
+21.12.2019 16:25:18,21.0,Male,Nizhny Novgorod ,Junior,Mobile Developer,1,Kotlin,Russian,50-100,Outsource,Media,0.0,6000.0
+22.12.2019 00:12:10,33.0,Male,Berlin,Senior,Fullstack Developer,10,Javascript / Typescript,English,50-100,Product,IoT,83000.0,89000.0
+22.12.2019 13:00:48,32.0,Female,Stuttgart,Middle,Manager,3,Not Relevant,English,10-50,Product,Finance / Insurance,42000.0,51000.0
+22.12.2019 13:11:06,27.0,Male,Berlin,Senior,Backend Developer,8,Rust,English,50-100,Startup,Blockchain,65000.0,82000.0
+22.12.2019 14:15:36,32.0,Female,Berlin,Middle,Backend Developer,3,Java,English,100-1000,Product,Analytics ,0.0,54000.0
+22.12.2019 22:43:09,32.0,Male,Berlin,Senior,Data Scientist,10,Python,English,1000+,Product,Сommerce,126000.0,125000.0
+23.12.2019 12:04:48,26.0,Male,Kyiv,Senior,Mobile Developer,5,Kotlin,English,50-100,Product,Gaming,29500.0,34000.0
+23.12.2019 13:10:31,29.0,Female,Berlin,Middle,Backend Developer,6,Java,English,100-1000,Product,Transport,0.0,52000.0
+24.12.2019 21:03:43,24.0,Male,Munich,Senior,other,10,Go,English,1000+,Product,Сommerce,0.0,210000.0
+24.12.2019 22:33:22,33.0,Male,Amsterdam,Middle,Manager,8,Not Relevant,English,1000+,Product,Finance / Insurance,0.0,82000.0
+25.12.2019 01:26:40,44.0,Male,Munich,Senior,DevOps,22,0,English,1000+,Product,0,117000.0,110000.0
+25.12.2019 08:06:18,28.0,Male,Moscow,Lead,Fullstack Developer,6,PHP,Russian,100-1000,Product,End-to-end analytics,22730.0,27977.0
+25.12.2019 09:23:57,21.0,Male,Saint-Petersburg ,Middle,Backend Developer,1,Java,Russian,1000+,Bodyshop / Outsource,0,0.0,15600.0
+25.12.2019 15:32:10,25.0,Male,Amsterdam,Senior,Backend Developer,6,Javascript / Typescript,English,100-1000,Product,OTT,60000.0,80000.0
+25.12.2019 18:04:05,33.0,Male,Rotterdam,Senior,QA,11,Java,English,100-1000,Product,IT,59000.0,70000.0
+25.12.2019 19:29:08,30.0,Male,Minsk,Senior,QA,9,Ruby,Russian,100-1000,Product,Сommerce,51000.0,54500.0
+25.12.2019 23:02:59,37.0,Male,Frankfurt,Junior,Embedded Developer,2,C/C++,English,100-1000,Product,embedded,42000.0,45000.0
+26.12.2019 00:57:58,32.0,Male,Munich,Senior,Business Analyst,9,Java,English,100-1000,Product,Finance / Insurance,0.0,70800.0
+26.12.2019 16:13:48,31.0,Male,Hamburg,Middle,Backend Developer,11,Java,Deutsch,100-1000,Product,Media,58000.0,65000.0
+27.12.2019 23:28:46,38.0,Male,Amsterdam,Senior,DevOps,5,Not Relevant,English,100-1000,Product,Finance / Insurance,0.0,100000.0
+27.12.2019 23:30:23,30.0,Male,Berlin,0,Manager,10,Java,English,1000+,Product,0,0.0,83000.0
+28.12.2019 06:39:31,50.0,Male,Frankfurt,Senior,Manager,28,Not Relevant,English,1000+,Consulting / Agency,Finance / Insurance,0.0,110000.0
+28.12.2019 06:39:36,50.0,Male,Frankfurt,Senior,Manager,28,Not Relevant,English,1000+,Consulting / Agency,Finance / Insurance,0.0,110000.0
+28.12.2019 10:18:58,33.0,Male,Amsterdam,Middle,Fullstack Developer,4,Go,English,100-1000,Product,Telecom,0.0,62000.0
+28.12.2019 22:31:55,36.0,Male,Munich,Middle,DevOps,4,AWS,English,10-50,Product,FinTech,60000.0,60000.0
+28.12.2019 23:09:36,28.0,Male,Munich,Senior,Frontend Developer,10,Javascript / Typescript,English,1000+,Product,0,0.0,95000.0
+29.12.2019 01:56:56,33.0,Male,Amsterdam,Middle,Researcher,8,Not Relevant,English,1000+,University,Scientific Activities,60000.0,55000.0
+29.12.2019 16:04:33,44.0,Female,Munich,Middle,SAP Consultant,6,ABAP,Deutsch,10-50,Consulting / Agency,Consulting,68000.0,68000.0
+30.12.2019 08:48:42,35.0,Male,Nuremberg,Middle,Fullstack Developer,9,.NET,Deutsch,50-100,Consulting / Agency,Food Retail,65000.0,72000.0
+30.12.2019 11:46:26,35.0,Male,Amsterdam,Senior,DevOps,12,Azure,English,50-100,Consulting / Agency,Finance / Insurance,0.0,76224.0
+31.12.2019 19:58:17,36.0,Male,Berlin,Senior,Mobile Developer,14,Kotlin,English,100-1000,Product,Transport,83000.0,86000.0
+01.01.2020 16:52:48,0.0,Male,Berlin,Senior,Backend Developer,7,Java,Deutsch,100-1000,Consulting / Agency,IT,68000.0,70000.0
+02.01.2020 08:48:00,34.0,Male,Cologne,Senior,other,13,C/C++,English,50-100,Product,Manufacture,57000.0,70000.0
+02.01.2020 14:56:25,29.0,Male,Berlin,Middle,QA,7,Not Relevant,English,100-1000,Consulting / Agency,0,0.0,45000.0
+02.01.2020 20:21:33,33.0,Female,Berlin,Junior,Business Analyst,1,PostgreSQL,English,1000+,Startup,Finance / Insurance,0.0,32000.0
+03.01.2020 09:54:07,31.0,Male,Munich,0,DevOps,8,AWS,English,0,0,0,0.0,80000.0
+03.01.2020 11:40:59,37.0,Male,Utrecht,Middle,Manager,17,Java,English,100-1000,Product,Finance / Insurance,71000.0,71000.0
+03.01.2020 15:01:40,26.0,Female,Amsterdam,Middle,Backend Developer,4,Java,English,1000+,Bank,Finance / Insurance,0.0,52800.0
+03.01.2020 19:02:44,33.0,Male,Amsterdam,Senior,Frontend Developer,10,Javascript / Typescript,English,1000+,Product,Сommerce,0.0,137000.0
+04.01.2020 14:45:55,28.0,Male,Moscow,Lead,Frontend Developer,5,Javascript / Typescript,Russian,100-1000,Product,Security,49600.0,64000.0
+04.01.2020 15:50:54,27.0,Male,Berlin,Senior,Data Scientist,5,SAS,English,1000+,Consulting / Agency,Health,71100.0,74800.0
+04.01.2020 16:02:23,30.0,Male,Amsterdam,Senior,Data Engineer,14,Not Relevant,English,1000+,Startup,Scientific Activities,109000.0,131000.0
+06.01.2020 09:57:49,46.0,Male,Munich,Lead,SRE,20,Openstack,English,1000+,Product,Transport,0.0,76300.0
+06.01.2020 12:49:44,41.0,Male,Munich,Senior,Backend Developer,19,.NET,English,1000+,Product,Scientific Activities,0.0,81252.0
+06.01.2020 12:53:12,41.0,Male,Kiev,Senior,Backend Developer,19,.NET,Russian,50-100,Product,CRM systems integration,39000.0,45000.0
+06.01.2020 13:15:50,32.0,Female,Amsterdam,Senior,Business Analyst,7,Not Relevant,English,1000+,Product,Health,0.0,74900.0
+07.01.2020 09:23:01,30.0,Male,Amsterdam,Senior,Backend Developer,10,Python,English,1000+,Product,Telecom,70000.0,74000.0
+07.01.2020 10:08:18,28.0,Male,Amsterdam,Senior,other,7,Not Relevant,English,1000+,Bank,Finance / Insurance,67000.0,72000.0
+07.01.2020 16:52:43,42.0,Male,Munich,Senior,Manager,9,Not Relevant,English,1000+,Product,Сommerce,85000.0,78000.0
+08.01.2020 11:18:41,33.0,Male,Berlin,Senior,Software Architect,15,Javascript / Typescript,English,1000+,Product,Health,103000.0,103000.0
+08.01.2020 22:20:08,32.0,Male,Frankfurt,Middle,Fullstack Developer,5,Java,Deutsch,1000+,Consulting / Agency,Transport,0.0,63000.0
